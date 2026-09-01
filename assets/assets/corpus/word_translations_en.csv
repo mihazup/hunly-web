@@ -1,0 +1,2483 @@
+lemma,translation,language,is_primary,provenance
+to be,biti,hr,1,llm_only
+yes,da,hr,1,llm_only
+oneself,sebe,hr,1,llm_only
+that,onaj,hr,1,llm_only
+that,ono,hr,0,llm_only
+that,taj,hr,0,llm_only
+no,ne,hr,1,llm_only
+and,i,hr,1,llm_only
+and,te,hr,0,llm_only
+to want,htjeti,hr,1,llm_only
+you,ti,hr,1,llm_only
+you,vi,hr,0,llm_only
+alone,sam,hr,1,llm_only
+what,što,hr,1,llm_only
+he,on,hr,1,llm_only
+I,ja,hr,1,llm_only
+we,mi,hr,1,llm_only
+on,na,hr,1,llm_only
+to be able to,moći,hr,1,llm_only
+for,za,hr,1,llm_only
+question particle,li,hr,1,llm_only
+to know,poznavati,hr,1,llm_only
+to know,znati,hr,0,llm_only
+this,ovaj,hr,1,llm_only
+to have,imati,hr,1,llm_only
+but,ali,hr,1,llm_only
+whole,cijel,hr,1,llm_only
+whole,sav,hr,0,llm_only
+which,koji,hr,1,llm_only
+to say,kazati,hr,1,llm_only
+to say,reći,hr,0,llm_only
+to think,misliti,hr,1,llm_only
+to think,razmišljati,hr,0,llm_only
+my,moj,hr,1,llm_only
+well,dobro,hr,1,llm_only
+well,pa,hr,0,llm_only
+well,zdenac,hr,0,llm_only
+only,samo,hr,1,llm_only
+from,iz,hr,1,llm_only
+from,od,hr,0,llm_only
+to have to,morati,hr,1,llm_only
+they,oni,hr,1,llm_only
+how,kako,hr,1,llm_only
+to wish,željeti,hr,1,llm_only
+to see,vidjeti,hr,1,llm_only
+to need,trebati,hr,1,llm_only
+if,ako,hr,1,llm_only
+to go,ići,hr,1,llm_only
+as,kao,hr,1,llm_only
+to work,raditi,hr,1,llm_only
+so,tako,hr,1,llm_only
+here,evo,hr,1,llm_only
+here,ovdje,hr,0,llm_only
+here,tu,hr,0,llm_only
+one's own,svoj,hr,1,llm_only
+person,čovjek,hr,1,llm_only
+person,osoba,hr,0,llm_only
+a lot,mnogo,hr,1,llm_only
+a lot,puno,hr,0,llm_only
+your,tvoj,hr,1,llm_only
+your,vaš,hr,0,llm_only
+why,zašto,hr,1,llm_only
+order; row,red,hr,1,llm_only
+to not have,nemati,hr,1,llm_only
+one,jedan,hr,1,llm_only
+something,nešto,hr,1,llm_only
+still,ipak,hr,1,llm_only
+still,još,hr,0,llm_only
+when,kad,hr,1,llm_only
+who,tko,hr,1,llm_only
+to come,doći,hr,1,llm_only
+to come,dolaziti,hr,0,llm_only
+thank you,hvala,hr,1,llm_only
+good,dobar,hr,1,llm_only
+or,ili,hr,1,llm_only
+to give,dati,hr,1,llm_only
+to give,davati,hr,0,llm_only
+maybe,možda,hr,1,llm_only
+where,gdje,hr,1,llm_only
+a little,malo,hr,1,llm_only
+then,onda,hr,1,llm_only
+then,tada,hr,0,llm_only
+then,zatim,hr,0,llm_only
+some,neki,hr,1,llm_only
+second,drugi,hr,1,llm_only
+second,sekunda,hr,0,llm_only
+day,dan,hr,1,llm_only
+thing,stvar,hr,1,llm_only
+time; weather,vrijeme,hr,1,llm_only
+nothing,ništa,hr,1,llm_only
+until,do,hr,1,llm_only
+to love,voljeti,hr,1,llm_only
+really?,zar,hr,1,llm_only
+our,naš,hr,1,llm_only
+to ask,moliti,hr,1,llm_only
+to ask,pitati,hr,0,llm_only
+bathtub,kada,hr,1,llm_only
+year,godina,hr,1,llm_only
+way,način,hr,1,llm_only
+way,put,hr,0,llm_only
+because,jer,hr,1,llm_only
+because,zato što,hr,0,llm_only
+because,zbog toga što,hr,0,llm_only
+to leave,odlaziti,hr,1,llm_only
+to leave,ostaviti,hr,0,llm_only
+to leave,otići,hr,0,llm_only
+job,posao,hr,1,llm_only
+before,prije,hr,1,llm_only
+hey,hej,hr,1,llm_only
+to hear,čuti,hr,1,llm_only
+his,njegov,hr,1,llm_only
+because of,zbog,hr,1,llm_only
+neither,ni,hr,1,llm_only
+there,ondje,hr,1,llm_only
+there,tamo,hr,0,llm_only
+house,kuća,hr,1,llm_only
+life,život,hr,1,llm_only
+to find,naći,hr,1,llm_only
+to find,pronaći,hr,0,llm_only
+to get,dobiti,hr,1,llm_only
+to get,dobivati,hr,0,llm_only
+big,velik,hr,1,llm_only
+to wait,čekati,hr,1,llm_only
+to look,izgledati,hr,1,llm_only
+always,uvijek,hr,1,llm_only
+woman,žena,hr,1,llm_only
+first,prvi,hr,1,llm_only
+someone,netko,hr,1,llm_only
+really,stvarno,hr,1,llm_only
+to help,pomagati,hr,1,llm_only
+to help,pomoći,hr,0,llm_only
+come on,hajde,hr,1,llm_only
+to call,nazivati,hr,1,llm_only
+to call,nazvati,hr,0,llm_only
+to call,zvati,hr,0,llm_only
+according to,po,hr,1,llm_only
+to speak,govoriti,hr,1,llm_only
+how much,koliko,hr,1,llm_only
+to believe,vjerovati,hr,1,llm_only
+already,već,hr,1,llm_only
+two,dva,hr,1,llm_only
+to make,napraviti,hr,1,llm_only
+to make,praviti,hr,0,llm_only
+that's why,zato,hr,1,llm_only
+exactly,baš,hr,1,llm_only
+exactly,točno,hr,0,llm_only
+but rather,nego,hr,1,llm_only
+without,bez,hr,1,llm_only
+mister,gospodin,hr,1,llm_only
+right,desni,hr,1,llm_only
+right,pravo,hr,0,llm_only
+friend,prijatelj,hr,1,llm_only
+friend,prijateljica,hr,0,llm_only
+while,dok,hr,1,llm_only
+every,svaki,hr,1,llm_only
+child,dijete,hr,1,llm_only
+to take,uzeti,hr,1,llm_only
+to take,uzimati,hr,0,llm_only
+to watch,gledati,hr,1,llm_only
+to stay,ostajati,hr,1,llm_only
+to stay,ostati,hr,0,llm_only
+to mean,značiti,hr,1,llm_only
+sorry,žao,hr,1,llm_only
+naturally,naravno,hr,1,llm_only
+father,otac,hr,1,llm_only
+to look for,potražiti,hr,1,llm_only
+to look for,tražiti,hr,0,llm_only
+to forgive,oprostiti,hr,1,llm_only
+place,mjesto,hr,1,llm_only
+what kind of,kakav,hr,1,llm_only
+new,nov,hr,1,llm_only
+around,oko,hr,1,llm_only
+to converse,razgovarati,hr,1,llm_only
+mom,mama,hr,1,llm_only
+never,nikad,hr,1,llm_only
+sure,siguran,hr,1,llm_only
+small,malen,hr,1,llm_only
+small,mali,hr,0,llm_only
+to look at,pogledati,hr,1,llm_only
+dad,tata,hr,1,llm_only
+problem,problem,hr,1,llm_only
+name,ime,hr,1,llm_only
+name,naziv,hr,0,llm_only
+money,novac,hr,1,llm_only
+to live,stanovati,hr,1,llm_only
+to live,živjeti,hr,0,llm_only
+to listen,slušati,hr,1,llm_only
+at,kod,hr,1,llm_only
+clock,sat,hr,1,llm_only
+to talk,pričati,hr,1,llm_only
+old,star,hr,1,llm_only
+to exist,postojati,hr,1,llm_only
+hand,ruka,hr,1,llm_only
+very,jako,hr,1,llm_only
+very,vrlo,hr,0,llm_only
+connection,veza,hr,1,llm_only
+to begin,početi,hr,1,llm_only
+to begin,počinjati,hr,0,llm_only
+to die,umrijeti,hr,1,llm_only
+to understand,razumjeti,hr,1,llm_only
+to hold,držati,hr,1,llm_only
+son,sin,hr,1,llm_only
+today,danas,hr,1,llm_only
+night,noć,hr,1,llm_only
+night,noćni,hr,0,llm_only
+far,daleko,hr,1,llm_only
+mother,majka,hr,1,llm_only
+again,opet,hr,1,llm_only
+again,ponovno,hr,0,llm_only
+surely,sigurno,hr,1,llm_only
+after,nakon,hr,1,llm_only
+after,poslije,hr,0,llm_only
+immediately,odmah,hr,1,llm_only
+three,tri,hr,1,llm_only
+world,svijet,hr,1,llm_only
+ready,spreman,hr,1,llm_only
+question,pitanje,hr,1,llm_only
+to lose,gubiti,hr,1,llm_only
+to lose,izgubiti,hr,0,llm_only
+truth,istina,hr,1,llm_only
+such,takav,hr,1,llm_only
+type,tip,hr,1,llm_only
+boy,dečko,hr,1,llm_only
+boy,dječak,hr,0,llm_only
+even,čak,hr,1,llm_only
+so much,toliko,hr,1,llm_only
+hi,bok,hr,1,llm_only
+towards,prema,hr,1,llm_only
+girl,cura,hr,1,llm_only
+girl,djevojka,hr,0,llm_only
+room,prostorija,hr,1,llm_only
+room,soba,hr,0,llm_only
+city,grad,hr,1,llm_only
+city,gradski,hr,0,llm_only
+for a long time,dugo,hr,1,llm_only
+to forget,zaboraviti,hr,1,llm_only
+end; near,kraj,hr,1,llm_only
+family,obitelj,hr,1,llm_only
+family,obiteljski,hr,0,llm_only
+country,zemlja,hr,1,llm_only
+door,vrata,hr,1,llm_only
+story,priča,hr,1,llm_only
+enough,dosta,hr,1,llm_only
+enough,dovoljno,hr,0,llm_only
+to put,staviti,hr,1,llm_only
+quickly,brzo,hr,1,llm_only
+to send,poslati,hr,1,llm_only
+to send,slati,hr,0,llm_only
+to enter,ući,hr,1,llm_only
+to enter,ulaziti,hr,0,llm_only
+beautifully,lijepo,hr,1,llm_only
+part,dio,hr,1,llm_only
+to pass by,proći,hr,1,llm_only
+to pass by,prolaziti,hr,0,llm_only
+brother,brat,hr,1,llm_only
+car,auto,hr,1,llm_only
+minute,minuta,hr,1,llm_only
+therefore,dakle,hr,1,llm_only
+side,strana,hr,1,llm_only
+their,njihov,hr,1,llm_only
+to open,otvarati,hr,1,llm_only
+to open,otvoriti,hr,0,llm_only
+to carry,nositi,hr,1,llm_only
+same,isti,hr,1,llm_only
+to be allowed to,smjeti,hr,1,llm_only
+under,ispod,hr,1,llm_only
+under,pod,hr,0,llm_only
+several,nekoliko,hr,1,llm_only
+real,prav,hr,1,llm_only
+moon,mjesec,hr,1,llm_only
+together,zajedno,hr,1,llm_only
+important,važan,hr,1,llm_only
+tomorrow,sutra,hr,1,llm_only
+to lead,voditi,hr,1,llm_only
+to show,pokazati,hr,1,llm_only
+to here,ovamo,hr,1,llm_only
+word,riječ,hr,1,llm_only
+happy,sretan,hr,1,llm_only
+death,smrt,hr,1,llm_only
+week,tjedan,hr,1,llm_only
+except,osim,hr,1,llm_only
+dear,drag,hr,1,llm_only
+ship,brod,hr,1,llm_only
+to bring,donijeti,hr,1,llm_only
+number,broj,hr,1,llm_only
+number,brojka,hr,0,llm_only
+to arrive,stići,hr,1,llm_only
+probably,vjerojatno,hr,1,llm_only
+badly,loše,hr,1,llm_only
+to sleep,spavati,hr,1,llm_only
+great,sjajan,hr,1,llm_only
+great,super,hr,0,llm_only
+last,zadnji,hr,1,llm_only
+pair,par,hr,1,llm_only
+sister,sestra,hr,1,llm_only
+tonight,večeras,hr,1,llm_only
+inside,unutar,hr,1,llm_only
+inside,unutra,hr,0,llm_only
+water,voda,hr,1,llm_only
+help,pomoć,hr,1,llm_only
+love,ljubav,hr,1,llm_only
+also,isto,hr,1,llm_only
+also,također,hr,0,llm_only
+school,škola,hr,1,llm_only
+to buy,kupiti,hr,1,llm_only
+to buy,kupovati,hr,0,llm_only
+along,uz,hr,1,llm_only
+idea,ideja,hr,1,llm_only
+to invite,pozivati,hr,1,llm_only
+to invite,pozvati,hr,0,llm_only
+down,dolje,hr,1,llm_only
+face,lice,hr,1,llm_only
+to set off,krenuti,hr,1,llm_only
+to eat,jesti,hr,1,llm_only
+hundred,sto,hr,1,llm_only
+across,preko,hr,1,llm_only
+outside,van,hr,1,llm_only
+outside,vani,hr,0,llm_only
+plan,plan,hr,1,llm_only
+beautiful,lijep,hr,1,llm_only
+blood,krv,hr,1,llm_only
+picture,slika,hr,1,llm_only
+necessary,potreban,hr,1,llm_only
+man,muškarac,hr,1,llm_only
+game,igra,hr,1,llm_only
+to pay,plaćati,hr,1,llm_only
+to pay,platiti,hr,0,llm_only
+bad,loš,hr,1,llm_only
+office,ured,hr,1,llm_only
+five,pet,hr,1,llm_only
+easily,lako,hr,1,llm_only
+morning,jutro,hr,1,llm_only
+morning,prijepodne,hr,0,llm_only
+to be careful,paziti,hr,1,llm_only
+crazy,lud,hr,1,llm_only
+behind,iza,hr,1,llm_only
+dog,pas,hr,1,llm_only
+the others,ostali,hr,1,llm_only
+to notify,javiti,hr,1,llm_only
+to notify,javljati,hr,0,llm_only
+party,tulum,hr,1,llm_only
+party,zabava,hr,0,llm_only
+book,knjiga,hr,1,llm_only
+leg,noga,hr,1,llm_only
+dream,san,hr,1,llm_only
+to stand,stajati,hr,1,llm_only
+to learn,naučiti,hr,1,llm_only
+to learn,učiti,hr,0,llm_only
+to write,napisati,hr,1,llm_only
+to write,pisati,hr,0,llm_only
+at all,uopće,hr,1,llm_only
+message,poruka,hr,1,llm_only
+near,blizu,hr,1,llm_only
+happiness,sreća,hr,1,llm_only
+to fall,padati,hr,1,llm_only
+to fall,pasti,hr,0,llm_only
+next,sljedeći,hr,1,llm_only
+boss,šef,hr,1,llm_only
+boss,šefica,hr,0,llm_only
+young,mlad,hr,1,llm_only
+to stop,zaustaviti,hr,1,llm_only
+madam,gospođa,hr,1,llm_only
+husband,muž,hr,1,llm_only
+food,hrana,hr,1,llm_only
+her,njezin,hr,1,llm_only
+half,pola,hr,1,llm_only
+pistol,pištolj,hr,1,llm_only
+to expect,očekivati,hr,1,llm_only
+alive,živ,hr,1,llm_only
+phone,telefon,hr,1,llm_only
+phone,telefonski,hr,0,llm_only
+to sit,sjediti,hr,1,llm_only
+film,film,hr,1,llm_only
+evening,večer,hr,1,llm_only
+between,između,hr,1,llm_only
+to decide,odlučiti,hr,1,llm_only
+opportunity,prilika,hr,1,llm_only
+street,ulica,hr,1,llm_only
+early,rano,hr,1,llm_only
+peace,mir,hr,1,llm_only
+soon,uskoro,hr,1,llm_only
+parent,roditelj,hr,1,llm_only
+to flee,pobjeći,hr,1,llm_only
+full,pun,hr,1,llm_only
+bed,krevet,hr,1,llm_only
+answer,odgovor,hr,1,llm_only
+to sound,zvučiti,hr,1,llm_only
+hospital,bolnica,hr,1,llm_only
+excellently,izvrsno,hr,1,llm_only
+excellently,odlično,hr,0,llm_only
+possible,moguć,hr,1,llm_only
+apartment,stan,hr,1,llm_only
+only; appetite,tek,hr,1,llm_only
+to go out,izići,hr,1,llm_only
+to go out,izlaziti,hr,0,llm_only
+drink,piće,hr,1,llm_only
+main,glavni,hr,1,llm_only
+police officer,policajac,hr,1,llm_only
+police officer,policajka,hr,0,llm_only
+stupid,glup,hr,1,llm_only
+constantly,stalno,hr,1,llm_only
+four,četiri,hr,1,llm_only
+easy,lak,hr,1,llm_only
+in front of,ispred,hr,1,llm_only
+in front of,pred,hr,0,llm_only
+almost,skoro,hr,1,llm_only
+to be missing,nedostajati,hr,1,llm_only
+meeting,sastanak,hr,1,llm_only
+dinner,večera,hr,1,llm_only
+sometimes,ponekad,hr,1,llm_only
+to close,zatvoriti,hr,1,llm_only
+where to,kamo,hr,1,llm_only
+to sit down,sjesti,hr,1,llm_only
+invitation,poziv,hr,1,llm_only
+invitation,pozivnica,hr,0,llm_only
+to watch over,čuvati,hr,1,llm_only
+to drink,piti,hr,1,llm_only
+sign,znak,hr,1,llm_only
+secret,tajna,hr,1,llm_only
+consideration,obzir,hr,1,llm_only
+king,kralj,hr,1,llm_only
+strong,jak,hr,1,llm_only
+gladly,rado,hr,1,llm_only
+six,šest,hr,1,llm_only
+conversation,razgovor,hr,1,llm_only
+to hurt,boljeti,hr,1,llm_only
+million,milijun,hr,1,llm_only
+baby,beba,hr,1,llm_only
+meaning,smisao,hr,1,llm_only
+meaning,značenje,hr,0,llm_only
+black,crn,hr,1,llm_only
+to explain,objasniti,hr,1,llm_only
+horse,konj,hr,1,llm_only
+as soon as,čim,hr,1,llm_only
+beginning,početak,hr,1,llm_only
+from where,odakle,hr,1,llm_only
+law,zakon,hr,1,llm_only
+fight,borba,hr,1,llm_only
+to tell,ispričati,hr,1,llm_only
+rule,pravilo,hr,1,llm_only
+work,rad,hr,1,llm_only
+work,radni,hr,0,llm_only
+heavy,težak,hr,1,llm_only
+information,informacija,hr,1,llm_only
+holy,svet,hr,1,llm_only
+table,stol,hr,1,llm_only
+table,tablica,hr,0,llm_only
+to try,probati,hr,1,llm_only
+to spend,potrošiti,hr,1,llm_only
+to spend,provesti,hr,0,llm_only
+to spend,provoditi,hr,0,llm_only
+key,ključ,hr,1,llm_only
+human,ljudski,hr,1,llm_only
+bill,račun,hr,1,llm_only
+in the morning,ujutro,hr,1,llm_only
+to think over,razmisliti,hr,1,llm_only
+to read,čitati,hr,1,llm_only
+to read,pročitati,hr,0,llm_only
+coffee,kava,hr,1,llm_only
+free,slobodan,hr,1,llm_only
+to enjoy,uživati,hr,1,llm_only
+hair,kosa,hr,1,llm_only
+soldier,vojnik,hr,1,llm_only
+known,poznat,hr,1,llm_only
+voice,glas,hr,1,llm_only
+letter,pismo,hr,1,llm_only
+letter,slovo,hr,0,llm_only
+fun,zabavan,hr,1,llm_only
+state,država,hr,1,llm_only
+state,stanje,hr,0,llm_only
+thousand,tisuća,hr,1,llm_only
+song,pjesma,hr,1,llm_only
+ten,deset,hr,1,llm_only
+angry,ljut,hr,1,llm_only
+many,mnogi,hr,1,llm_only
+home,dom,hr,1,llm_only
+building,zgrada,hr,1,llm_only
+company,društvo,hr,1,llm_only
+company,kompanija,hr,0,llm_only
+ticket,karta,hr,1,llm_only
+situation,situacija,hr,1,llm_only
+air,avionski,hr,1,llm_only
+air,zrak,hr,0,llm_only
+damage,šteta,hr,1,llm_only
+red,crven,hr,1,llm_only
+view,pogled,hr,1,llm_only
+to move,kretati,hr,1,llm_only
+to move,kretati se,hr,0,llm_only
+medicine,lijek,hr,1,llm_only
+medicine,medicina,hr,0,llm_only
+data,podatak,hr,1,llm_only
+president,predsjednica,hr,1,llm_only
+president,predsjednik,hr,0,llm_only
+smart,pametan,hr,1,llm_only
+to promise,obećati,hr,1,llm_only
+this morning,jutros,hr,1,llm_only
+majority,većina,hr,1,llm_only
+white,bijel,hr,1,llm_only
+evil,zao,hr,1,llm_only
+evil,zlo,hr,0,llm_only
+wall,zid,hr,1,llm_only
+light,lagan,hr,1,llm_only
+light,svjetlo,hr,0,llm_only
+yesterday,jučer,hr,1,llm_only
+hotel,hotel,hr,1,llm_only
+English,engleski,hr,1,llm_only
+otherwise,inače,hr,1,llm_only
+color,boja,hr,1,llm_only
+planet,planet,hr,1,llm_only
+club,klub,hr,1,llm_only
+often,često,hr,1,llm_only
+barely,jedva,hr,1,llm_only
+cheese,sir,hr,1,llm_only
+among,među,hr,1,llm_only
+airplane,avion,hr,1,llm_only
+animal,životinja,hr,1,llm_only
+usually,obično,hr,1,llm_only
+past,prošli,hr,1,llm_only
+fool,budala,hr,1,llm_only
+clean,čist,hr,1,llm_only
+definitely,svakako,hr,1,llm_only
+instead of,umjesto,hr,1,llm_only
+next to,pokraj,hr,1,llm_only
+next to,pored,hr,0,llm_only
+star,zvijezda,hr,1,llm_only
+sick,bolestan,hr,1,llm_only
+clothing,odjeća,hr,1,llm_only
+box,kutija,hr,1,llm_only
+Sun,Sunce,hr,1,llm_only
+to sell,prodati,hr,1,llm_only
+to set,postaviti,hr,1,llm_only
+to set,postavljati,hr,0,llm_only
+people,narod,hr,1,llm_only
+to walk,hodati,hr,1,llm_only
+to walk,šetati se,hr,0,llm_only
+window,prozor,hr,1,llm_only
+sweet,sladak,hr,1,llm_only
+interesting,zanimljiv,hr,1,llm_only
+to drink up,popiti,hr,1,llm_only
+church,crkva,hr,1,llm_only
+to choose,izabrati,hr,1,llm_only
+relationship,odnos,hr,1,llm_only
+special,poseban,hr,1,llm_only
+special,specijalan,hr,0,llm_only
+cold,hladan,hr,1,llm_only
+to eat up,pojesti,hr,1,llm_only
+patient,pacijent,hr,1,llm_only
+price,cijena,hr,1,llm_only
+especially,posebno,hr,1,llm_only
+happily,sretno,hr,1,llm_only
+to plan,planirati,hr,1,llm_only
+welcome,dobrodošao,hr,1,llm_only
+welcome,dobrodošlica,hr,0,llm_only
+wife,supruga,hr,1,llm_only
+grandmother,baka,hr,1,llm_only
+to answer,odgovarati,hr,1,llm_only
+to answer,odgovoriti,hr,0,llm_only
+lunch,ručak,hr,1,llm_only
+former,bivši,hr,1,llm_only
+group,grupa,hr,1,llm_only
+group,grupni,hr,0,llm_only
+beer,pivo,hr,1,llm_only
+serious,ozbiljan,hr,1,llm_only
+music,glazba,hr,1,llm_only
+bank,banka,hr,1,llm_only
+possibility,mogućnost,hr,1,llm_only
+wedding,svadba,hr,1,llm_only
+wedding,vjenčanje,hr,0,llm_only
+seven,sedam,hr,1,llm_only
+excellent,izvrstan,hr,1,llm_only
+excellent,odličan,hr,0,llm_only
+finally,konačno,hr,1,llm_only
+finally,napokon,hr,0,llm_only
+third,treći,hr,1,llm_only
+change,promjena,hr,1,llm_only
+to use up,iskoristiti,hr,1,llm_only
+language,jezik,hr,1,llm_only
+America,Amerika,hr,1,llm_only
+difference,razlika,hr,1,llm_only
+client,klijent,hr,1,llm_only
+to be worth,vrijediti,hr,1,llm_only
+grandfather,djed,hr,1,llm_only
+center,centar,hr,1,llm_only
+Christmas,Božić,hr,1,llm_only
+tall,visok,hr,1,llm_only
+birthday,rođendan,hr,1,llm_only
+stop,stanica,hr,1,llm_only
+area,područje,hr,1,llm_only
+long,dug,hr,1,llm_only
+long,dugačak,hr,0,llm_only
+doctor,liječnica,hr,1,llm_only
+doctor,liječnik,hr,0,llm_only
+tooth,zub,hr,1,llm_only
+agreement,dogovor,hr,1,llm_only
+agreement,slaganje,hr,0,llm_only
+hungry,gladan,hr,1,llm_only
+paper,papir,hr,1,llm_only
+to last,trajati,hr,1,llm_only
+perfect,savršen,hr,1,llm_only
+mobile phone,mobitel,hr,1,llm_only
+member,član,hr,1,llm_only
+member,pripadnik,hr,0,llm_only
+to occupy,zauzeti,hr,1,llm_only
+to occupy,zauzimati,hr,0,llm_only
+opinion,mišljenje,hr,1,llm_only
+eight,osam,hr,1,llm_only
+to belong,pripadati,hr,1,llm_only
+port,luka,hr,1,llm_only
+to stand up,ustati,hr,1,llm_only
+above,iznad,hr,1,llm_only
+above,nad,hr,0,llm_only
+travel,putovanje,hr,1,llm_only
+surprise,čuđenje,hr,1,llm_only
+surprise,iznenađenje,hr,0,llm_only
+need,potreba,hr,1,llm_only
+to refuse,odbiti,hr,1,llm_only
+shoe,cipela,hr,1,llm_only
+address,adresa,hr,1,llm_only
+bag,torba,hr,1,llm_only
+American,američki,hr,1,llm_only
+American,Amerikanac,hr,0,llm_only
+American,Amerikanka,hr,0,llm_only
+egg,jaje,hr,1,llm_only
+tired,umoran,hr,1,llm_only
+to connect,povezati,hr,1,llm_only
+to connect,povezivati,hr,0,llm_only
+to connect,spojiti,hr,0,llm_only
+forest,šuma,hr,1,llm_only
+fish,riba,hr,1,llm_only
+program,program,hr,1,llm_only
+French,francuski,hr,1,llm_only
+to congratulate,čestitati,hr,1,llm_only
+vehicle,vozilo,hr,1,llm_only
+rest,odmor,hr,1,llm_only
+park,park,hr,1,llm_only
+wine,vino,hr,1,llm_only
+guest,gost,hr,1,llm_only
+sky,nebo,hr,1,llm_only
+tea,čaj,hr,1,llm_only
+gold,zlato,hr,1,llm_only
+restaurant,restoran,hr,1,llm_only
+power,moć,hr,1,llm_only
+store,trgovina,hr,1,llm_only
+blue,plav,hr,1,llm_only
+to offer,nuditi,hr,1,llm_only
+to offer,ponuditi,hr,0,llm_only
+female,ženski,hr,1,llm_only
+whose,čiji,hr,1,llm_only
+in the past,nekad,hr,1,llm_only
+greeting,pozdrav,hr,1,llm_only
+greeting,pozdravljanje,hr,0,llm_only
+urgent,hitan,hr,1,llm_only
+energy,energija,hr,1,llm_only
+meter,metar,hr,1,llm_only
+task,zadatak,hr,1,llm_only
+train,vlak,hr,1,llm_only
+to change,mijenjati,hr,1,llm_only
+river,riječni,hr,1,llm_only
+river,rijeka,hr,0,llm_only
+village,selo,hr,1,llm_only
+sea,more,hr,1,llm_only
+sea,morski,hr,0,llm_only
+dress,haljina,hr,1,llm_only
+kitchen,kuhinja,hr,1,llm_only
+show,predstava,hr,1,llm_only
+queen,kraljica,hr,1,llm_only
+photography,fotografija,hr,1,llm_only
+wish,želja,hr,1,llm_only
+reward,nagrada,hr,1,llm_only
+weekend,vikend,hr,1,llm_only
+uncle,stric,hr,1,llm_only
+uncle,ujak,hr,0,llm_only
+knife,nož,hr,1,llm_only
+result,rezultat,hr,1,llm_only
+fast,brz,hr,1,llm_only
+satisfaction,zadovoljstvo,hr,1,llm_only
+list,popis,hr,1,llm_only
+different,različit,hr,1,llm_only
+professor,profesor,hr,1,llm_only
+professor,profesorica,hr,0,llm_only
+role,uloga,hr,1,llm_only
+space,prostor,hr,1,llm_only
+gift,poklon,hr,1,llm_only
+completely,apsolutno,hr,1,llm_only
+handsome,zgodan,hr,1,llm_only
+sound,zvuk,hr,1,llm_only
+bird,ptica,hr,1,llm_only
+usual,običan,hr,1,llm_only
+island,otok,hr,1,llm_only
+straight,ravno,hr,1,llm_only
+trash,smeće,hr,1,llm_only
+which way,kuda,hr,1,llm_only
+ride,vožnja,hr,1,llm_only
+proximity,blizina,hr,1,llm_only
+unfortunately,nažalost,hr,1,llm_only
+respect,poštovanje,hr,1,llm_only
+to play an instrument,svirati,hr,1,llm_only
+to prepare,pripremati,hr,1,llm_only
+to prepare,pripremiti,hr,0,llm_only
+to protect,zaštititi,hr,1,llm_only
+speech,govor,hr,1,llm_only
+meat,meso,hr,1,llm_only
+to run,trčati,hr,1,llm_only
+middle,srednji,hr,1,llm_only
+field,polje,hr,1,llm_only
+mountain,planina,hr,1,llm_only
+goal,cilj,hr,1,llm_only
+to make a mistake,pogriješiti,hr,1,llm_only
+experience,iskustvo,hr,1,llm_only
+point,točka,hr,1,llm_only
+motorcycle,motor,hr,1,llm_only
+in love,zaljubljen,hr,1,llm_only
+card,kartica,hr,1,llm_only
+to adore,obožavati,hr,1,llm_only
+brothers,braća,hr,1,llm_only
+age,doba,hr,1,llm_only
+empty,prazan,hr,1,llm_only
+mostly,uglavnom,hr,1,llm_only
+responsible,odgovoran,hr,1,llm_only
+tree,drvo,hr,1,llm_only
+tree,stablo,hr,0,llm_only
+example,primjer,hr,1,llm_only
+to visit,obići,hr,1,llm_only
+to visit,posjetiti,hr,0,llm_only
+personal,osoban,hr,1,llm_only
+match,utakmica,hr,1,llm_only
+to travel,putovati,hr,1,llm_only
+to sign,potpisati,hr,1,llm_only
+to sign,potpisivati,hr,0,llm_only
+character,lik,hr,1,llm_only
+bridge,most,hr,1,llm_only
+floor,kat,hr,1,llm_only
+cat,mačka,hr,1,llm_only
+ring,prsten,hr,1,llm_only
+nice,fin,hr,1,llm_only
+to surprise,iznenaditi,hr,1,llm_only
+page,stranica,hr,1,llm_only
+ice,led,hr,1,llm_only
+computer,kompjutor,hr,1,llm_only
+computer,računalo,hr,0,llm_only
+automobile,automobil,hr,1,llm_only
+suit,odijelo,hr,1,llm_only
+fifth,peti,hr,1,llm_only
+to convert,pretvoriti,hr,1,llm_only
+shape,oblik,hr,1,llm_only
+contract,ugovor,hr,1,llm_only
+nature,priroda,hr,1,llm_only
+visit,posjet,hr,1,llm_only
+calm,miran,hr,1,llm_only
+to repeat,ponavljati,hr,1,llm_only
+to repeat,ponoviti,hr,0,llm_only
+nine,devet,hr,1,llm_only
+to greet,pozdraviti,hr,1,llm_only
+to be late,kasniti,hr,1,llm_only
+to sing,pjevati,hr,1,llm_only
+victory,pobjeda,hr,1,llm_only
+ball,lopta,hr,1,llm_only
+journalist,novinar,hr,1,llm_only
+journalist,novinarka,hr,0,llm_only
+darkness,mrak,hr,1,llm_only
+source,izvor,hr,1,llm_only
+dish,jelo,hr,1,llm_only
+to the left,lijevo,hr,1,llm_only
+event,događaj,hr,1,llm_only
+event,manifestacija,hr,0,llm_only
+close,blizak,hr,1,llm_only
+hot,vruć,hr,1,llm_only
+neighbor,susjed,hr,1,llm_only
+neighbor,susjeda,hr,0,llm_only
+to the right,desno,hr,1,llm_only
+to come up with,smisliti,hr,1,llm_only
+Friday,petak,hr,1,llm_only
+medical,medicinski,hr,1,llm_only
+roof,krov,hr,1,llm_only
+coast,obala,hr,1,llm_only
+sleeping,spavanje,hr,1,llm_only
+recently,nedavno,hr,1,llm_only
+glass,čaša,hr,1,llm_only
+green,zelen,hr,1,llm_only
+research,istraživanje,hr,1,llm_only
+to dream,sanjati,hr,1,llm_only
+purpose,namjena,hr,1,llm_only
+purpose,svrha,hr,0,llm_only
+weak,slab,hr,1,llm_only
+teacher,učitelj,hr,1,llm_only
+teacher,učiteljica,hr,0,llm_only
+rain,kiša,hr,1,llm_only
+chair,stolica,hr,1,llm_only
+internet,internet,hr,1,llm_only
+to select,odabrati,hr,1,llm_only
+to recognize,prepoznati,hr,1,llm_only
+satisfied,zadovoljan,hr,1,llm_only
+young man,mladić,hr,1,llm_only
+breakfast,doručak,hr,1,llm_only
+pants,hlače,hr,1,llm_only
+coach,trener,hr,1,llm_only
+coach,trenerica,hr,0,llm_only
+entrance,prilaz,hr,1,llm_only
+entrance,ulaz,hr,0,llm_only
+colleague,kolega,hr,1,llm_only
+colleague,kolegica,hr,0,llm_only
+goodbye,doviđenja,hr,1,llm_only
+direction,smjer,hr,1,llm_only
+driver,vozač,hr,1,llm_only
+driver,vozačica,hr,0,llm_only
+favorite,omiljen,hr,1,llm_only
+left,lijevi,hr,1,llm_only
+lake,jezero,hr,1,llm_only
+beach,plaža,hr,1,llm_only
+laboratory,laboratorij,hr,1,llm_only
+to depend,ovisiti,hr,1,llm_only
+Sunday,nedjelja,hr,1,llm_only
+newspaper,novine,hr,1,llm_only
+brave,hrabar,hr,1,llm_only
+to smoke,pušiti,hr,1,llm_only
+bus,autobus,hr,1,llm_only
+bus,autobusni,hr,0,llm_only
+level,razina,hr,1,llm_only
+to add,dodati,hr,1,llm_only
+to add,dodavati,hr,0,llm_only
+German,Nijemac,hr,1,llm_only
+German,Njemica,hr,0,llm_only
+German,njemački,hr,0,llm_only
+to respect,poštivati,hr,1,llm_only
+to respect,poštovati,hr,0,llm_only
+daughter,kćerka,hr,1,llm_only
+to dance,plesati,hr,1,llm_only
+in the evening,navečer,hr,1,llm_only
+topic,tema,hr,1,llm_only
+relative,odnosni,hr,1,llm_only
+relative,rođak,hr,0,llm_only
+relative,rođakinja,hr,0,llm_only
+Saturday,subota,hr,1,llm_only
+late,kasan,hr,1,llm_only
+project,projekt,hr,1,llm_only
+summer,ljeto,hr,1,llm_only
+sample,uzorak,hr,1,llm_only
+to earn,zaraditi,hr,1,llm_only
+to earn,zarađivati,hr,0,llm_only
+flowers,cvijeće,hr,1,llm_only
+size,veličina,hr,1,llm_only
+ugly,ružan,hr,1,llm_only
+to propose,predlagati,hr,1,llm_only
+to lie,ležati,hr,1,llm_only
+to win,osvojiti,hr,1,llm_only
+afternoon,popodne,hr,1,llm_only
+afternoon,poslijepodne,hr,0,llm_only
+technology,tehnologija,hr,1,llm_only
+to cost,koštati,hr,1,llm_only
+to act,glumiti,hr,1,llm_only
+gorgeous,prekrasan,hr,1,llm_only
+twice,dvaput,hr,1,llm_only
+politics,politika,hr,1,llm_only
+at night,noću,hr,1,llm_only
+to order,naručiti,hr,1,llm_only
+to burn,gorjeti,hr,1,llm_only
+means,sredstvo,hr,1,llm_only
+pool,bazen,hr,1,llm_only
+silence,tišina,hr,1,llm_only
+century,stoljeće,hr,1,llm_only
+basement,podrum,hr,1,llm_only
+report,izvještaj,hr,1,llm_only
+report,reportaža,hr,0,llm_only
+board,ploča,hr,1,llm_only
+terrible,grozan,hr,1,llm_only
+cinema,kino,hr,1,llm_only
+to jump,skočiti,hr,1,llm_only
+taxi,taksi,hr,1,llm_only
+worker,radnica,hr,1,llm_only
+worker,radnik,hr,0,llm_only
+device,uređaj,hr,1,llm_only
+polite,ljubazan,hr,1,llm_only
+polite,pristojan,hr,0,llm_only
+milk,mlijeko,hr,1,llm_only
+apology,isprika,hr,1,llm_only
+position,pozicija,hr,1,llm_only
+cake,kolač,hr,1,llm_only
+cake,torta,hr,0,llm_only
+west,zapad,hr,1,llm_only
+fat,debeo,hr,1,llm_only
+ability,sposobnost,hr,1,llm_only
+common,zajednički,hr,1,llm_only
+intention,namjera,hr,1,llm_only
+male,muški,hr,1,llm_only
+season,godišnje doba,hr,1,llm_only
+season,sezona,hr,0,llm_only
+whisky,viski,hr,1,llm_only
+sad,tužan,hr,1,llm_only
+t-shirt,majica,hr,1,llm_only
+faculty,fakultet,hr,1,llm_only
+mess,nered,hr,1,llm_only
+to fly,letjeti,hr,1,llm_only
+garden,vrt,hr,1,llm_only
+equally,jednako,hr,1,llm_only
+alcohol,alkohol,hr,1,llm_only
+sugar,šećer,hr,1,llm_only
+juice,džus,hr,1,llm_only
+juice,sok,hr,0,llm_only
+appearance,izgled,hr,1,llm_only
+to replace,zamijeniti,hr,1,llm_only
+circumstance,okolnost,hr,1,llm_only
+passage,prolaz,hr,1,llm_only
+short,kratak,hr,1,llm_only
+short,nizak,hr,0,llm_only
+encounter,susret,hr,1,llm_only
+basis,osnova,hr,1,llm_only
+surface,površina,hr,1,llm_only
+east,istok,hr,1,llm_only
+station,kolodvor,hr,1,llm_only
+station,postaja,hr,0,llm_only
+airport,aerodrom,hr,1,llm_only
+airport,zračna luka,hr,0,llm_only
+to use,koristiti se,hr,1,llm_only
+to use,služiti se,hr,0,llm_only
+to use,upotrebljavati,hr,0,llm_only
+to use,upotrijebiti,hr,0,llm_only
+salt,sol,hr,1,llm_only
+gorgeously,prekrasno,hr,1,llm_only
+to borrow,posuditi,hr,1,llm_only
+so far,dosad,hr,1,llm_only
+wonderful,krasan,hr,1,llm_only
+wonderful,predivan,hr,0,llm_only
+priest,svećenik,hr,1,llm_only
+health,zdravlje,hr,1,llm_only
+to hit,tući,hr,1,llm_only
+pocket,džep,hr,1,llm_only
+shop,dućan,hr,1,llm_only
+interest,interes,hr,1,llm_only
+product,proizvod,hr,1,llm_only
+simple,jednostavan,hr,1,llm_only
+doll,lutka,hr,1,llm_only
+gratitude,zahvalnost,hr,1,llm_only
+snake,zmija,hr,1,llm_only
+passenger,putnik,hr,1,llm_only
+golden,zlatan,hr,1,llm_only
+to create,stvarati,hr,1,llm_only
+north,sjever,hr,1,llm_only
+midnight,ponoć,hr,1,llm_only
+aunt,teta,hr,1,llm_only
+subject,predmet,hr,1,llm_only
+subject,subjekt,hr,0,llm_only
+minister,ministar,hr,1,llm_only
+hallway,hodnik,hr,1,llm_only
+hat,kapa,hr,1,llm_only
+hat,šešir,hr,0,llm_only
+series,serija,hr,1,llm_only
+all sorts of things,svašta,hr,1,llm_only
+yard,dvorište,hr,1,llm_only
+lesson,lekcija,hr,1,llm_only
+Europe,Europa,hr,1,llm_only
+bread,kruh,hr,1,llm_only
+monkey,majmun,hr,1,llm_only
+pupil,učenik,hr,1,llm_only
+activity,aktivnost,hr,1,llm_only
+activity,djelatnost,hr,0,llm_only
+expression,izraz,hr,1,llm_only
+expression,izražavanje,hr,0,llm_only
+thinking,razmišljanje,hr,1,llm_only
+healthy,zdrav,hr,1,llm_only
+to publish,objaviti,hr,1,llm_only
+to celebrate,slaviti,hr,1,llm_only
+south,jug,hr,1,llm_only
+similar,sl.,hr,1,llm_only
+similar,sličan,hr,0,llm_only
+ocean,ocean,hr,1,llm_only
+wardrobe,ormar,hr,1,llm_only
+to lie down,leći,hr,1,llm_only
+kiss,poljubac,hr,1,llm_only
+kilometer,kilometar,hr,1,llm_only
+date,datum,hr,1,llm_only
+to finish,dovršiti,hr,1,llm_only
+to finish,završavati,hr,0,llm_only
+foreigner,stranac,hr,1,llm_only
+shirt,košulja,hr,1,llm_only
+pleasant,ugodan,hr,1,llm_only
+Monday,ponedjeljak,hr,1,llm_only
+twenty,dvadeset,hr,1,llm_only
+to turn,skrenuti,hr,1,llm_only
+jacket,jakna,hr,1,llm_only
+explanation,objašnjenje,hr,1,llm_only
+couch,kauč,hr,1,llm_only
+to influence,utjecati,hr,1,llm_only
+transport,prijevoz,hr,1,llm_only
+transport,prijevozni,hr,0,llm_only
+aircraft,zrakoplov,hr,1,llm_only
+post office,pošta,hr,1,llm_only
+ice cream,sladoled,hr,1,llm_only
+proposal,prijedlog,hr,1,llm_only
+step,stepenica,hr,1,llm_only
+now,sad,hr,1,llm_only
+Mexico,Meksiko,hr,1,llm_only
+kingdom,kraljevstvo,hr,1,llm_only
+bear,medvjed,hr,1,llm_only
+glasses,naočale,hr,1,llm_only
+chocolate,čokolada,hr,1,llm_only
+chocolate,čokoladni,hr,0,llm_only
+coat,kaput,hr,1,llm_only
+pizza,pizza,hr,1,llm_only
+exit,izlazak,hr,1,llm_only
+lecture,predavanje,hr,1,llm_only
+break,pauza,hr,1,llm_only
+to calculate,računati,hr,1,llm_only
+to divide,podijeliti,hr,1,llm_only
+stance,stav,hr,1,llm_only
+student,student,hr,1,llm_only
+student,studentica,hr,0,llm_only
+model,model,hr,1,llm_only
+exercise,vježba,hr,1,llm_only
+garage,garaža,hr,1,llm_only
+billion,milijarda,hr,1,llm_only
+to cook,kuhati,hr,1,llm_only
+to cook,skuhati,hr,0,llm_only
+scientist,znanstvenik,hr,1,llm_only
+sandwich,sendvič,hr,1,llm_only
+oil,ulje,hr,1,llm_only
+expensive,skup,hr,1,llm_only
+boring,dosadan,hr,1,llm_only
+to describe,opisati,hr,1,llm_only
+to describe,opisivati,hr,0,llm_only
+criminal,kriminalac,hr,1,llm_only
+to forbid,zabraniti,hr,1,llm_only
+taste,okus,hr,1,llm_only
+determined,određen,hr,1,llm_only
+television,televizija,hr,1,llm_only
+pie,pita,hr,1,llm_only
+to clean,čistiti,hr,1,llm_only
+open,otvoren,hr,1,llm_only
+to persuade,nagovoriti,hr,1,llm_only
+Tuesday,utorak,hr,1,llm_only
+surname,prezime,hr,1,llm_only
+laundry,rublje,hr,1,llm_only
+fourth,četvrti,hr,1,llm_only
+toy,igračka,hr,1,llm_only
+rarely,rijetko,hr,1,llm_only
+noon,podne,hr,1,llm_only
+audience,publika,hr,1,llm_only
+to serve,poslužiti,hr,1,llm_only
+museum,muzej,hr,1,llm_only
+soup,juha,hr,1,llm_only
+writer,književnica,hr,1,llm_only
+writer,spisateljica,hr,0,llm_only
+writer,pisac,hr,0,llm_only
+dark,taman,hr,1,llm_only
+interview,intervju,hr,1,llm_only
+Thursday,četvrtak,hr,1,llm_only
+apple,jabuka,hr,1,llm_only
+everywhere,svugdje,hr,1,llm_only
+to throw,bacati,hr,1,llm_only
+quiet,tih,hr,1,llm_only
+bathroom,kupaonica,hr,1,llm_only
+business,poslovan,hr,1,llm_only
+rose,ruža,hr,1,llm_only
+cafe,kafić,hr,1,llm_only
+cafe,kavana,hr,0,llm_only
+to receive,primati,hr,1,llm_only
+Africa,Afrika,hr,1,llm_only
+instruction,uputa,hr,1,llm_only
+symbol,simbol,hr,1,llm_only
+wave,val,hr,1,llm_only
+helicopter,helikopter,hr,1,llm_only
+first of all,najprije,hr,1,llm_only
+glove,rukavica,hr,1,llm_only
+to determine,odrediti,hr,1,llm_only
+beauty,ljepotica,hr,1,llm_only
+quantity,količina,hr,1,llm_only
+winter,zima,hr,1,llm_only
+winter,zimski,hr,0,llm_only
+despite,unatoč,hr,1,llm_only
+despite,usprkos,hr,0,llm_only
+complicated,kompliciran,hr,1,llm_only
+catastrophe,katastrofa,hr,1,llm_only
+terrorist,terorist,hr,1,llm_only
+necklace,ogrlica,hr,1,llm_only
+mild,blag,hr,1,llm_only
+competition,natjecanje,hr,1,llm_only
+concert,koncert,hr,1,llm_only
+chicken,piletina,hr,1,llm_only
+weekly,tjedni,hr,1,llm_only
+weekly,tjedno,hr,0,llm_only
+culture,kultura,hr,1,llm_only
+nephew,nećak,hr,1,llm_only
+ouch,jao,hr,1,llm_only
+hairstyle,frizura,hr,1,llm_only
+costume,kostim,hr,1,llm_only
+running,trčanje,hr,1,llm_only
+to progress,napredovati,hr,1,llm_only
+actor,glumac,hr,1,llm_only
+pronunciation,izgovor,hr,1,llm_only
+impression,dojam,hr,1,llm_only
+snow,snijeg,hr,1,llm_only
+boat,čamac,hr,1,llm_only
+training,trening,hr,1,llm_only
+lower,donji,hr,1,llm_only
+to demand,zahtijevati,hr,1,llm_only
+walk,šetnja,hr,1,llm_only
+boot,čizma,hr,1,llm_only
+football,nogomet,hr,1,llm_only
+football,nogometni,hr,0,llm_only
+May,svibanj,hr,1,llm_only
+mouse,miš,hr,1,llm_only
+underpants,gaće,hr,1,llm_only
+to invent,izmisliti,hr,1,llm_only
+to invent,izumiti,hr,0,llm_only
+changing cabin,kabina,hr,1,llm_only
+cup,šalica,hr,1,llm_only
+text,tekst,hr,1,llm_only
+to wash,oprati,hr,1,llm_only
+humor,humor,hr,1,llm_only
+Russian,Rus,hr,1,llm_only
+Russian,Ruskinja,hr,0,llm_only
+Russian,ruski,hr,0,llm_only
+zero,nula,hr,1,llm_only
+action,radnja,hr,1,llm_only
+natural,prirodan,hr,1,llm_only
+birth,rođenje,hr,1,llm_only
+exam,ispit,hr,1,llm_only
+comment,komentar,hr,1,llm_only
+crime,kriminal,hr,1,llm_only
+jewelry,nakit,hr,1,llm_only
+wide,širok,hr,1,llm_only
+smile,osmijeh,hr,1,llm_only
+onion,luk,hr,1,llm_only
+league,liga,hr,1,llm_only
+castle,dvorac,hr,1,llm_only
+novel,roman,hr,1,llm_only
+tasty,ukusan,hr,1,llm_only
+needle,igla,hr,1,llm_only
+line,crta,hr,1,llm_only
+daily,dnevni,hr,1,llm_only
+daily,svakodnevno,hr,0,llm_only
+cash,gotovina,hr,1,llm_only
+sport,sport,hr,1,llm_only
+artist,umjetnik,hr,1,llm_only
+lady,gospa,hr,1,llm_only
+sock,čarapa,hr,1,llm_only
+crowd,gužva,hr,1,llm_only
+to explore,istražiti,hr,1,llm_only
+mirror,ogledalo,hr,1,llm_only
+repairman,majstor,hr,1,llm_only
+to swim,plivati,hr,1,llm_only
+confirmation,potvrda,hr,1,llm_only
+to practice,vježbati,hr,1,llm_only
+cardigan,vesta,hr,1,llm_only
+thirty,trideset,hr,1,llm_only
+manager,menadžer,hr,1,llm_only
+manager,menadžerica,hr,0,llm_only
+unhappy,nesretan,hr,1,llm_only
+tragedy,tragedija,hr,1,llm_only
+pencil,olovka,hr,1,llm_only
+dessert,desert,hr,1,llm_only
+actress,glumica,hr,1,llm_only
+last year,lani,hr,1,llm_only
+excursion,izlet,hr,1,llm_only
+surgeon,kirurg,hr,1,llm_only
+panties,gaćice,hr,1,llm_only
+shopping,kupovanje,hr,1,llm_only
+shopping,kupovina,hr,0,llm_only
+weather,vremenski,hr,1,llm_only
+shower,tuš,hr,1,llm_only
+cook,kuhar,hr,1,llm_only
+cook,kuharica,hr,0,llm_only
+reading,čitanje,hr,1,llm_only
+to paint,slikati,hr,1,llm_only
+to participate,sudjelovati,hr,1,llm_only
+sauce,umak,hr,1,llm_only
+Chinese,kineski,hr,1,llm_only
+Chinese,Kinez,hr,0,llm_only
+Chinese,Kineskinja,hr,0,llm_only
+twelve,dvanaest,hr,1,llm_only
+attentive,pažljiv,hr,1,llm_only
+fruit,voće,hr,1,llm_only
+fruit,voćni,hr,0,llm_only
+strictly,strogo,hr,1,llm_only
+fifty,pedeset,hr,1,llm_only
+to discuss,raspravljati,hr,1,llm_only
+honey,med,hr,1,llm_only
+greeting card,čestitka,hr,1,llm_only
+Spanish,španjolski,hr,1,llm_only
+traffic,promet,hr,1,llm_only
+laptop,laptop,hr,1,llm_only
+disc,disk,hr,1,llm_only
+homework,zadaća,hr,1,llm_only
+fan,obožavatelj,hr,1,llm_only
+closed,zatvoren,hr,1,llm_only
+to pull,vući,hr,1,llm_only
+waiter,konobar,hr,1,llm_only
+salad,salata,hr,1,llm_only
+to flow,teći,hr,1,llm_only
+widow,udovica,hr,1,llm_only
+pillow,jastuk,hr,1,llm_only
+in the south,južno,hr,1,llm_only
+spring,proljeće,hr,1,llm_only
+flower,cvijet,hr,1,llm_only
+grandson,unuk,hr,1,llm_only
+stay,boravak,hr,1,llm_only
+carpet,tepih,hr,1,llm_only
+steak,odrezak,hr,1,llm_only
+whale,kit,hr,1,llm_only
+writing,pisanje,hr,1,llm_only
+object,objekt,hr,1,llm_only
+to delight,oduševiti,hr,1,llm_only
+exact,točan,hr,1,llm_only
+statue,kip,hr,1,llm_only
+grammatical gender,rod,hr,1,llm_only
+British,britanski,hr,1,llm_only
+September,rujan,hr,1,llm_only
+communication,komunikacija,hr,1,llm_only
+communication,komunikacijski,hr,0,llm_only
+fifteen,petnaest,hr,1,llm_only
+piano,klavir,hr,1,llm_only
+journal,časopis,hr,1,llm_only
+nail,nokat,hr,1,llm_only
+clerk,službenica,hr,1,llm_only
+clerk,službenik,hr,0,llm_only
+playing,igranje,hr,1,llm_only
+course,tečaj,hr,1,llm_only
+learning,učenje,hr,1,llm_only
+pancake,palačinka,hr,1,llm_only
+cocktail,koktel,hr,1,llm_only
+theater,kazalište,hr,1,llm_only
+movement,kretanje,hr,1,llm_only
+entrance ticket,ulaznica,hr,1,llm_only
+someone else's,tuđ,hr,1,llm_only
+euro,euro,hr,1,llm_only
+to organize,organizirati,hr,1,llm_only
+equipment,pribor,hr,1,llm_only
+addition,dodatak,hr,1,llm_only
+to test,testirati,hr,1,llm_only
+microphone,mikrofon,hr,1,llm_only
+tie,kravata,hr,1,llm_only
+total,ukupno,hr,1,llm_only
+occupation,zanimanje,hr,1,llm_only
+homemade,domaći,hr,1,llm_only
+present,prisutan,hr,1,llm_only
+plate,tanjur,hr,1,llm_only
+on foot,pješice,hr,1,llm_only
+guitar,gitara,hr,1,llm_only
+elevator,lift,hr,1,llm_only
+potato,krumpir,hr,1,llm_only
+vegetables,povrće,hr,1,llm_only
+furniture,namještaj,hr,1,llm_only
+to take out,vaditi,hr,1,llm_only
+warm,topao,hr,1,llm_only
+butter,maslac,hr,1,llm_only
+China,Kina,hr,1,llm_only
+Wednesday,srijeda,hr,1,llm_only
+small thing,sitnica,hr,1,llm_only
+Frenchman,Francuz,hr,1,llm_only
+festival,festival,hr,1,llm_only
+salesman,prodavač,hr,1,llm_only
+hall,dvorana,hr,1,llm_only
+towel,ručnik,hr,1,llm_only
+to have dinner,večerati,hr,1,llm_only
+curious,znatiželjan,hr,1,llm_only
+thirsty,žedan,hr,1,llm_only
+united,sjedinjen,hr,1,llm_only
+April,travanj,hr,1,llm_only
+opera,opera,hr,1,llm_only
+to light,paliti,hr,1,llm_only
+northern,sjeverni,hr,1,llm_only
+atmosphere,atmosfera,hr,1,llm_only
+Iraq,Irak,hr,1,llm_only
+Croatian,hrvatski,hr,1,llm_only
+toast,tost,hr,1,llm_only
+July,srpanj,hr,1,llm_only
+flag,zastava,hr,1,llm_only
+bright,svijetao,hr,1,llm_only
+salon,salon,hr,1,llm_only
+library,knjižnica,hr,1,llm_only
+sports,sportski,hr,1,llm_only
+popular,popularan,hr,1,llm_only
+Japanese,japanski,hr,1,llm_only
+Japanese,Japanac,hr,0,llm_only
+Japanese,Japanka,hr,0,llm_only
+positive,pozitivan,hr,1,llm_only
+socializing,druženje,hr,1,llm_only
+parking lot,parkiralište,hr,1,llm_only
+curtain,zavjesa,hr,1,llm_only
+small cabinet,ormarić,hr,1,llm_only
+passport,putovnica,hr,1,llm_only
+ending,nastavak,hr,1,llm_only
+ending,završetak,hr,0,llm_only
+engineer,inženjer,hr,1,llm_only
+engineer,inženjerka,hr,0,llm_only
+frame,okvir,hr,1,llm_only
+uniform,uniforma,hr,1,llm_only
+dad's,tatin,hr,1,llm_only
+buyer,kupac,hr,1,llm_only
+founded,osnovan,hr,1,llm_only
+slow,spor,hr,1,llm_only
+drama,drama,hr,1,llm_only
+eleven,jedanaest,hr,1,llm_only
+fresh,svjež,hr,1,llm_only
+bra,grudnjak,hr,1,llm_only
+hard,tvrd,hr,1,llm_only
+luggage,prtljaga,hr,1,llm_only
+balloon,balon,hr,1,llm_only
+director,redatelj,hr,1,llm_only
+director,redateljica,hr,0,llm_only
+Briton,Britanac,hr,1,llm_only
+Briton,Britanka,hr,0,llm_only
+photographer,fotograf,hr,1,llm_only
+to express,izraziti,hr,1,llm_only
+to express,izražavati,hr,0,llm_only
+revolution,revolucija,hr,1,llm_only
+to be silent,šutjeti,hr,1,llm_only
+June,lipanj,hr,1,llm_only
+fantastic,fantastičan,hr,1,llm_only
+Russia,Rusija,hr,1,llm_only
+cheerful,veseo,hr,1,llm_only
+chips,čips,hr,1,llm_only
+TV set,televizor,hr,1,llm_only
+yellow,žut,hr,1,llm_only
+Italian,Talijan,hr,1,llm_only
+Italian,Talijanka,hr,0,llm_only
+Italian,talijanski,hr,0,llm_only
+children's,dječji,hr,1,llm_only
+aloud,naglas,hr,1,llm_only
+roommate,cimer,hr,1,llm_only
+roommate,cimerica,hr,0,llm_only
+March,ožujak,hr,1,llm_only
+India,Indija,hr,1,llm_only
+premiere,premijera,hr,1,llm_only
+October,listopad,hr,1,llm_only
+Italy,Italija,hr,1,llm_only
+to compare,usporediti,hr,1,llm_only
+adverb,prilog,hr,1,llm_only
+to bake,peći,hr,1,llm_only
+everything,sve,hr,1,llm_only
+she,ona,hr,1,llm_only
+too much,previše,hr,1,llm_only
+annual,godišnji,hr,1,llm_only
+correct,ispravan,hr,1,llm_only
+tidy,uredan,hr,1,llm_only
+singular,jednina,hr,1,llm_only
+deep,dubok,hr,1,llm_only
+opposite,nasuprot,hr,1,llm_only
+foreign,stran,hr,1,llm_only
+pumpkin,bundeva,hr,1,llm_only
+Frenchwoman,Francuskinja,hr,1,llm_only
+to fill,puniti,hr,1,llm_only
+direct,direktan,hr,1,llm_only
+direct,izravan,hr,0,llm_only
+square,trg,hr,1,llm_only
+portal,portal,hr,1,llm_only
+equal,jednak,hr,1,llm_only
+complex,složen,hr,1,llm_only
+to pick,brati,hr,1,llm_only
+unknown,nepoznat,hr,1,llm_only
+surroundings,okolica,hr,1,llm_only
+unpleasant,neugodan,hr,1,llm_only
+acquaintance,poznanik,hr,1,llm_only
+romantic,romantičan,hr,1,llm_only
+negative,negativan,hr,1,llm_only
+negative,niječan,hr,0,llm_only
+eastern,istočni,hr,1,llm_only
+southern,južni,hr,1,llm_only
+practical,praktičan,hr,1,llm_only
+national,nacionalni,hr,1,llm_only
+national,narodni,hr,0,llm_only
+to recommend,preporučiti,hr,1,llm_only
+Hungarian,Mađar,hr,1,llm_only
+Hungarian,Mađarica,hr,0,llm_only
+Hungarian,mađarski,hr,0,llm_only
+western,zapadni,hr,1,llm_only
+brown,smeđ,hr,1,llm_only
+cheap,jeftin,hr,1,llm_only
+beef,govedina,hr,1,llm_only
+Mexican,Meksikanac,hr,1,llm_only
+Mexican,Meksikanka,hr,0,llm_only
+Mexican,meksički,hr,0,llm_only
+modern,moderan,hr,1,llm_only
+upper,gornji,hr,1,llm_only
+brilliant,genijalan,hr,1,llm_only
+strict,strog,hr,1,llm_only
+to phone,telefonirati,hr,1,llm_only
+classic,klasičan,hr,1,llm_only
+general,opći,hr,1,llm_only
+purple,ljubičast,hr,1,llm_only
+comfortable,udoban,hr,1,llm_only
+to reserve,rezervirati,hr,1,llm_only
+Greek,grčki,hr,1,llm_only
+Greek,Grk,hr,0,llm_only
+Greek,Grkinja,hr,0,llm_only
+lamp,lampa,hr,1,llm_only
+lamp,svjetiljka,hr,0,llm_only
+pink,ružičast,hr,1,llm_only
+gray,siv,hr,1,llm_only
+souvenir,suvenir,hr,1,llm_only
+sneaker,tenisica,hr,1,llm_only
+armchair,fotelja,hr,1,llm_only
+to count,brojiti,hr,1,llm_only
+England,Engleska,hr,1,llm_only
+tap,pipa,hr,1,llm_only
+tap,slavina,hr,0,llm_only
+to have lunch,ručati,hr,1,llm_only
+marketplace,tržnica,hr,1,llm_only
+delay,kašnjenje,hr,1,llm_only
+France,Francuska,hr,1,llm_only
+bathing place,kupalište,hr,1,llm_only
+Indian,indijski,hr,1,llm_only
+Indian,Indijac,hr,0,llm_only
+Indian,Indijka,hr,0,llm_only
+granddaughter,unuka,hr,1,llm_only
+with,s,hr,1,llm_only
+cave,špilja,hr,1,llm_only
+holiday,blagdan,hr,1,llm_only
+holiday,praznik,hr,0,llm_only
+yesterday's,jučerašnji,hr,1,llm_only
+Germany,Njemačka,hr,1,llm_only
+thin,mršav,hr,1,llm_only
+thin,tanak,hr,0,llm_only
+typical,tipičan,hr,1,llm_only
+academy,akademija,hr,1,llm_only
+elegant,elegantan,hr,1,llm_only
+tomato,rajčica,hr,1,llm_only
+active,aktivan,hr,1,llm_only
+saleswoman,prodavačica,hr,1,llm_only
+concrete,konkretan,hr,1,llm_only
+jeans,traperice,hr,1,llm_only
+regret,žaljenje,hr,1,llm_only
+cousin,bratić,hr,1,llm_only
+cousin,sestrična,hr,0,llm_only
+traditional,tradicionalan,hr,1,llm_only
+Finnish,finski,hr,1,llm_only
+Finn,Finac,hr,1,llm_only
+Finn,Finkinja,hr,0,llm_only
+pasta,tjestenina,hr,1,llm_only
+spider,pauk,hr,1,llm_only
+thick,gust,hr,1,llm_only
+politician,političar,hr,1,llm_only
+politician,političarka,hr,0,llm_only
+use,upotreba,hr,1,llm_only
+fashion,moda,hr,1,llm_only
+fashion,modni,hr,0,llm_only
+rice,riža,hr,1,llm_only
+to train,trenirati,hr,1,llm_only
+narrow,uzak,hr,1,llm_only
+donut,krafna,hr,1,llm_only
+monthly,mjesečni,hr,1,llm_only
+proverb,poslovica,hr,1,llm_only
+sixth,šesti,hr,1,llm_only
+peasant,seljak,hr,1,llm_only
+sentence,rečenica,hr,1,llm_only
+sentence,rečenični,hr,0,llm_only
+frequent,čest,hr,1,llm_only
+sunny,sunčan,hr,1,llm_only
+lazy,lijen,hr,1,llm_only
+mathematics,matematika,hr,1,llm_only
+singer,pjevač,hr,1,llm_only
+singer,pjevačica,hr,0,llm_only
+fork,vilica,hr,1,llm_only
+elephant,slon,hr,1,llm_only
+county,županija,hr,1,llm_only
+November,studeni,hr,1,llm_only
+frog,žaba,hr,1,llm_only
+Canada,Kanada,hr,1,llm_only
+European,europski,hr,1,llm_only
+European,Europljanin,hr,0,llm_only
+European,Europljanka,hr,0,llm_only
+Afghanistan,Afganistan,hr,1,llm_only
+Korean,korejski,hr,1,llm_only
+Korean,Korejac,hr,0,llm_only
+Korean,Korejka,hr,0,llm_only
+teenager,tinejdžer,hr,1,llm_only
+Canadian,kanadski,hr,1,llm_only
+Canadian,Kanađanin,hr,0,llm_only
+Canadian,Kanađanka,hr,0,llm_only
+seventh,sedmi,hr,1,llm_only
+delighted,oduševljen,hr,1,llm_only
+candy,bombon,hr,1,llm_only
+highway,autocesta,hr,1,llm_only
+drawer,ladica,hr,1,llm_only
+August,kolovoz,hr,1,llm_only
+turkey,puretina,hr,1,llm_only
+turkey,purica,hr,0,llm_only
+to brush,četkati,hr,1,llm_only
+to have breakfast,doručkovati,hr,1,llm_only
+Spain,Španjolska,hr,1,llm_only
+December,prosinac,hr,1,llm_only
+shell,školjka,hr,1,llm_only
+drawing,crtež,hr,1,llm_only
+tourist,turist,hr,1,llm_only
+corn,kukuruz,hr,1,llm_only
+Scottish,škotski,hr,1,llm_only
+ground floor,prizemlje,hr,1,llm_only
+exhibition,izložba,hr,1,llm_only
+zoological,zoološki,hr,1,llm_only
+Turkish,turski,hr,1,llm_only
+icy,leden,hr,1,llm_only
+bicycle,bicikl,hr,1,llm_only
+creative,kreativan,hr,1,llm_only
+skirt,suknja,hr,1,llm_only
+January,siječanj,hr,1,llm_only
+mushroom,gljiva,hr,1,llm_only
+ferry,trajekt,hr,1,llm_only
+niece,nećakinja,hr,1,llm_only
+scholarship,stipendija,hr,1,llm_only
+to communicate,komunicirati,hr,1,llm_only
+liter,litra,hr,1,llm_only
+forty,četrdeset,hr,1,llm_only
+spoon,žlica,hr,1,llm_only
+orange,naranča,hr,1,llm_only
+orange,narančast,hr,0,llm_only
+sausage,kobasica,hr,1,llm_only
+mechanic,mehaničar,hr,1,llm_only
+mechanic,mehaničarka,hr,0,llm_only
+independent,neovisan,hr,1,llm_only
+independent,samostalan,hr,0,llm_only
+to spend the summer,ljetovati,hr,1,llm_only
+oven,pećnica,hr,1,llm_only
+Dutch,nizozemski,hr,1,llm_only
+Dutchwoman,Nizozemka,hr,1,llm_only
+matching,podudaranje,hr,1,llm_only
+banana,banana,hr,1,llm_only
+probability,vjerojatnost,hr,1,llm_only
+insect,insekt,hr,1,llm_only
+Polish,poljski,hr,1,llm_only
+Pole,Poljak,hr,1,llm_only
+Pole,Poljakinja,hr,0,llm_only
+republic,republika,hr,1,llm_only
+chemical,kemijski,hr,1,llm_only
+salty,slan,hr,1,llm_only
+Egyptian,egipatski,hr,1,llm_only
+Egyptian,Egipćanin,hr,0,llm_only
+Egyptian,Egipćanka,hr,0,llm_only
+February,veljača,hr,1,llm_only
+doctor's office,ambulanta,hr,1,llm_only
+doctor's office,ordinacija,hr,0,llm_only
+baron,barun,hr,1,llm_only
+suitcase,kofer,hr,1,llm_only
+toilet,toaletni,hr,1,llm_only
+toilet,WC,hr,0,llm_only
+comic book,strip,hr,1,llm_only
+to write down,zapisati,hr,1,llm_only
+dentist,stomatolog,hr,1,llm_only
+dentist,zubar,hr,0,llm_only
+makeup,šminka,hr,1,llm_only
+Swedish,švedski,hr,1,llm_only
+to save,štedjeti,hr,1,llm_only
+mainland,kopno,hr,1,llm_only
+attic,tavan,hr,1,llm_only
+shelf,polica,hr,1,llm_only
+avenue,avenija,hr,1,llm_only
+Swiss,Švicarac,hr,1,llm_only
+Swiss,Švicarka,hr,0,llm_only
+Swiss,švicarski,hr,0,llm_only
+to suggest,sugerirati,hr,1,llm_only
+physics,fizika,hr,1,llm_only
+muffin,mafin,hr,1,llm_only
+walnut,orah,hr,1,llm_only
+to photograph,fotografirati,hr,1,llm_only
+the day after tomorrow,prekosutra,hr,1,llm_only
+the day after tomorrow,preksutra,hr,0,llm_only
+summer vacation,ljetovanje,hr,1,llm_only
+painter,slikar,hr,1,llm_only
+painter,slikarica,hr,0,llm_only
+statement,tvrdnja,hr,1,llm_only
+basketball,košarka,hr,1,llm_only
+lemon,limun,hr,1,llm_only
+post,objava,hr,1,llm_only
+post,post,hr,0,llm_only
+bracelet,narukvica,hr,1,llm_only
+irresponsible,neodgovoran,hr,1,llm_only
+resident,stanovnik,hr,1,llm_only
+official,službeni,hr,1,llm_only
+ham,šunka,hr,1,llm_only
+gallery,galerija,hr,1,llm_only
+speaker,govornik,hr,1,llm_only
+institution,ustanova,hr,1,llm_only
+carrot,mrkva,hr,1,llm_only
+autumn,jesen,hr,1,llm_only
+eighth,osmi,hr,1,llm_only
+balcony,balkon,hr,1,llm_only
+hairdresser,frizer,hr,1,llm_only
+hairdresser,frizerka,hr,0,llm_only
+cream,krema,hr,1,llm_only
+cream,vrhnje,hr,0,llm_only
+dean,dekan,hr,1,llm_only
+dean,dekanica,hr,0,llm_only
+pantry,smočnica,hr,1,llm_only
+helpful,uslužan,hr,1,llm_only
+trait,osobina,hr,1,llm_only
+horror,horor,hr,1,llm_only
+public,javni,hr,1,llm_only
+athlete,atletičar,hr,1,llm_only
+athlete,sportaš,hr,0,llm_only
+athlete,atletičarka,hr,0,llm_only
+athlete,sportašica,hr,0,llm_only
+spaghetti,špageti,hr,1,llm_only
+Switzerland,Švicarska,hr,1,llm_only
+vegetarian,vegetarijanac,hr,1,llm_only
+peach,breskva,hr,1,llm_only
+lemonade,limunada,hr,1,llm_only
+architect,arhitekt,hr,1,llm_only
+architect,arhitektica,hr,0,llm_only
+Irish,irski,hr,1,llm_only
+small town,gradić,hr,1,llm_only
+cookie,keks,hr,1,llm_only
+Iraqi,irački,hr,1,llm_only
+Iraqi,Iračanin,hr,0,llm_only
+Iraqi,Iračanka,hr,0,llm_only
+pajamas,pidžama,hr,1,llm_only
+category,kategorija,hr,1,llm_only
+two hundred,dvjesto,hr,1,llm_only
+discount,popust,hr,1,llm_only
+verb,glagol,hr,1,llm_only
+dining room,blagovaonica,hr,1,llm_only
+settlement,naselje,hr,1,llm_only
+postcard,razglednica,hr,1,llm_only
+painting,slikanje,hr,1,llm_only
+painting,slikarstvo,hr,0,llm_only
+ninth,deveti,hr,1,llm_only
+in autumn,najesen,hr,1,llm_only
+dimension,dimenzija,hr,1,llm_only
+singing,pjevanje,hr,1,llm_only
+chemistry,kemija,hr,1,llm_only
+etc.,itd.,hr,1,llm_only
+sour,kiseo,hr,1,llm_only
+Australian,australski,hr,1,llm_only
+Australian,Australac,hr,0,llm_only
+Australian,Australka,hr,0,llm_only
+stadium,stadion,hr,1,llm_only
+sixteen,šesnaest,hr,1,llm_only
+railway,željeznički,hr,1,llm_only
+author,autor,hr,1,llm_only
+strawberry,jagoda,hr,1,llm_only
+menu,jelovnik,hr,1,llm_only
+e.g.,npr.,hr,1,llm_only
+housewife,domaćica,hr,1,llm_only
+grapes,grožđe,hr,1,llm_only
+earring,naušnica,hr,1,llm_only
+quality,kvalitetan,hr,1,llm_only
+practicing,vježbanje,hr,1,llm_only
+favorable,povoljan,hr,1,llm_only
+pyramid,piramida,hr,1,llm_only
+semester,semestar,hr,1,llm_only
+hardworking,marljiv,hr,1,llm_only
+Ireland,Irska,hr,1,llm_only
+ancient,antički,hr,1,llm_only
+sweater,džemper,hr,1,llm_only
+yogurt,jogurt,hr,1,llm_only
+Pakistani,Pakistanac,hr,1,llm_only
+Pakistani,Pakistanka,hr,0,llm_only
+Pakistani,pakistanski,hr,0,llm_only
+tenth,deseti,hr,1,llm_only
+pharmacy,ljekarna,hr,1,llm_only
+to sightsee,razgledavati,hr,1,llm_only
+volcano,vulkan,hr,1,llm_only
+musical,mjuzikl,hr,1,llm_only
+cucumber,krastavac,hr,1,llm_only
+commercial,trgovački,hr,1,llm_only
+to symbolize,simbolizirati,hr,1,llm_only
+yoga,joga,hr,1,llm_only
+specialty,specijalitet,hr,1,llm_only
+sixty,šezdeset,hr,1,llm_only
+five hundred,petsto,hr,1,llm_only
+jam,džem,hr,1,llm_only
+dissatisfied,nezadovoljan,hr,1,llm_only
+vitamin,vitamin,hr,1,llm_only
+gym,teretana,hr,1,llm_only
+continent,kontinent,hr,1,llm_only
+irregular,nepravilan,hr,1,llm_only
+blazer,sako,hr,1,llm_only
+flu,gripa,hr,1,llm_only
+scarf,marama,hr,1,llm_only
+scarf,šal,hr,0,llm_only
+playground,igralište,hr,1,llm_only
+initial,početni,hr,1,llm_only
+unforgettable,nezaboravan,hr,1,llm_only
+likeable,simpatičan,hr,1,llm_only
+Scotland,Škotska,hr,1,llm_only
+pepper,papar,hr,1,llm_only
+pepper,paprika,hr,0,llm_only
+documentary,dokumentarac,hr,1,llm_only
+documentary,dokumentarni,hr,0,llm_only
+theoretical,teorijski,hr,1,llm_only
+Brazilian,brazilski,hr,1,llm_only
+Brazilian,Brazilac,hr,0,llm_only
+Brazilian,Brazilka,hr,0,llm_only
+pea,grašak,hr,1,llm_only
+ballet,balet,hr,1,llm_only
+seventeen,sedamnaest,hr,1,llm_only
+napkin,salveta,hr,1,llm_only
+umbrella,kišobran,hr,1,llm_only
+region,regija,hr,1,llm_only
+biology,biologija,hr,1,llm_only
+cabbage,kupus,hr,1,llm_only
+irony,ironija,hr,1,llm_only
+loud,bučan,hr,1,llm_only
+Norwegian,Norvežanin,hr,1,llm_only
+Norwegian,Norvežanka,hr,0,llm_only
+Norwegian,norveški,hr,0,llm_only
+terrace,terasa,hr,1,llm_only
+landmark,znamenitost,hr,1,llm_only
+garlic,češnjak,hr,1,llm_only
+watermelon,lubenica,hr,1,llm_only
+invention,izum,hr,1,llm_only
+thirteen,trinaest,hr,1,llm_only
+fourteen,četrnaest,hr,1,llm_only
+origin,podrijetlo,hr,1,llm_only
+skiing,skijanje,hr,1,llm_only
+flour,brašno,hr,1,llm_only
+shocked,šokiran,hr,1,llm_only
+Easter,Uskrs,hr,1,llm_only
+Easter,uskrsni,hr,0,llm_only
+Iranian,Iranac,hr,1,llm_only
+Iranian,Iranka,hr,0,llm_only
+Iranian,iranski,hr,0,llm_only
+tennis,tenis,hr,1,llm_only
+tennis,teniski,hr,0,llm_only
+eighteen,osamnaest,hr,1,llm_only
+philosophy,filozofija,hr,1,llm_only
+theatrical,kazališni,hr,1,llm_only
+Egypt,Egipat,hr,1,llm_only
+the day before yesterday,prekjučer,hr,1,llm_only
+comedy,komedija,hr,1,llm_only
+slipper,papuča,hr,1,llm_only
+appetizer,predjelo,hr,1,llm_only
+climate,klima,hr,1,llm_only
+Pakistan,Pakistan,hr,1,llm_only
+Poland,Poljska,hr,1,llm_only
+Britain,Britanija,hr,1,llm_only
+veal,teletina,hr,1,llm_only
+reader,čitač,hr,1,llm_only
+reader,čitatelj,hr,0,llm_only
+kindergarten,vrtić,hr,1,llm_only
+stream,potok,hr,1,llm_only
+dialogue,dijalog,hr,1,llm_only
+backpack,ruksak,hr,1,llm_only
+bookstore,knjižara,hr,1,llm_only
+national team,reprezentacija,hr,1,llm_only
+Belgian,belgijski,hr,1,llm_only
+Belgian,Belgijac,hr,0,llm_only
+Belgian,Belgijka,hr,0,llm_only
+notebook,bilježnica,hr,1,llm_only
+understanding,razumijevanje,hr,1,llm_only
+diplomat,diplomat,hr,1,llm_only
+magnet,magnet,hr,1,llm_only
+Greece,Grčka,hr,1,llm_only
+footballer,nogometaš,hr,1,llm_only
+interrogative,upitni,hr,1,llm_only
+long-lasting,dugotrajan,hr,1,llm_only
+untidy,neuredan,hr,1,llm_only
+ski,skija,hr,1,llm_only
+spacious,prostran,hr,1,llm_only
+Ukrainian,Ukrajinac,hr,1,llm_only
+Ukrainian,Ukrajinka,hr,0,llm_only
+Ukrainian,ukrajinski,hr,0,llm_only
+sink,sudoper,hr,1,llm_only
+ingredient,sastojak,hr,1,llm_only
+Romanian,Rumunj,hr,1,llm_only
+Romanian,Rumunjka,hr,0,llm_only
+Romanian,rumunjski,hr,0,llm_only
+passive,pasivan,hr,1,llm_only
+vanilla,vanilija,hr,1,llm_only
+Afghan,Afganistanac,hr,1,llm_only
+Afghan,Afganistanka,hr,0,llm_only
+Afghan,afganistanski,hr,0,llm_only
+formula,formula,hr,1,llm_only
+plural,množina,hr,1,llm_only
+plural,plural,hr,0,llm_only
+uncertainty,nesigurnost,hr,1,llm_only
+calendar,kalendar,hr,1,llm_only
+Sweden,Švedska,hr,1,llm_only
+Norway,Norveška,hr,1,llm_only
+archaeologist,arheolog,hr,1,llm_only
+to fall in love,zavoljeti,hr,1,llm_only
+shallow,plitak,hr,1,llm_only
+chapter,cjelina,hr,1,llm_only
+Serbian,Srbin,hr,1,llm_only
+Serbian,Srpkinja,hr,0,llm_only
+Serbian,srpski,hr,0,llm_only
+blog,blog,hr,1,llm_only
+unlikeable,antipatičan,hr,1,llm_only
+Portuguese,Portugalac,hr,1,llm_only
+Portuguese,Portugalka,hr,0,llm_only
+Portuguese,portugalski,hr,0,llm_only
+stand,štand,hr,1,llm_only
+Estonian,Estonac,hr,1,llm_only
+Estonian,Estonka,hr,0,llm_only
+Estonian,estonski,hr,0,llm_only
+Austrian,austrijski,hr,1,llm_only
+Austrian,Austrijanac,hr,0,llm_only
+Austrian,Austrijanka,hr,0,llm_only
+stork,roda,hr,1,llm_only
+caffeine,kofein,hr,1,llm_only
+slim,vitak,hr,1,llm_only
+eighty,osamdeset,hr,1,llm_only
+diet,dijeta,hr,1,llm_only
+function,funkcija,hr,1,llm_only
+tram,tramvaj,hr,1,llm_only
+tram,tramvajski,hr,0,llm_only
+refusal,odbijanje,hr,1,llm_only
+stove,peć,hr,1,llm_only
+stove,štednjak,hr,0,llm_only
+alphabet,abeceda,hr,1,llm_only
+seventy,sedamdeset,hr,1,llm_only
+cherry,trešnja,hr,1,llm_only
+sour cherry,višnja,hr,1,llm_only
+parking,parkiranje,hr,1,llm_only
+Czech,češki,hr,1,llm_only
+Czech,Čeh,hr,0,llm_only
+Czech,Čehinja,hr,0,llm_only
+Advent,advent,hr,1,llm_only
+aerobics,aerobik,hr,1,llm_only
+affirmative,afirmativan,hr,1,llm_only
+affirmative,jesni,hr,0,llm_only
+ajvar,ajvar,hr,1,llm_only
+on sale,akcijski,hr,1,llm_only
+accusative case,akuzativ,hr,1,llm_only
+aquarium,akvarij,hr,1,llm_only
+amphitheater,amfiteatar,hr,1,llm_only
+pineapple,ananas,hr,1,llm_only
+antifascist,antifašistički,hr,1,llm_only
+Argentine,argentinski,hr,1,llm_only
+Argentine,Argentinac,hr,0,llm_only
+Argentine,Argentinka,hr,0,llm_only
+studio,atelje,hr,1,llm_only
+attraction,atrakcija,hr,1,llm_only
+vending machine,automat,hr,1,llm_only
+car wash,autopraonica,hr,1,llm_only
+by hitchhiking,autostopom,hr,1,llm_only
+Russian nesting doll,babuška,hr,1,llm_only
+Bajadera,Bajadera,hr,1,llm_only
+ballet flat,balerinka,hr,1,llm_only
+bambus,bambus,hr,1,llm_only
+ban,ban,hr,1,llm_only
+ATM,bankomat,hr,1,llm_only
+bevanda,bevanda,hr,1,llm_only
+impersonal,bezličan,hr,1,llm_only
+cash register,blagajna,hr,1,llm_only
+chard,blitva,hr,1,llm_only
+blogger,bloger,hr,1,llm_only
+blogger,blogerica,hr,0,llm_only
+blouse,bluza,hr,1,llm_only
+to be afraid,bojati se,hr,1,llm_only
+crayon,bojica,hr,1,llm_only
+boxer shorts,bokserice,hr,1,llm_only
+box of chocolates,bombonijera,hr,1,llm_only
+basil,bosiljak,hr,1,llm_only
+botanical garden,botanički vrt,hr,1,llm_only
+broccoli,brokula,hr,1,llm_only
+to wake up,buditi se,hr,1,llm_only
+to wake up,probuditi se,hr,0,llm_only
+Bulgarian,bugarski,hr,1,llm_only
+Bulgarian,Bugarin,hr,0,llm_only
+Bulgarian,Bugarka,hr,0,llm_only
+burek,burek,hr,1,llm_only
+Cedevita,Cedevita,hr,1,llm_only
+cinnamon,cimet,hr,1,llm_only
+cartoon,crtani film,hr,1,llm_only
+cartoon,crtić,hr,0,llm_only
+hyphen,crtica,hr,1,llm_only
+Little Red Riding Hood,Crvenkapica,hr,1,llm_only
+flower shop,cvjećarnica,hr,1,llm_only
+cauliflower,cvjetača,hr,1,llm_only
+congratulating,čestitanje,hr,1,llm_only
+comb,češalj,hr,1,llm_only
+to comb one's hair,češljati se,hr,1,llm_only
+four hundred,četiristo,hr,1,llm_only
+brush,četka,hr,1,llm_only
+fourteenth,četrnaesti,hr,1,llm_only
+Chilean,čileanski,hr,1,llm_only
+Chilean,Čileanac,hr,0,llm_only
+Chilean,Čileanka,hr,0,llm_only
+to seem,činiti se,hr,1,llm_only
+to be surprised,čuditi se,hr,1,llm_only
+ćevap,ćevap,hr,1,llm_only
+ćevapčić,ćevapčić,hr,1,llm_only
+distant,dalek,hr,1,llm_only
+distance,daljina,hr,1,llm_only
+dative case,dativ,hr,1,llm_only
+giving,davanje,hr,1,llm_only
+to decline,deklinirati,hr,1,llm_only
+destination,destinacija,hr,1,llm_only
+detergent,deterdžent,hr,1,llm_only
+ninety,devedeset,hr,1,llm_only
+nineteen,devetnaest,hr,1,llm_only
+nineteenth,devetnaesti,hr,1,llm_only
+nine hundred,devetsto,hr,1,llm_only
+dynamic,dinamičan,hr,1,llm_only
+dynamism,dinamičnost,hr,1,llm_only
+directive,direktivan,hr,1,llm_only
+discussing,diskutiranje,hr,1,llm_only
+living room,dnevna soba,hr,1,llm_only
+living room,dnevni boravak,hr,0,llm_only
+to await,dočekivati,hr,1,llm_only
+to happen,dogoditi se,hr,1,llm_only
+arranging,dogovaranje,hr,1,llm_only
+to agree,dogovoriti se,hr,1,llm_only
+to agree,slagati se,hr,0,llm_only
+to agree,složiti se,hr,0,llm_only
+documentary film,dokumentarni film,hr,1,llm_only
+turtleneck,dolčevita,hr,1,llm_only
+homeland,domovina,hr,1,llm_only
+homeland,domovinski,hr,0,llm_only
+to supplement,dopuniti,hr,1,llm_only
+permitting,dopuštanje,hr,1,llm_only
+drugstore,drogerija,hr,1,llm_only
+to socialize,družiti se,hr,1,llm_only
+wooden,drven,hr,1,llm_only
+statehood,državnost,hr,1,llm_only
+soup plate,duboki tanjur,hr,1,llm_only
+Dubrovnik,dubrovački,hr,1,llm_only
+length,dužina,hr,1,llm_only
+twentieth,dvadeseti,hr,1,llm_only
+twelfth,dvanaesti,hr,1,llm_only
+two-thousandth,dvijetisućiti,hr,1,llm_only
+two-seater sofa,dvosjed,hr,1,llm_only
+pocket money,džeparac,hr,1,llm_only
+ginger,đumbir,hr,1,llm_only
+economist,ekonomistica,hr,1,llm_only
+elegance,elegancija,hr,1,llm_only
+essay,esej,hr,1,llm_only
+philosophical,filozofski,hr,1,llm_only
+fjord,fjord,hr,1,llm_only
+flute,flauta,hr,1,llm_only
+marker,flomaster,hr,1,llm_only
+fountain,fontana,hr,1,llm_only
+formal,formalan,hr,1,llm_only
+formally,formalno,hr,1,llm_only
+idiom,frazem,hr,1,llm_only
+hairdressing,frizerski,hr,1,llm_only
+future tense,futur,hr,1,llm_only
+geyser,gejzir,hr,1,llm_only
+gemišt,gemišt,hr,1,llm_only
+genitive case,genitiv,hr,1,llm_only
+iron,glačalo,hr,1,llm_only
+verbal,glagolski,hr,1,llm_only
+Glagolitic priest,glagoljaš,hr,1,llm_only
+Glagolitic script,glagoljica,hr,1,llm_only
+gluten,gluten,hr,1,llm_only
+spoken,govorni,hr,1,llm_only
+grapheme,grafem,hr,1,llm_only
+graffiti,grafit,hr,1,llm_only
+grammatical,gramatički,hr,1,llm_only
+grammar,gramatika,hr,1,llm_only
+coat of arms,grb,hr,1,llm_only
+to hug,grliti,hr,1,llm_only
+goulash,gulaš,hr,1,llm_only
+pet name,hipokoristik,hr,1,llm_only
+Honduran,honduraški,hr,1,llm_only
+Honduran,Hondurašanin,hr,0,llm_only
+Honduran,Hondurašanka,hr,0,llm_only
+hostel,hostel,hr,1,llm_only
+acted,igrani,hr,1,llm_only
+feature film,igrani film,hr,1,llm_only
+to play,igrati se,hr,1,llm_only
+icon,ikona,hr,1,llm_only
+name day,imendan,hr,1,llm_only
+noun,imenica,hr,1,llm_only
+nominal,imenski,hr,1,llm_only
+to improvise,improvizirati,hr,1,llm_only
+indirect,indirektan,hr,1,llm_only
+infinitive,infinitiv,hr,1,llm_only
+IT specialist,informatičar,hr,1,llm_only
+IT specialist,informatičarka,hr,0,llm_only
+to inform,informirati,hr,1,llm_only
+innovation,inovacija,hr,1,llm_only
+inspiration,inspiracija,hr,1,llm_only
+installation,instalacija,hr,1,llm_only
+instrumental case,instrumental,hr,1,llm_only
+to interview,intervjuirati,hr,1,llm_only
+inversion,inverzija,hr,1,llm_only
+Icelandic,islandski,hr,1,llm_only
+apologizing,ispričavanje,hr,1,llm_only
+to apologize,ispričavati se,hr,1,llm_only
+letting out,ispuštanje,hr,1,llm_only
+east of,istočno od,hr,1,llm_only
+declarative,izjavni,hr,1,llm_only
+to rent,iznajmljivati,hr,1,llm_only
+to carry out,iznositi,hr,1,llm_only
+to omit,izostaviti,hr,1,llm_only
+inventor,izumitelj,hr,1,llm_only
+Adriatic,jadranski,hr,1,llm_only
+lamb,janjetina,hr,1,llm_only
+to report in,javiti se,hr,1,llm_only
+to report in,javljati se,hr,0,llm_only
+eleventh,jedanaesti,hr,1,llm_only
+to sail,jedriti,hr,1,llm_only
+to sail,ploviti,hr,0,llm_only
+linguistic,jezični,hr,1,llm_only
+south of,južno od,hr,1,llm_only
+South African,južnoafrički,hr,1,llm_only
+calculator,kalkulator,hr,1,llm_only
+stone,kameni,hr,1,llm_only
+canteen,kantina,hr,1,llm_only
+characteristic,karakteristika,hr,1,llm_only
+characteristic,svojstven,hr,0,llm_only
+Karlovac,karlovački,hr,1,llm_only
+carnival,karneval,hr,1,llm_only
+to play cards,kartati se,hr,1,llm_only
+catalog,katalog,hr,1,llm_only
+Qatari,katarski,hr,1,llm_only
+Qatari,Katarac,hr,0,llm_only
+Qatari,Katarka,hr,0,llm_only
+cathedral,katedrala,hr,1,llm_only
+chestnut,kesten,hr,1,llm_only
+kiosk,kiosk,hr,1,llm_only
+paintbrush,kist,hr,1,llm_only
+ice skater,klizačica,hr,1,llm_only
+kangaroo,klokan,hr,1,llm_only
+clog,klompa,hr,1,llm_only
+librarian,knjižničarka,hr,1,llm_only
+koala,koala,hr,1,llm_only
+to combine,kombinirati,hr,1,llm_only
+communicative,komunikativan,hr,1,llm_only
+conditional mood,kondicional,hr,1,llm_only
+concretely,konkretno,hr,1,llm_only
+consonant,konsonant,hr,1,llm_only
+to construct,konstruirati,hr,1,llm_only
+consultation,konzultacije,hr,1,llm_only
+to conjugate,konjugirati,hr,1,llm_only
+football boot,kopačka,hr,1,llm_only
+promenade,korzo,hr,1,llm_only
+promenade,promenada,hr,0,llm_only
+promenade,šetalište,hr,0,llm_only
+basketball player,košarkaš,hr,1,llm_only
+cosmetologist,kozmetičar,hr,1,llm_only
+cosmetologist,kozmetičarka,hr,0,llm_only
+cosmetic,kozmetički,hr,1,llm_only
+cream cake,kremšnita,hr,1,llm_only
+pear,kruška,hr,1,llm_only
+small house,kućica,hr,1,llm_only
+kulen,kulen,hr,1,llm_only
+cult,kultni,hr,1,llm_only
+cultured,kulturan,hr,1,llm_only
+market vendor,kumica,hr,1,llm_only
+kuna,kuna,hr,1,llm_only
+swimsuit,kupaći kostim,hr,1,llm_only
+to bathe,kupati,hr,1,llm_only
+to bathe,kupati se,hr,0,llm_only
+malfunction,kvar,hr,1,llm_only
+vocabulary,leksik,hr,1,llm_only
+vocabulary,vokabular,hr,0,llm_only
+editor,lektor,hr,1,llm_only
+editor,lektorica,hr,0,llm_only
+personal pronoun,lična zamjenica,hr,1,llm_only
+squid,lignja,hr,1,llm_only
+liqueur,liker,hr,1,llm_only
+linguist,lingvist,hr,1,llm_only
+lime tree; lipa,lipa,hr,1,llm_only
+locative case,lokativ,hr,1,llm_only
+locomotive,lokomotiva,hr,1,llm_only
+pot,lonac,hr,1,llm_only
+to play ball,loptati se,hr,1,llm_only
+laurel,lovor,hr,1,llm_only
+in summer,ljeti,hr,1,llm_only
+to kiss,ljubiti se,hr,1,llm_only
+swing,ljuljačka,hr,1,llm_only
+to be angry,ljutiti se,hr,1,llm_only
+green bean,mahuna,hr,1,llm_only
+marathon,maraton,hr,1,llm_only
+apricot,marelica,hr,1,llm_only
+olive,maslina,hr,1,llm_only
+material,materijalan,hr,1,llm_only
+Mediterranean,mediteranski,hr,1,llm_only
+butcher shop,mesnica,hr,1,llm_only
+microwave oven,mikrovalna pećnica,hr,1,llm_only
+mineral,mineral,hr,1,llm_only
+mineral water,mineralna voda,hr,1,llm_only
+miniskirt,minica,hr,1,llm_only
+dairy product,mliječni proizvod,hr,1,llm_only
+mlinci,mlinci,hr,1,llm_only
+ground,mljeven,hr,1,llm_only
+modal,modalan,hr,1,llm_only
+national park,nacionalni park,hr,1,llm_only
+nationality,nacionalnost,hr,1,llm_only
+to draw,nacrtati,hr,1,llm_only
+to hope,nadati se,hr,1,llm_only
+to emphasize,naglasiti,hr,1,llm_only
+stressed,naglašen,hr,1,llm_only
+nylon stockings,najlonke,hr,1,llm_only
+to be located,nalaziti se,hr,1,llm_only
+for example,naprimjer,hr,1,llm_only
+ordering,naručivanje,hr,1,llm_only
+toasting,nazdravljanje,hr,1,llm_only
+lamplighter,nažigač,hr,1,llm_only
+skyscraper,neboder,hr,1,llm_only
+not far from,nedaleko od,hr,1,llm_only
+informal,neformalan,hr,1,llm_only
+informally,neformalno,hr,1,llm_only
+negation,negacija,hr,1,llm_only
+to deny,negirati,hr,1,llm_only
+disapproval,negodovanje,hr,1,llm_only
+uncommunicative,nekomunikativan,hr,1,llm_only
+unfriendly,neljubazan,hr,1,llm_only
+unstressed,nenaglašen,hr,1,llm_only
+indecisiveness,neodlučnost,hr,1,llm_only
+non-palatal consonant,nepalatal,hr,1,llm_only
+movable a,nepostojano a,hr,1,llm_only
+non-working,neradni,hr,1,llm_only
+unrealistic,nerealan,hr,1,llm_only
+atypical,netipičan,hr,1,llm_only
+incorrect,netočan,hr,1,llm_only
+incorrectly,netočno,hr,1,llm_only
+disbelief,nevjerica,hr,1,llm_only
+inanimate,neživ,hr,1,llm_only
+nominative case,nominativ,hr,1,llm_only
+offering,nuđenje,hr,1,llm_only
+offering,pružanje,hr,0,llm_only
+necessity,nužnost,hr,1,llm_only
+care,njega,hr,1,llm_only
+gnocchi,njoki,hr,1,llm_only
+to mark,obilježiti,hr,1,llm_only
+explanatory,objasnidbeni,hr,1,llm_only
+to get dressed,oblačiti se,hr,1,llm_only
+addressing,obraćanje,hr,1,llm_only
+to address,obraćati se,hr,1,llm_only
+footwear,obuća,hr,1,llm_only
+vinegar,ocat,hr,1,llm_only
+father's,očev,hr,1,llm_only
+to act out,odglumiti,hr,1,llm_only
+to rest,odmarati se,hr,1,llm_only
+to rest,odmoriti se,hr,0,llm_only
+to relate,odnositi se,hr,1,llm_only
+to take place,održavati se,hr,1,llm_only
+unfolding,odvijanje,hr,1,llm_only
+Olympic Games,Olimpijske igre,hr,1,llm_only
+descriptive,opisni,hr,1,llm_only
+organ,orgulje,hr,1,llm_only
+eighteenth,osamnaesti,hr,1,llm_only
+eight hundred,osamsto,hr,1,llm_only
+to feel,osjećati se,hr,1,llm_only
+basic,osnovni,hr,1,llm_only
+depending,ovisno,hr,1,llm_only
+to get married,oženiti se,hr,1,llm_only
+to get married,ženiti se,hr,0,llm_only
+to get married,udati se,hr,0,llm_only
+grammatical case,padež,hr,1,llm_only
+parachute,padobran,hr,1,llm_only
+palatal consonant,palatal,hr,1,llm_only
+palm tree,palma,hr,1,llm_only
+stationery shop,papirnica,hr,1,llm_only
+to park,parkirati se,hr,1,llm_only
+partitive genitive,partitivni genitiv,hr,1,llm_only
+Pag,paški,hr,1,llm_only
+eggplant,patlidžan,hr,1,llm_only
+pastry,pecivo,hr,1,llm_only
+bakery,pekarnica,hr,1,llm_only
+perfect tense,perfekt,hr,1,llm_only
+parsley,peršin,hr,1,llm_only
+fifteenth,petnaesti,hr,1,llm_only
+mountaineer,planinar,hr,1,llm_only
+mountaineering,planinarenje,hr,1,llm_only
+mountaineering,planinarski,hr,0,llm_only
+to hike,planinariti,hr,1,llm_only
+gas,plinski,hr,1,llm_only
+dinner plate,plitki tanjur,hr,1,llm_only
+to treat,počastiti,hr,1,llm_only
+to match,podudarati se,hr,1,llm_only
+entrepreneur,poduzetnica,hr,1,llm_only
+pass,pokaz,hr,1,llm_only
+showing,pokazivanje,hr,1,llm_only
+demonstrative,pokazni,hr,1,llm_only
+gift-giving,poklanjanje,hr,1,llm_only
+to give as a gift,poklanjati,hr,1,llm_only
+to give as a gift,pokloniti,hr,0,llm_only
+gift voucher,poklon-bon,hr,1,llm_only
+peninsula,poluotok,hr,1,llm_only
+repetition,ponavljanje,hr,1,llm_only
+to repair,popravljati,hr,1,llm_only
+order,poredak,hr,1,llm_only
+possessor,posesor,hr,1,llm_only
+to help oneself,poslužiti se,hr,1,llm_only
+to tidy up,pospremati,hr,1,llm_only
+to achieve,postizati,hr,1,llm_only
+dishes,posuđe,hr,1,llm_only
+possessive pronoun,posvojna zamjenica,hr,1,llm_only
+possessiveness,posvojnost,hr,1,llm_only
+undershirt,potkošulja,hr,1,llm_only
+to teach,poučavati,hr,1,llm_only
+to vomit,povraćati,hr,1,llm_only
+reflexive pronoun,povratna zamjenica,hr,1,llm_only
+reflexive verb,povratni glagol,hr,1,llm_only
+inviting,pozivanje,hr,1,llm_only
+to wash oneself,prati se,hr,1,llm_only
+spelling,pravopis,hr,1,llm_only
+proposing,predlaganje,hr,1,llm_only
+prefix,predmetak,hr,1,llm_only
+prefix,prefiks,hr,0,llm_only
+too little,premalo,hr,1,llm_only
+prime minister,premijerka,hr,1,llm_only
+to transform,preoblikovati,hr,1,llm_only
+too serious,preozbiljan,hr,1,llm_only
+to copy,prepisati,hr,1,llm_only
+to copy,prepisivati,hr,0,llm_only
+to retell,prepričati,hr,1,llm_only
+to recalculate,preračunati,hr,1,llm_only
+previous,prethodan,hr,1,llm_only
+present tense,prezent,hr,1,llm_only
+presentation,prezentacija,hr,1,llm_only
+to present,prezentirati,hr,1,llm_only
+to approach,približavati se,hr,1,llm_only
+adjective,pridjev,hr,1,llm_only
+adjectival,pridjevski,hr,1,llm_only
+reception,primanje,hr,1,llm_only
+recipient,primatelj,hr,1,llm_only
+coastal region,primorje,hr,1,llm_only
+belonging,pripadnost,hr,1,llm_only
+in doing so,pritom,hr,1,llm_only
+to land,prizemljiti,hr,1,llm_only
+selling,prodavanje,hr,1,llm_only
+forecast,prognoza,hr,1,llm_only
+programmer,programer,hr,1,llm_only
+programmer,programerka,hr,0,llm_only
+to design,projektirati,hr,1,llm_only
+passer-by,prolaznica,hr,1,llm_only
+passer-by,prolaznik,hr,0,llm_only
+to miss,propuštati,hr,1,llm_only
+prosciutto,pršut,hr,1,llm_only
+to fry,pržiti,hr,1,llm_only
+signpost,putokaz,hr,1,llm_only
+travelogue,putopis,hr,1,llm_only
+radler,radler,hr,1,llm_only
+study,radna soba,hr,1,llm_only
+workday,radni dan,hr,1,llm_only
+working hours,radno vrijeme,hr,1,llm_only
+to look forward to,radovati se,hr,1,llm_only
+to look forward to,veseliti se,hr,0,llm_only
+rafting,rafting,hr,1,llm_only
+rakija,rakija,hr,1,llm_only
+inquiring,raspitivanje,hr,1,llm_only
+to sell out,rasprodati,hr,1,llm_only
+to look around,razgledati,hr,1,llm_only
+to differ,razlikovati se,hr,1,llm_only
+to sort,razvrstati,hr,1,llm_only
+realistic,realan,hr,1,llm_only
+ordinal,redni,hr,1,llm_only
+reflexive,refleksivni,hr,1,llm_only
+racket,reket,hr,1,llm_only
+recreation,rekreacija,hr,1,llm_only
+to relax,rekreirati se,hr,1,llm_only
+relief,reljef,hr,1,llm_only
+masterpiece,remek-djelo,hr,1,llm_only
+belt,remen,hr,1,llm_only
+fish shop,ribarnica,hr,1,llm_only
+Rijeka,riječki,hr,1,llm_only
+waterfront promenade,riva,hr,1,llm_only
+dictionary,rječnik,hr,1,llm_only
+to be born,roditi se,hr,1,llm_only
+roller skate,rola,hr,1,llm_only
+to dive,roniti,hr,1,llm_only
+cape,rt,hr,1,llm_only
+handball,rukomet,hr,1,llm_only
+handball player,rukometaš,hr,1,llm_only
+to shake hands,rukovati se,hr,1,llm_only
+rosemary,ružmarin,hr,1,llm_only
+to contain,sadržavati,hr,1,llm_only
+salami,salama,hr,1,llm_only
+independently,samostalno,hr,1,llm_only
+sandal,sandala,hr,1,llm_only
+sarma,sarma,hr,1,llm_only
+to meet,sastati se,hr,1,llm_only
+to meet,sresti se,hr,0,llm_only
+to meet,sretati,hr,0,llm_only
+to consist,sastojati se,hr,1,llm_only
+seventeenth,sedamnaesti,hr,1,llm_only
+seven hundred,sedamsto,hr,1,llm_only
+sister's,sestrin,hr,1,llm_only
+sibilarization,sibilarizacija,hr,1,llm_only
+phrase,sintagma,hr,1,llm_only
+to remember,sjećati se,hr,1,llm_only
+to recall,sjetiti se,hr,1,llm_only
+north of,sjeverno od,hr,1,llm_only
+scanner,skener,hr,1,llm_only
+to scan,skenirati,hr,1,llm_only
+to ski,skijati,hr,1,llm_only
+sculpture,skulptura,hr,1,llm_only
+pastry shop,slastičarnica,hr,1,llm_only
+Slavic,slavenski,hr,1,llm_only
+picture book,slikovnica,hr,1,llm_only
+syllable,slog,hr,1,llm_only
+listening,slušanje,hr,1,llm_only
+located,smješten,hr,1,llm_only
+solar,solarni,hr,1,llm_only
+bedroom,spavaća soba,hr,1,llm_only
+specific,specifičan,hr,1,llm_only
+sex,spol,hr,1,llm_only
+monument,spomenik,hr,1,llm_only
+silver,srebrn,hr,1,llm_only
+Central European,srednjoeuropski,hr,1,llm_only
+housing,stanovanje,hr,1,llm_only
+staticness,statičnost,hr,1,llm_only
+stethoscope,stetoskop,hr,1,llm_only
+small table,stolić,hr,1,llm_only
+hundredth,stoti,hr,1,llm_only
+uncle's,stričev,hr,1,llm_only
+dormitory,studentski dom,hr,1,llm_only
+to study,studirati,hr,1,llm_only
+column,stupac,hr,1,llm_only
+conversation partner,sugovornik,hr,1,llm_only
+beach umbrella,suncobran,hr,1,llm_only
+to sunbathe,sunčati se,hr,1,llm_only
+everyday,svakodnevan,hr,1,llm_only
+liking,sviđanje,hr,1,llm_only
+to be liked,sviđati se,hr,1,llm_only
+to shine,svijetliti,hr,1,llm_only
+pork,svinjetina,hr,1,llm_only
+light gray,svjetlosiv,hr,1,llm_only
+to joke,šaliti se,hr,1,llm_only
+sixteenth,šesnaesti,hr,1,llm_only
+sixtieth,šezdeseti,hr,1,llm_only
+whipped cream,šlag,hr,1,llm_only
+plum,šljiva,hr,1,llm_only
+high heel,štikla,hr,1,llm_only
+nerd,štreberica,hr,1,llm_only
+tablet,tablet,hr,1,llm_only
+leggings,tajice,hr,1,llm_only
+so-so,tako-tako,hr,1,llm_only
+dark blue,tamnoplav,hr,1,llm_only
+dark gray,tamnosiv,hr,1,llm_only
+small plate,tanjurić,hr,1,llm_only
+tennis player,tenisač,hr,1,llm_only
+hot water bottle,termofor,hr,1,llm_only
+Corpus Christi,Tijelovo,hr,1,llm_only
+dough,tijesto,hr,1,llm_only
+zucchini,tikvica,hr,1,llm_only
+i.e.,tj.,hr,1,llm_only
+blood pressure monitor,tlakomjer,hr,1,llm_only
+duration,trajanje,hr,1,llm_only
+searching,traženje,hr,1,llm_only
+tracksuit,trenirka,hr,1,llm_only
+thirtieth,trideseti,hr,1,llm_only
+thriller,triler,hr,1,llm_only
+thirteenth,trinaesti,hr,1,llm_only
+three-seater sofa,trosjed,hr,1,llm_only
+tunic,tunika,hr,1,llm_only
+touristic,turistički,hr,1,llm_only
+shower cabin,tuškabina,hr,1,llm_only
+to form,tvoriti,hr,1,llm_only
+classroom,učionica,hr,1,llm_only
+to move away,udaljiti se,hr,1,llm_only
+textbook,udžbenik,hr,1,llm_only
+to unite,ujediniti se,hr,1,llm_only
+decoration,ukras,hr,1,llm_only
+to decorate,ukrasiti,hr,1,llm_only
+to insert,umetnuti,hr,1,llm_only
+retiree,umirovljenica,hr,1,llm_only
+washbasin,umivaonik,hr,1,llm_only
+to become customary,uobičajiti se,hr,1,llm_only
+to enroll,upisati,hr,1,llm_only
+interrogative form,upitni oblik,hr,1,llm_only
+question mark,upitnik,hr,1,llm_only
+to get acquainted,upoznati se,hr,1,llm_only
+getting acquainted,upoznavanje,hr,1,llm_only
+exclamatory,usklični,hr,1,llm_only
+exclamation mark,usklicnik,hr,1,llm_only
+oral,usmen,hr,1,llm_only
+orally,usmeno,hr,1,llm_only
+orientation,usmjerenost,hr,1,llm_only
+to direct,usmjeriti,hr,1,llm_only
+funicular,uspinjača,hr,1,llm_only
+to get excited,uzbuditi se,hr,1,llm_only
+waffle,vafl,hr,1,llm_only
+water polo player,vaterpolist,hr,1,llm_only
+vase,vaza,hr,1,llm_only
+joy,veselje,hr,1,llm_only
+rower,veslač,hr,1,llm_only
+weekend house,vikendica,hr,1,llm_only
+hanging,viseći,hr,1,llm_only
+fruit shop,voćarnica,hr,1,llm_only
+vowel,vokal,hr,1,llm_only
+to drive,voziti se,hr,1,llm_only
+to return,vraćati se,hr,1,llm_only
+to return,vratiti se,hr,0,llm_only
+zoo,zoološki vrt,hr,1,llm_only
+to have fun,zabaviti se,hr,1,llm_only
+to have fun,zabavljati se,hr,0,llm_only
+spice,začin,hr,1,llm_only
+to season,začiniti,hr,1,llm_only
+Zadar,zadarski,hr,1,llm_only
+bracket,zagrada,hr,1,llm_only
+Zagreb,zagrebački,hr,1,llm_only
+Zagreb resident,Zagrepčanin,hr,1,llm_only
+thanking,zahvaljivanje,hr,1,llm_only
+pronoun,zamjenica,hr,1,llm_only
+to be interested,zanimati se,hr,1,llm_only
+to circle,zaokružiti,hr,1,llm_only
+west of,zapadno od,hr,1,llm_only
+final,završni,hr,1,llm_only
+winter vacation,zimovanje,hr,1,llm_only
+to spend the winter,zimovati,hr,1,llm_only
+digit,znamenka,hr,1,llm_only
+oatmeal,zobene pahuljice,hr,1,llm_only
+railway station,željeznički kolodvor,hr,1,llm_only
+cable car,žičara,hr,1,llm_only
+grain,žitarica,hr,1,llm_only
+liveliness,živost,hr,1,llm_only
+teaspoon,žličica,hr,1,llm_only
+to hurry,žuriti se,hr,1,llm_only
+African,Afrikanac,hr,1,llm_only
+African,Afrikanka,hr,0,llm_only
+Albania,Albanija,hr,1,llm_only
+Albanian,Albanac,hr,1,llm_only
+Albanian,Albanka,hr,0,llm_only
+Albanian,albanski,hr,0,llm_only
+Belgium,Belgija,hr,1,llm_only
+Bolivia,Bolivija,hr,1,llm_only
+Bolivian,Bolivijac,hr,1,llm_only
+Bolivian,Bolivijka,hr,0,llm_only
+Bolivian,bolivijski,hr,0,llm_only
+Bosnia and Herzegovina,Bosna i Hercegovina,hr,1,llm_only
+Bosnian,Bosanac,hr,1,llm_only
+Bosnian,Bosanka,hr,0,llm_only
+Bosnian,bosanski,hr,0,llm_only
+Herzegovinian,Hercegovac,hr,1,llm_only
+Herzegovinian,Hercegovka,hr,0,llm_only
+Herzegovinian,hercegovački,hr,0,llm_only
+Bulgaria,Bugarska,hr,1,llm_only
+Czechia,Češka,hr,1,llm_only
+Chile,Čile,hr,1,llm_only
+Englishman,Englez,hr,1,llm_only
+Englishwoman,Engleskinja,hr,1,llm_only
+Estonia,Estonija,hr,1,llm_only
+Finland,Finska,hr,1,llm_only
+Honduras,Honduras,hr,1,llm_only
+Croatia,Hrvatska,hr,1,llm_only
+Croat,Hrvat,hr,1,llm_only
+Croat,Hrvatica,hr,0,llm_only
+Indonesia,Indonezija,hr,1,llm_only
+Indonesian,Indonežanin,hr,1,llm_only
+Indonesian,Indonežanka,hr,0,llm_only
+Indonesian,indonezijski,hr,0,llm_only
+Iran,Iran,hr,1,llm_only
+Irishman,Irac,hr,1,llm_only
+Irishwoman,Irkinja,hr,1,llm_only
+Iceland,Island,hr,1,llm_only
+Icelander,Islanđanin,hr,1,llm_only
+Icelander,Islanđanka,hr,0,llm_only
+Japan,Japan,hr,1,llm_only
+Qatar,Katar,hr,1,llm_only
+Kazakhstan,Kazahstan,hr,1,llm_only
+Kazakh,Kazahstanac,hr,1,llm_only
+Kazakh,Kazahstanka,hr,0,llm_only
+Kazakh,kazahstanski,hr,0,llm_only
+Korea,Koreja,hr,1,llm_only
+Lithuania,Litva,hr,1,llm_only
+Lithuanian,Litavac,hr,1,llm_only
+Lithuanian,Litavka,hr,0,llm_only
+Lithuanian,litavski,hr,0,llm_only
+Hungary,Mađarska,hr,1,llm_only
+Morocco,Maroko,hr,1,llm_only
+Moroccan,Marokanac,hr,1,llm_only
+Moroccan,Marokanka,hr,0,llm_only
+Moroccan,marokanski,hr,0,llm_only
+Netherlands,Nizozemska,hr,1,llm_only
+Dutchman,Nizozemac,hr,1,llm_only
+Paraguay,Paragvaj,hr,1,llm_only
+Paraguayan,Paragvajac,hr,1,llm_only
+Paraguayan,Paragvajka,hr,0,llm_only
+Paraguayan,paragvajski,hr,0,llm_only
+Portugal,Portugal,hr,1,llm_only
+Romania,Rumunjska,hr,1,llm_only
+Syria,Sirija,hr,1,llm_only
+Syrian,Sirijac,hr,1,llm_only
+Syrian,Sirijka,hr,0,llm_only
+Syrian,sirijski,hr,0,llm_only
+Slovakia,Slovačka,hr,1,llm_only
+Slovak,Slovak,hr,1,llm_only
+Slovak,Slovakinja,hr,0,llm_only
+Slovak,slovački,hr,0,llm_only
+Slovenia,Slovenija,hr,1,llm_only
+Slovenian,Slovenac,hr,1,llm_only
+Slovenian,Slovenka,hr,0,llm_only
+Slovenian,slovenski,hr,0,llm_only
+Serbia,Srbija,hr,1,llm_only
+Scot,Škot,hr,1,llm_only
+Scot,Škotkinja,hr,0,llm_only
+Spaniard,Španjolac,hr,1,llm_only
+Spaniard,Španjolka,hr,0,llm_only
+Swede,Šveđanin,hr,1,llm_only
+Swede,Šveđanka,hr,0,llm_only
+Turkey,Turska,hr,1,llm_only
+Turk,Turčin,hr,1,llm_only
+Turk,Turkinja,hr,0,llm_only
+Ukraine,Ukrajina,hr,1,llm_only
+Uruguay,Urugvaj,hr,1,llm_only
+Uruguayan,Urugvajac,hr,1,llm_only
+Uruguayan,Urugvajka,hr,0,llm_only
+Uruguayan,urugvajski,hr,0,llm_only

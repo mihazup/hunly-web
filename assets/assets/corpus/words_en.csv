@@ -1,0 +1,2117 @@
+lemma,frequency_rank,frequency_set,part_of_speech,is_function_word,first_letter_unit,last_letter_unit,is_dead_end
+to be,1,1,X,0,t,e,0
+yes,2,1,X,0,y,s,0
+oneself,3,1,X,0,o,f,0
+that,4,1,X,0,t,t,0
+no,5,1,X,0,n,o,0
+and,6,1,X,0,a,d,0
+to want,7,1,X,0,t,t,0
+you,8,1,X,0,y,u,0
+alone,9,1,X,0,a,e,0
+what,10,1,X,0,w,t,0
+he,11,1,X,0,h,e,0
+I,12,1,X,0,I,I,0
+we,13,1,X,0,w,e,0
+on,14,1,X,0,o,n,0
+to be able to,15,1,X,0,t,o,0
+for,16,1,X,0,f,r,0
+question particle,17,1,X,0,q,e,0
+to know,18,1,X,0,t,w,0
+this,19,1,X,0,t,s,0
+to have,20,1,X,0,t,e,0
+but,21,1,X,0,b,t,0
+whole,22,1,X,0,w,e,0
+which,23,1,X,0,w,h,0
+to say,24,1,X,0,t,y,0
+to think,25,1,X,0,t,k,0
+my,26,1,X,0,m,y,0
+well,27,1,X,0,w,l,0
+only,28,1,X,0,o,y,0
+from,29,1,X,0,f,m,0
+to have to,30,1,X,0,t,o,0
+they,31,1,X,0,t,y,0
+how,32,1,X,0,h,w,0
+to wish,33,1,X,0,t,h,0
+to see,34,1,X,0,t,e,0
+to need,35,1,X,0,t,d,0
+if,36,1,X,0,i,f,0
+to go,37,1,X,0,t,o,0
+as,38,1,X,0,a,s,0
+to work,39,1,X,0,t,k,0
+so,40,1,X,0,s,o,0
+here,41,1,X,0,h,e,0
+one's own,42,1,X,0,o,n,0
+person,43,1,X,0,p,n,0
+a lot,44,1,X,0,a,t,0
+your,45,1,X,0,y,r,0
+why,46,1,X,0,w,y,0
+order; row,47,1,X,0,o,w,0
+to not have,48,1,X,0,t,e,0
+one,49,1,X,0,o,e,0
+something,50,1,X,0,s,g,0
+still,51,1,X,0,s,l,0
+when,52,1,X,0,w,n,0
+who,53,1,X,0,w,o,0
+to come,54,1,X,0,t,e,0
+thank you,55,1,X,0,t,u,0
+good,56,1,X,0,g,d,0
+or,57,1,X,0,o,r,0
+to give,58,1,X,0,t,e,0
+maybe,59,1,X,0,m,e,0
+where,60,1,X,0,w,e,0
+a little,61,1,X,0,a,e,0
+then,62,1,X,0,t,n,0
+some,63,1,X,0,s,e,0
+second,64,1,X,0,s,d,0
+day,65,1,X,0,d,y,0
+thing,66,1,X,0,t,g,0
+time; weather,67,1,X,0,t,r,0
+nothing,68,1,X,0,n,g,0
+until,69,1,X,0,u,l,0
+to love,70,1,X,0,t,e,0
+really?,71,1,X,0,r,?,1
+our,72,1,X,0,o,r,0
+to ask,73,1,X,0,t,k,0
+bathtub,74,1,X,0,b,b,0
+year,75,1,X,0,y,r,0
+way,76,1,X,0,w,y,0
+because,77,1,X,0,b,e,0
+to leave,78,1,X,0,t,e,0
+job,79,1,X,0,j,b,0
+before,80,1,X,0,b,e,0
+hey,81,1,X,0,h,y,0
+to hear,82,1,X,0,t,r,0
+his,83,1,X,0,h,s,0
+because of,84,1,X,0,b,f,0
+neither,85,1,X,0,n,r,0
+there,86,1,X,0,t,e,0
+house,87,1,X,0,h,e,0
+life,88,1,X,0,l,e,0
+to find,89,1,X,0,t,d,0
+to get,90,1,X,0,t,t,0
+big,91,1,X,0,b,g,0
+to wait,92,1,X,0,t,t,0
+to look,93,1,X,0,t,k,0
+always,94,1,X,0,a,s,0
+woman,95,1,X,0,w,n,0
+first,96,1,X,0,f,t,0
+someone,97,1,X,0,s,e,0
+really,98,1,X,0,r,y,0
+to help,99,1,X,0,t,p,0
+come on,100,1,X,0,c,n,0
+to call,101,2,X,0,t,l,0
+according to,102,2,X,0,a,o,0
+to speak,103,2,X,0,t,k,0
+how much,104,2,X,0,h,h,0
+to believe,105,2,X,0,t,e,0
+already,106,2,X,0,a,y,0
+two,107,2,X,0,t,o,0
+to make,108,2,X,0,t,e,0
+that's why,109,2,X,0,t,y,0
+exactly,110,2,X,0,e,y,0
+but rather,111,2,X,0,b,r,0
+without,112,2,X,0,w,t,0
+mister,113,2,X,0,m,r,0
+right,114,2,X,0,r,t,0
+friend,115,2,X,0,f,d,0
+while,116,2,X,0,w,e,0
+every,117,2,X,0,e,y,0
+child,118,2,X,0,c,d,0
+to take,119,2,X,0,t,e,0
+to watch,120,2,X,0,t,h,0
+to stay,121,2,X,0,t,y,0
+to mean,122,2,X,0,t,n,0
+sorry,123,2,X,0,s,y,0
+naturally,124,2,X,0,n,y,0
+father,125,2,X,0,f,r,0
+to look for,126,2,X,0,t,r,0
+to forgive,127,2,X,0,t,e,0
+place,128,2,X,0,p,e,0
+what kind of,129,2,X,0,w,f,0
+new,130,2,X,0,n,w,0
+around,131,2,X,0,a,d,0
+to converse,132,2,X,0,t,e,0
+mom,133,2,X,0,m,m,0
+never,134,2,X,0,n,r,0
+sure,135,2,X,0,s,e,0
+small,136,2,X,0,s,l,0
+to look at,137,2,X,0,t,t,0
+dad,138,2,X,0,d,d,0
+problem,139,2,X,0,p,m,0
+name,140,2,X,0,n,e,0
+money,141,2,X,0,m,y,0
+to live,142,2,X,0,t,e,0
+to listen,143,2,X,0,t,n,0
+at,144,2,X,0,a,t,0
+clock,145,2,X,0,c,k,0
+to talk,146,2,X,0,t,k,0
+old,147,2,X,0,o,d,0
+to exist,148,2,X,0,t,t,0
+hand,149,2,X,0,h,d,0
+very,150,2,X,0,v,y,0
+connection,151,2,X,0,c,n,0
+to begin,152,2,X,0,t,n,0
+to die,153,2,X,0,t,e,0
+to understand,154,2,X,0,t,d,0
+to hold,155,2,X,0,t,d,0
+son,156,2,X,0,s,n,0
+today,157,2,X,0,t,y,0
+night,158,2,X,0,n,t,0
+far,159,2,X,0,f,r,0
+mother,160,2,X,0,m,r,0
+again,161,2,X,0,a,n,0
+surely,162,2,X,0,s,y,0
+after,163,2,X,0,a,r,0
+immediately,164,2,X,0,i,y,0
+three,165,2,X,0,t,e,0
+world,166,2,X,0,w,d,0
+ready,167,2,X,0,r,y,0
+question,168,2,X,0,q,n,0
+to lose,169,2,X,0,t,e,0
+truth,170,2,X,0,t,h,0
+such,171,2,X,0,s,h,0
+type,172,2,X,0,t,e,0
+boy,173,2,X,0,b,y,0
+even,174,2,X,0,e,n,0
+so much,175,2,X,0,s,h,0
+hi,176,2,X,0,h,i,0
+towards,177,2,X,0,t,s,0
+girl,178,2,X,0,g,l,0
+room,179,2,X,0,r,m,0
+city,180,2,X,0,c,y,0
+for a long time,181,2,X,0,f,e,0
+to forget,182,2,X,0,t,t,0
+end; near,183,2,X,0,e,r,0
+family,184,2,X,0,f,y,0
+country,185,2,X,0,c,y,0
+door,186,2,X,0,d,r,0
+story,187,2,X,0,s,y,0
+enough,188,2,X,0,e,h,0
+to put,189,2,X,0,t,t,0
+quickly,190,2,X,0,q,y,0
+to send,191,2,X,0,t,d,0
+to enter,192,2,X,0,t,r,0
+beautifully,193,2,X,0,b,y,0
+part,194,2,X,0,p,t,0
+to pass by,195,2,X,0,t,y,0
+brother,196,2,X,0,b,r,0
+car,197,2,X,0,c,r,0
+minute,198,2,X,0,m,e,0
+therefore,199,2,X,0,t,e,0
+side,200,2,X,0,s,e,0
+their,201,3,X,0,t,r,0
+to open,202,3,X,0,t,n,0
+to carry,203,3,X,0,t,y,0
+same,204,3,X,0,s,e,0
+to be allowed to,205,3,X,0,t,o,0
+under,206,3,X,0,u,r,0
+several,207,3,X,0,s,l,0
+real,208,3,X,0,r,l,0
+moon,209,3,X,0,m,n,0
+together,210,3,X,0,t,r,0
+important,211,3,X,0,i,t,0
+tomorrow,212,3,X,0,t,w,0
+to lead,213,3,X,0,t,d,0
+to show,214,3,X,0,t,w,0
+to here,215,3,X,0,t,e,0
+word,216,3,X,0,w,d,0
+happy,217,3,X,0,h,y,0
+death,218,3,X,0,d,h,0
+week,219,3,X,0,w,k,0
+except,220,3,X,0,e,t,0
+dear,221,3,X,0,d,r,0
+ship,222,3,X,0,s,p,0
+to bring,223,3,X,0,t,g,0
+number,224,3,X,0,n,r,0
+to arrive,225,3,X,0,t,e,0
+probably,226,3,X,0,p,y,0
+badly,227,3,X,0,b,y,0
+to sleep,228,3,X,0,t,p,0
+great,229,3,X,0,g,t,0
+last,230,3,X,0,l,t,0
+pair,231,3,X,0,p,r,0
+sister,232,3,X,0,s,r,0
+tonight,233,3,X,0,t,t,0
+inside,234,3,X,0,i,e,0
+water,235,3,X,0,w,r,0
+help,236,3,X,0,h,p,0
+love,237,3,X,0,l,e,0
+also,238,3,X,0,a,o,0
+school,239,3,X,0,s,l,0
+to buy,240,3,X,0,t,y,0
+along,241,3,X,0,a,g,0
+idea,242,3,X,0,i,a,0
+to invite,243,3,X,0,t,e,0
+down,244,3,X,0,d,n,0
+face,245,3,X,0,f,e,0
+to set off,246,3,X,0,t,f,0
+to eat,247,3,X,0,t,t,0
+hundred,248,3,X,0,h,d,0
+across,249,3,X,0,a,s,0
+outside,250,3,X,0,o,e,0
+plan,251,3,X,0,p,n,0
+beautiful,252,3,X,0,b,l,0
+blood,253,3,X,0,b,d,0
+picture,254,3,X,0,p,e,0
+necessary,255,3,X,0,n,y,0
+man,256,3,X,0,m,n,0
+game,257,3,X,0,g,e,0
+to pay,258,3,X,0,t,y,0
+bad,259,3,X,0,b,d,0
+office,260,3,X,0,o,e,0
+five,261,3,X,0,f,e,0
+easily,262,3,X,0,e,y,0
+morning,263,3,X,0,m,g,0
+to be careful,264,3,X,0,t,l,0
+crazy,265,3,X,0,c,y,0
+behind,266,3,X,0,b,d,0
+dog,267,3,X,0,d,g,0
+the others,268,3,X,0,t,s,0
+to notify,269,3,X,0,t,y,0
+party,270,3,X,0,p,y,0
+book,271,3,X,0,b,k,0
+leg,272,3,X,0,l,g,0
+dream,273,3,X,0,d,m,0
+to stand,274,3,X,0,t,d,0
+to learn,275,3,X,0,t,n,0
+to write,276,3,X,0,t,e,0
+at all,277,3,X,0,a,l,0
+message,278,3,X,0,m,e,0
+near,279,3,X,0,n,r,0
+happiness,280,3,X,0,h,s,0
+to fall,281,3,X,0,t,l,0
+next,282,3,X,0,n,t,0
+boss,283,3,X,0,b,s,0
+young,284,3,X,0,y,g,0
+to stop,285,3,X,0,t,p,0
+madam,286,3,X,0,m,m,0
+husband,287,3,X,0,h,d,0
+food,288,3,X,0,f,d,0
+her,289,3,X,0,h,r,0
+half,290,3,X,0,h,f,0
+pistol,291,3,X,0,p,l,0
+to expect,292,3,X,0,t,t,0
+alive,293,3,X,0,a,e,0
+phone,294,3,X,0,p,e,0
+to sit,295,3,X,0,t,t,0
+film,296,3,X,0,f,m,0
+evening,297,3,X,0,e,g,0
+between,298,3,X,0,b,n,0
+to decide,299,3,X,0,t,e,0
+opportunity,300,3,X,0,o,y,0
+street,301,4,X,0,s,t,0
+early,302,4,X,0,e,y,0
+peace,303,4,X,0,p,e,0
+soon,304,4,X,0,s,n,0
+parent,305,4,X,0,p,t,0
+to flee,306,4,X,0,t,e,0
+full,307,4,X,0,f,l,0
+bed,308,4,X,0,b,d,0
+answer,309,4,X,0,a,r,0
+to sound,310,4,X,0,t,d,0
+hospital,311,4,X,0,h,l,0
+excellently,312,4,X,0,e,y,0
+possible,313,4,X,0,p,e,0
+apartment,314,4,X,0,a,t,0
+only; appetite,315,4,X,0,o,e,0
+to go out,316,4,X,0,t,t,0
+drink,317,4,X,0,d,k,0
+main,318,4,X,0,m,n,0
+police officer,319,4,X,0,p,r,0
+stupid,320,4,X,0,s,d,0
+constantly,321,4,X,0,c,y,0
+four,322,4,X,0,f,r,0
+easy,323,4,X,0,e,y,0
+in front of,324,4,X,0,i,f,0
+almost,325,4,X,0,a,t,0
+to be missing,326,4,X,0,t,g,0
+meeting,327,4,X,0,m,g,0
+dinner,328,4,X,0,d,r,0
+sometimes,329,4,X,0,s,s,0
+to close,330,4,X,0,t,e,0
+where to,331,4,X,0,w,o,0
+to sit down,332,4,X,0,t,n,0
+invitation,333,4,X,0,i,n,0
+to watch over,334,4,X,0,t,r,0
+to drink,335,4,X,0,t,k,0
+sign,336,4,X,0,s,n,0
+secret,337,4,X,0,s,t,0
+consideration,338,4,X,0,c,n,0
+king,339,4,X,0,k,g,0
+strong,340,4,X,0,s,g,0
+gladly,341,4,X,0,g,y,0
+six,342,4,X,0,s,x,1
+conversation,343,4,X,0,c,n,0
+to hurt,344,4,X,0,t,t,0
+million,345,4,X,0,m,n,0
+baby,346,4,X,0,b,y,0
+meaning,347,4,X,0,m,g,0
+black,348,4,X,0,b,k,0
+to explain,349,4,X,0,t,n,0
+horse,350,4,X,0,h,e,0
+as soon as,351,4,X,0,a,s,0
+beginning,352,4,X,0,b,g,0
+from where,353,4,X,0,f,e,0
+law,354,4,X,0,l,w,0
+fight,355,4,X,0,f,t,0
+to tell,356,4,X,0,t,l,0
+rule,357,4,X,0,r,e,0
+work,358,4,X,0,w,k,0
+heavy,359,4,X,0,h,y,0
+information,360,4,X,0,i,n,0
+holy,361,4,X,0,h,y,0
+table,362,4,X,0,t,e,0
+to try,363,4,X,0,t,y,0
+to spend,364,4,X,0,t,d,0
+key,365,4,X,0,k,y,0
+human,366,4,X,0,h,n,0
+bill,367,4,X,0,b,l,0
+in the morning,368,4,X,0,i,g,0
+to think over,369,4,X,0,t,r,0
+to read,370,4,X,0,t,d,0
+coffee,371,4,X,0,c,e,0
+free,372,4,X,0,f,e,0
+to enjoy,373,4,X,0,t,y,0
+hair,374,4,X,0,h,r,0
+soldier,375,4,X,0,s,r,0
+known,376,4,X,0,k,n,0
+voice,377,4,X,0,v,e,0
+letter,378,4,X,0,l,r,0
+fun,379,4,X,0,f,n,0
+state,380,4,X,0,s,e,0
+thousand,381,4,X,0,t,d,0
+song,382,4,X,0,s,g,0
+ten,383,4,X,0,t,n,0
+angry,384,4,X,0,a,y,0
+many,385,4,X,0,m,y,0
+home,386,4,X,0,h,e,0
+building,387,4,X,0,b,g,0
+company,388,4,X,0,c,y,0
+ticket,389,4,X,0,t,t,0
+situation,390,4,X,0,s,n,0
+air,391,4,X,0,a,r,0
+damage,392,4,X,0,d,e,0
+red,393,4,X,0,r,d,0
+view,394,4,X,0,v,w,0
+to move,395,4,X,0,t,e,0
+medicine,396,4,X,0,m,e,0
+data,397,4,X,0,d,a,0
+president,398,4,X,0,p,t,0
+smart,399,4,X,0,s,t,0
+to promise,400,4,X,0,t,e,0
+this morning,401,5,X,0,t,g,0
+majority,402,5,X,0,m,y,0
+white,403,5,X,0,w,e,0
+evil,404,5,X,0,e,l,0
+wall,405,5,X,0,w,l,0
+light,406,5,X,0,l,t,0
+yesterday,407,5,X,0,y,y,0
+hotel,408,5,X,0,h,l,0
+English,409,5,X,0,E,h,0
+otherwise,410,5,X,0,o,e,0
+color,411,5,X,0,c,r,0
+planet,412,5,X,0,p,t,0
+club,413,5,X,0,c,b,0
+often,414,5,X,0,o,n,0
+barely,415,5,X,0,b,y,0
+cheese,416,5,X,0,c,e,0
+among,417,5,X,0,a,g,0
+airplane,418,5,X,0,a,e,0
+animal,419,5,X,0,a,l,0
+usually,420,5,X,0,u,y,0
+past,421,5,X,0,p,t,0
+fool,422,5,X,0,f,l,0
+clean,423,5,X,0,c,n,0
+definitely,424,5,X,0,d,y,0
+instead of,425,5,X,0,i,f,0
+next to,426,5,X,0,n,o,0
+star,427,5,X,0,s,r,0
+sick,428,5,X,0,s,k,0
+clothing,429,5,X,0,c,g,0
+box,430,5,X,0,b,x,1
+Sun,431,5,X,0,S,n,0
+to sell,432,5,X,0,t,l,0
+to set,433,5,X,0,t,t,0
+people,434,5,X,0,p,e,0
+to walk,435,5,X,0,t,k,0
+window,436,5,X,0,w,w,0
+sweet,437,5,X,0,s,t,0
+interesting,438,5,X,0,i,g,0
+to drink up,439,5,X,0,t,p,0
+church,440,5,X,0,c,h,0
+to choose,441,5,X,0,t,e,0
+relationship,442,5,X,0,r,p,0
+special,443,5,X,0,s,l,0
+cold,444,5,X,0,c,d,0
+to eat up,445,5,X,0,t,p,0
+patient,446,5,X,0,p,t,0
+price,447,5,X,0,p,e,0
+especially,448,5,X,0,e,y,0
+happily,449,5,X,0,h,y,0
+to plan,450,5,X,0,t,n,0
+welcome,451,5,X,0,w,e,0
+wife,452,5,X,0,w,e,0
+grandmother,453,5,X,0,g,r,0
+to answer,454,5,X,0,t,r,0
+lunch,455,5,X,0,l,h,0
+former,456,5,X,0,f,r,0
+group,457,5,X,0,g,p,0
+beer,458,5,X,0,b,r,0
+serious,459,5,X,0,s,s,0
+music,460,5,X,0,m,c,0
+bank,461,5,X,0,b,k,0
+possibility,462,5,X,0,p,y,0
+wedding,463,5,X,0,w,g,0
+seven,464,5,X,0,s,n,0
+excellent,465,5,X,0,e,t,0
+finally,466,5,X,0,f,y,0
+third,467,5,X,0,t,d,0
+change,468,5,X,0,c,e,0
+to use up,469,5,X,0,t,p,0
+language,470,5,X,0,l,e,0
+America,471,5,X,0,A,a,0
+difference,472,5,X,0,d,e,0
+client,473,5,X,0,c,t,0
+to be worth,474,5,X,0,t,h,0
+grandfather,475,5,X,0,g,r,0
+center,476,5,X,0,c,r,0
+Christmas,477,5,X,0,C,s,0
+tall,478,5,X,0,t,l,0
+birthday,479,5,X,0,b,y,0
+stop,480,5,X,0,s,p,0
+area,481,5,X,0,a,a,0
+long,482,5,X,0,l,g,0
+doctor,483,5,X,0,d,r,0
+tooth,484,5,X,0,t,h,0
+agreement,485,5,X,0,a,t,0
+hungry,486,5,X,0,h,y,0
+paper,487,5,X,0,p,r,0
+to last,488,5,X,0,t,t,0
+perfect,489,5,X,0,p,t,0
+mobile phone,490,5,X,0,m,e,0
+member,491,5,X,0,m,r,0
+to occupy,492,5,X,0,t,y,0
+opinion,493,5,X,0,o,n,0
+eight,494,5,X,0,e,t,0
+to belong,495,5,X,0,t,g,0
+port,496,5,X,0,p,t,0
+to stand up,497,5,X,0,t,p,0
+above,498,5,X,0,a,e,0
+travel,499,5,X,0,t,l,0
+surprise,500,5,X,0,s,e,0
+need,501,6,X,0,n,d,0
+to refuse,502,6,X,0,t,e,0
+shoe,503,6,X,0,s,e,0
+address,504,6,X,0,a,s,0
+bag,505,6,X,0,b,g,0
+American,506,6,X,0,A,n,0
+egg,507,6,X,0,e,g,0
+tired,508,6,X,0,t,d,0
+to connect,509,6,X,0,t,t,0
+forest,510,6,X,0,f,t,0
+fish,511,6,X,0,f,h,0
+program,512,6,X,0,p,m,0
+French,513,6,X,0,F,h,0
+to congratulate,514,6,X,0,t,e,0
+vehicle,515,6,X,0,v,e,0
+rest,516,6,X,0,r,t,0
+park,517,6,X,0,p,k,0
+wine,518,6,X,0,w,e,0
+guest,519,6,X,0,g,t,0
+sky,520,6,X,0,s,y,0
+tea,521,6,X,0,t,a,0
+gold,522,6,X,0,g,d,0
+restaurant,523,6,X,0,r,t,0
+power,524,6,X,0,p,r,0
+store,525,6,X,0,s,e,0
+blue,526,6,X,0,b,e,0
+to offer,527,6,X,0,t,r,0
+female,528,6,X,0,f,e,0
+whose,529,6,X,0,w,e,0
+in the past,530,6,X,0,i,t,0
+greeting,531,6,X,0,g,g,0
+urgent,532,6,X,0,u,t,0
+energy,533,6,X,0,e,y,0
+meter,534,6,X,0,m,r,0
+task,535,6,X,0,t,k,0
+train,536,6,X,0,t,n,0
+to change,537,6,X,0,t,e,0
+river,538,6,X,0,r,r,0
+village,539,6,X,0,v,e,0
+sea,540,6,X,0,s,a,0
+dress,541,6,X,0,d,s,0
+kitchen,542,6,X,0,k,n,0
+show,543,6,X,0,s,w,0
+queen,544,6,X,0,q,n,0
+photography,545,6,X,0,p,y,0
+wish,546,6,X,0,w,h,0
+reward,547,6,X,0,r,d,0
+weekend,548,6,X,0,w,d,0
+uncle,549,6,X,0,u,e,0
+knife,550,6,X,0,k,e,0
+result,551,6,X,0,r,t,0
+fast,552,6,X,0,f,t,0
+satisfaction,553,6,X,0,s,n,0
+list,554,6,X,0,l,t,0
+different,555,6,X,0,d,t,0
+professor,556,6,X,0,p,r,0
+role,557,6,X,0,r,e,0
+space,558,6,X,0,s,e,0
+gift,559,6,X,0,g,t,0
+completely,560,6,X,0,c,y,0
+handsome,561,6,X,0,h,e,0
+sound,562,6,X,0,s,d,0
+bird,563,6,X,0,b,d,0
+usual,564,6,X,0,u,l,0
+island,565,6,X,0,i,d,0
+straight,566,6,X,0,s,t,0
+trash,567,6,X,0,t,h,0
+which way,568,6,X,0,w,y,0
+ride,569,6,X,0,r,e,0
+proximity,570,6,X,0,p,y,0
+unfortunately,571,6,X,0,u,y,0
+respect,572,6,X,0,r,t,0
+to play an instrument,573,6,X,0,t,t,0
+to prepare,574,6,X,0,t,e,0
+to protect,575,6,X,0,t,t,0
+speech,576,6,X,0,s,h,0
+meat,577,6,X,0,m,t,0
+to run,578,6,X,0,t,n,0
+middle,579,6,X,0,m,e,0
+field,580,6,X,0,f,d,0
+mountain,581,6,X,0,m,n,0
+goal,582,6,X,0,g,l,0
+to make a mistake,583,6,X,0,t,e,0
+experience,584,6,X,0,e,e,0
+point,585,6,X,0,p,t,0
+motorcycle,586,6,X,0,m,e,0
+in love,587,6,X,0,i,e,0
+card,588,6,X,0,c,d,0
+to adore,589,6,X,0,t,e,0
+brothers,590,6,X,0,b,s,0
+age,591,6,X,0,a,e,0
+empty,592,6,X,0,e,y,0
+mostly,593,6,X,0,m,y,0
+responsible,594,6,X,0,r,e,0
+tree,595,6,X,0,t,e,0
+example,596,6,X,0,e,e,0
+to visit,597,6,X,0,t,t,0
+personal,598,6,X,0,p,l,0
+match,599,6,X,0,m,h,0
+to travel,600,6,X,0,t,l,0
+to sign,601,7,X,0,t,n,0
+character,602,7,X,0,c,r,0
+bridge,603,7,X,0,b,e,0
+floor,604,7,X,0,f,r,0
+cat,605,7,X,0,c,t,0
+ring,606,7,X,0,r,g,0
+nice,607,7,X,0,n,e,0
+to surprise,608,7,X,0,t,e,0
+page,609,7,X,0,p,e,0
+ice,610,7,X,0,i,e,0
+computer,611,7,X,0,c,r,0
+automobile,612,7,X,0,a,e,0
+suit,613,7,X,0,s,t,0
+fifth,614,7,X,0,f,h,0
+to convert,615,7,X,0,t,t,0
+shape,616,7,X,0,s,e,0
+contract,617,7,X,0,c,t,0
+nature,618,7,X,0,n,e,0
+visit,619,7,X,0,v,t,0
+calm,620,7,X,0,c,m,0
+to repeat,621,7,X,0,t,t,0
+nine,622,7,X,0,n,e,0
+to greet,623,7,X,0,t,t,0
+to be late,624,7,X,0,t,e,0
+to sing,625,7,X,0,t,g,0
+victory,626,7,X,0,v,y,0
+ball,627,7,X,0,b,l,0
+journalist,628,7,X,0,j,t,0
+darkness,629,7,X,0,d,s,0
+source,630,7,X,0,s,e,0
+dish,631,7,X,0,d,h,0
+to the left,632,7,X,0,t,t,0
+event,633,7,X,0,e,t,0
+close,634,7,X,0,c,e,0
+hot,635,7,X,0,h,t,0
+neighbor,636,7,X,0,n,r,0
+to the right,637,7,X,0,t,t,0
+to come up with,638,7,X,0,t,h,0
+Friday,639,7,X,0,F,y,0
+medical,640,7,X,0,m,l,0
+roof,641,7,X,0,r,f,0
+coast,642,7,X,0,c,t,0
+sleeping,643,7,X,0,s,g,0
+recently,644,7,X,0,r,y,0
+glass,645,7,X,0,g,s,0
+green,646,7,X,0,g,n,0
+research,647,7,X,0,r,h,0
+to dream,648,7,X,0,t,m,0
+purpose,649,7,X,0,p,e,0
+weak,650,7,X,0,w,k,0
+teacher,651,7,X,0,t,r,0
+rain,652,7,X,0,r,n,0
+chair,653,7,X,0,c,r,0
+internet,654,7,X,0,i,t,0
+to select,655,7,X,0,t,t,0
+to recognize,656,7,X,0,t,e,0
+satisfied,657,7,X,0,s,d,0
+young man,658,7,X,0,y,n,0
+breakfast,659,7,X,0,b,t,0
+pants,660,7,X,0,p,s,0
+coach,661,7,X,0,c,h,0
+entrance,662,7,X,0,e,e,0
+colleague,663,7,X,0,c,e,0
+goodbye,664,7,X,0,g,e,0
+direction,665,7,X,0,d,n,0
+driver,666,7,X,0,d,r,0
+favorite,667,7,X,0,f,e,0
+left,668,7,X,0,l,t,0
+lake,669,7,X,0,l,e,0
+beach,670,7,X,0,b,h,0
+laboratory,671,7,X,0,l,y,0
+to depend,672,7,X,0,t,d,0
+Sunday,673,7,X,0,S,y,0
+newspaper,674,7,X,0,n,r,0
+brave,675,7,X,0,b,e,0
+to smoke,676,7,X,0,t,e,0
+bus,677,7,X,0,b,s,0
+level,678,7,X,0,l,l,0
+to add,679,7,X,0,t,d,0
+German,680,7,X,0,G,n,0
+to respect,681,7,X,0,t,t,0
+daughter,682,7,X,0,d,r,0
+to dance,683,7,X,0,t,e,0
+in the evening,684,7,X,0,i,g,0
+topic,685,7,X,0,t,c,0
+relative,686,7,X,0,r,e,0
+Saturday,687,7,X,0,S,y,0
+late,688,7,X,0,l,e,0
+project,689,7,X,0,p,t,0
+summer,690,7,X,0,s,r,0
+sample,691,7,X,0,s,e,0
+to earn,692,7,X,0,t,n,0
+flowers,693,7,X,0,f,s,0
+size,694,7,X,0,s,e,0
+ugly,695,7,X,0,u,y,0
+to propose,696,7,X,0,t,e,0
+to lie,697,7,X,0,t,e,0
+to win,698,7,X,0,t,n,0
+afternoon,699,7,X,0,a,n,0
+technology,700,7,X,0,t,y,0
+to cost,701,8,X,0,t,t,0
+to act,702,8,X,0,t,t,0
+gorgeous,703,8,X,0,g,s,0
+twice,704,8,X,0,t,e,0
+politics,705,8,X,0,p,s,0
+at night,706,8,X,0,a,t,0
+to order,707,8,X,0,t,r,0
+to burn,708,8,X,0,t,n,0
+means,709,8,X,0,m,s,0
+pool,710,8,X,0,p,l,0
+silence,711,8,X,0,s,e,0
+century,712,8,X,0,c,y,0
+basement,713,8,X,0,b,t,0
+report,714,8,X,0,r,t,0
+board,715,8,X,0,b,d,0
+terrible,716,8,X,0,t,e,0
+cinema,717,8,X,0,c,a,0
+to jump,718,8,X,0,t,p,0
+taxi,719,8,X,0,t,i,0
+worker,720,8,X,0,w,r,0
+device,721,8,X,0,d,e,0
+polite,722,8,X,0,p,e,0
+milk,723,8,X,0,m,k,0
+apology,724,8,X,0,a,y,0
+position,725,8,X,0,p,n,0
+cake,726,8,X,0,c,e,0
+west,727,8,X,0,w,t,0
+fat,728,8,X,0,f,t,0
+ability,729,8,X,0,a,y,0
+common,730,8,X,0,c,n,0
+intention,731,8,X,0,i,n,0
+male,732,8,X,0,m,e,0
+season,733,8,X,0,s,n,0
+whisky,734,8,X,0,w,y,0
+sad,735,8,X,0,s,d,0
+t-shirt,736,8,X,0,t,t,0
+faculty,737,8,X,0,f,y,0
+mess,738,8,X,0,m,s,0
+to fly,739,8,X,0,t,y,0
+garden,740,8,X,0,g,n,0
+equally,741,8,X,0,e,y,0
+alcohol,742,8,X,0,a,l,0
+sugar,743,8,X,0,s,r,0
+juice,744,8,X,0,j,e,0
+appearance,745,8,X,0,a,e,0
+to replace,746,8,X,0,t,e,0
+circumstance,747,8,X,0,c,e,0
+passage,748,8,X,0,p,e,0
+short,749,8,X,0,s,t,0
+encounter,750,8,X,0,e,r,0
+basis,751,8,X,0,b,s,0
+surface,752,8,X,0,s,e,0
+east,753,8,X,0,e,t,0
+station,754,8,X,0,s,n,0
+airport,755,8,X,0,a,t,0
+to use,756,8,X,0,t,e,0
+salt,757,8,X,0,s,t,0
+gorgeously,758,8,X,0,g,y,0
+to borrow,759,8,X,0,t,w,0
+so far,760,8,X,0,s,r,0
+wonderful,761,8,X,0,w,l,0
+priest,762,8,X,0,p,t,0
+health,763,8,X,0,h,h,0
+to hit,764,8,X,0,t,t,0
+pocket,765,8,X,0,p,t,0
+shop,766,8,X,0,s,p,0
+interest,767,8,X,0,i,t,0
+product,768,8,X,0,p,t,0
+simple,769,8,X,0,s,e,0
+doll,770,8,X,0,d,l,0
+gratitude,771,8,X,0,g,e,0
+snake,772,8,X,0,s,e,0
+passenger,773,8,X,0,p,r,0
+golden,774,8,X,0,g,n,0
+to create,775,8,X,0,t,e,0
+north,776,8,X,0,n,h,0
+midnight,777,8,X,0,m,t,0
+aunt,778,8,X,0,a,t,0
+subject,779,8,X,0,s,t,0
+minister,780,8,X,0,m,r,0
+hallway,781,8,X,0,h,y,0
+hat,782,8,X,0,h,t,0
+series,783,8,X,0,s,s,0
+all sorts of things,784,8,X,0,a,s,0
+yard,785,8,X,0,y,d,0
+lesson,786,8,X,0,l,n,0
+Europe,787,8,X,0,E,e,0
+bread,788,8,X,0,b,d,0
+monkey,789,8,X,0,m,y,0
+pupil,790,8,X,0,p,l,0
+activity,791,8,X,0,a,y,0
+expression,792,8,X,0,e,n,0
+thinking,793,8,X,0,t,g,0
+healthy,794,8,X,0,h,y,0
+to publish,795,8,X,0,t,h,0
+to celebrate,796,8,X,0,t,e,0
+south,797,8,X,0,s,h,0
+similar,798,8,X,0,s,r,0
+ocean,799,8,X,0,o,n,0
+wardrobe,800,8,X,0,w,e,0
+to lie down,801,9,X,0,t,n,0
+kiss,802,9,X,0,k,s,0
+kilometer,803,9,X,0,k,r,0
+date,804,9,X,0,d,e,0
+to finish,805,9,X,0,t,h,0
+foreigner,806,9,X,0,f,r,0
+shirt,807,9,X,0,s,t,0
+pleasant,808,9,X,0,p,t,0
+Monday,809,9,X,0,M,y,0
+twenty,810,9,X,0,t,y,0
+to turn,811,9,X,0,t,n,0
+jacket,812,9,X,0,j,t,0
+explanation,813,9,X,0,e,n,0
+couch,814,9,X,0,c,h,0
+to influence,815,9,X,0,t,e,0
+transport,816,9,X,0,t,t,0
+aircraft,817,9,X,0,a,t,0
+post office,818,9,X,0,p,e,0
+ice cream,819,9,X,0,i,m,0
+proposal,820,9,X,0,p,l,0
+step,821,9,X,0,s,p,0
+now,822,9,X,0,n,w,0
+Mexico,823,9,X,0,M,o,0
+kingdom,824,9,X,0,k,m,0
+bear,825,9,X,0,b,r,0
+glasses,826,9,X,0,g,s,0
+chocolate,827,9,X,0,c,e,0
+coat,828,9,X,0,c,t,0
+pizza,829,9,X,0,p,a,0
+exit,830,9,X,0,e,t,0
+lecture,831,9,X,0,l,e,0
+break,832,9,X,0,b,k,0
+to calculate,833,9,X,0,t,e,0
+to divide,834,9,X,0,t,e,0
+stance,835,9,X,0,s,e,0
+student,836,9,X,0,s,t,0
+model,837,9,X,0,m,l,0
+exercise,838,9,X,0,e,e,0
+garage,839,9,X,0,g,e,0
+billion,840,9,X,0,b,n,0
+to cook,841,9,X,0,t,k,0
+scientist,842,9,X,0,s,t,0
+sandwich,843,9,X,0,s,h,0
+oil,844,9,X,0,o,l,0
+expensive,845,9,X,0,e,e,0
+boring,846,9,X,0,b,g,0
+to describe,847,9,X,0,t,e,0
+criminal,848,9,X,0,c,l,0
+to forbid,849,9,X,0,t,d,0
+taste,850,9,X,0,t,e,0
+determined,851,9,X,0,d,d,0
+television,852,9,X,0,t,n,0
+pie,853,9,X,0,p,e,0
+to clean,854,9,X,0,t,n,0
+open,855,9,X,0,o,n,0
+to persuade,856,9,X,0,t,e,0
+Tuesday,857,9,X,0,T,y,0
+surname,858,9,X,0,s,e,0
+laundry,859,9,X,0,l,y,0
+fourth,860,9,X,0,f,h,0
+toy,861,9,X,0,t,y,0
+rarely,862,9,X,0,r,y,0
+noon,863,9,X,0,n,n,0
+audience,864,9,X,0,a,e,0
+to serve,865,9,X,0,t,e,0
+museum,866,9,X,0,m,m,0
+soup,867,9,X,0,s,p,0
+writer,868,9,X,0,w,r,0
+dark,869,9,X,0,d,k,0
+interview,870,9,X,0,i,w,0
+Thursday,871,9,X,0,T,y,0
+apple,872,9,X,0,a,e,0
+everywhere,873,9,X,0,e,e,0
+to throw,874,9,X,0,t,w,0
+quiet,875,9,X,0,q,t,0
+bathroom,876,9,X,0,b,m,0
+business,877,9,X,0,b,s,0
+rose,878,9,X,0,r,e,0
+cafe,879,9,X,0,c,e,0
+to receive,880,9,X,0,t,e,0
+Africa,881,9,X,0,A,a,0
+instruction,882,9,X,0,i,n,0
+symbol,883,9,X,0,s,l,0
+wave,884,9,X,0,w,e,0
+helicopter,885,9,X,0,h,r,0
+first of all,886,9,X,0,f,l,0
+glove,887,9,X,0,g,e,0
+to determine,888,9,X,0,t,e,0
+beauty,889,9,X,0,b,y,0
+quantity,890,9,X,0,q,y,0
+winter,891,9,X,0,w,r,0
+despite,892,9,X,0,d,e,0
+complicated,893,9,X,0,c,d,0
+catastrophe,894,9,X,0,c,e,0
+terrorist,895,9,X,0,t,t,0
+necklace,896,9,X,0,n,e,0
+mild,897,9,X,0,m,d,0
+competition,898,9,X,0,c,n,0
+concert,899,9,X,0,c,t,0
+chicken,900,9,X,0,c,n,0
+weekly,901,10,X,0,w,y,0
+culture,902,10,X,0,c,e,0
+nephew,903,10,X,0,n,w,0
+ouch,904,10,X,0,o,h,0
+hairstyle,905,10,X,0,h,e,0
+costume,906,10,X,0,c,e,0
+running,907,10,X,0,r,g,0
+to progress,908,10,X,0,t,s,0
+actor,909,10,X,0,a,r,0
+pronunciation,910,10,X,0,p,n,0
+impression,911,10,X,0,i,n,0
+snow,912,10,X,0,s,w,0
+boat,913,10,X,0,b,t,0
+training,914,10,X,0,t,g,0
+lower,915,10,X,0,l,r,0
+to demand,916,10,X,0,t,d,0
+walk,917,10,X,0,w,k,0
+boot,918,10,X,0,b,t,0
+football,919,10,X,0,f,l,0
+May,920,10,X,0,M,y,0
+mouse,921,10,X,0,m,e,0
+underpants,922,10,X,0,u,s,0
+to invent,923,10,X,0,t,t,0
+changing cabin,924,10,X,0,c,n,0
+cup,925,10,X,0,c,p,0
+text,926,10,X,0,t,t,0
+to wash,927,10,X,0,t,h,0
+humor,928,10,X,0,h,r,0
+Russian,929,10,X,0,R,n,0
+zero,930,10,X,0,z,o,0
+action,931,10,X,0,a,n,0
+natural,932,10,X,0,n,l,0
+birth,933,10,X,0,b,h,0
+exam,934,10,X,0,e,m,0
+comment,935,10,X,0,c,t,0
+crime,936,10,X,0,c,e,0
+jewelry,937,10,X,0,j,y,0
+wide,938,10,X,0,w,e,0
+smile,939,10,X,0,s,e,0
+onion,940,10,X,0,o,n,0
+league,941,10,X,0,l,e,0
+castle,942,10,X,0,c,e,0
+novel,943,10,X,0,n,l,0
+tasty,944,10,X,0,t,y,0
+needle,945,10,X,0,n,e,0
+line,946,10,X,0,l,e,0
+daily,947,10,X,0,d,y,0
+cash,948,10,X,0,c,h,0
+sport,949,10,X,0,s,t,0
+artist,950,10,X,0,a,t,0
+lady,951,10,X,0,l,y,0
+sock,952,10,X,0,s,k,0
+crowd,953,10,X,0,c,d,0
+to explore,954,10,X,0,t,e,0
+mirror,955,10,X,0,m,r,0
+repairman,956,10,X,0,r,n,0
+to swim,957,10,X,0,t,m,0
+confirmation,958,10,X,0,c,n,0
+to practice,959,10,X,0,t,e,0
+cardigan,960,10,X,0,c,n,0
+thirty,961,10,X,0,t,y,0
+manager,962,10,X,0,m,r,0
+unhappy,963,10,X,0,u,y,0
+tragedy,964,10,X,0,t,y,0
+pencil,965,10,X,0,p,l,0
+dessert,966,10,X,0,d,t,0
+actress,967,10,X,0,a,s,0
+last year,968,10,X,0,l,r,0
+excursion,969,10,X,0,e,n,0
+surgeon,970,10,X,0,s,n,0
+panties,971,10,X,0,p,s,0
+shopping,972,10,X,0,s,g,0
+weather,973,10,X,0,w,r,0
+shower,974,10,X,0,s,r,0
+cook,975,10,X,0,c,k,0
+reading,976,10,X,0,r,g,0
+to paint,977,10,X,0,t,t,0
+to participate,978,10,X,0,t,e,0
+sauce,979,10,X,0,s,e,0
+Chinese,980,10,X,0,C,e,0
+twelve,981,10,X,0,t,e,0
+attentive,982,10,X,0,a,e,0
+fruit,983,10,X,0,f,t,0
+strictly,984,10,X,0,s,y,0
+fifty,985,10,X,0,f,y,0
+to discuss,986,10,X,0,t,s,0
+honey,987,10,X,0,h,y,0
+greeting card,988,10,X,0,g,d,0
+Spanish,989,10,X,0,S,h,0
+traffic,990,10,X,0,t,c,0
+laptop,991,10,X,0,l,p,0
+disc,992,10,X,0,d,c,0
+homework,993,10,X,0,h,k,0
+fan,994,10,X,0,f,n,0
+closed,995,10,X,0,c,d,0
+to pull,996,10,X,0,t,l,0
+waiter,997,10,X,0,w,r,0
+salad,998,10,X,0,s,d,0
+to flow,999,10,X,0,t,w,0
+widow,1000,10,X,0,w,w,0
+pillow,1001,11,X,0,p,w,0
+in the south,1002,11,X,0,i,h,0
+spring,1003,11,X,0,s,g,0
+flower,1004,11,X,0,f,r,0
+grandson,1005,11,X,0,g,n,0
+stay,1006,11,X,0,s,y,0
+carpet,1007,11,X,0,c,t,0
+steak,1008,11,X,0,s,k,0
+whale,1009,11,X,0,w,e,0
+writing,1010,11,X,0,w,g,0
+object,1011,11,X,0,o,t,0
+to delight,1012,11,X,0,t,t,0
+exact,1013,11,X,0,e,t,0
+statue,1014,11,X,0,s,e,0
+grammatical gender,1015,11,X,0,g,r,0
+British,1016,11,X,0,B,h,0
+September,1017,11,X,0,S,r,0
+communication,1018,11,X,0,c,n,0
+fifteen,1019,11,X,0,f,n,0
+piano,1020,11,X,0,p,o,0
+journal,1021,11,X,0,j,l,0
+nail,1022,11,X,0,n,l,0
+clerk,1023,11,X,0,c,k,0
+playing,1024,11,X,0,p,g,0
+course,1025,11,X,0,c,e,0
+learning,1026,11,X,0,l,g,0
+pancake,1027,11,X,0,p,e,0
+cocktail,1028,11,X,0,c,l,0
+theater,1029,11,X,0,t,r,0
+movement,1030,11,X,0,m,t,0
+entrance ticket,1031,11,X,0,e,t,0
+someone else's,1032,11,X,0,s,s,0
+euro,1033,11,X,0,e,o,0
+to organize,1034,11,X,0,t,e,0
+equipment,1035,11,X,0,e,t,0
+addition,1036,11,X,0,a,n,0
+to test,1037,11,X,0,t,t,0
+microphone,1038,11,X,0,m,e,0
+tie,1039,11,X,0,t,e,0
+total,1040,11,X,0,t,l,0
+occupation,1041,11,X,0,o,n,0
+homemade,1042,11,X,0,h,e,0
+present,1043,11,X,0,p,t,0
+plate,1044,11,X,0,p,e,0
+on foot,1045,11,X,0,o,t,0
+guitar,1046,11,X,0,g,r,0
+elevator,1047,11,X,0,e,r,0
+potato,1048,11,X,0,p,o,0
+vegetables,1049,11,X,0,v,s,0
+furniture,1050,11,X,0,f,e,0
+to take out,1051,11,X,0,t,t,0
+warm,1052,11,X,0,w,m,0
+butter,1053,11,X,0,b,r,0
+China,1054,11,X,0,C,a,0
+Wednesday,1055,11,X,0,W,y,0
+small thing,1056,11,X,0,s,g,0
+Frenchman,1057,11,X,0,F,n,0
+festival,1058,11,X,0,f,l,0
+salesman,1059,11,X,0,s,n,0
+hall,1060,11,X,0,h,l,0
+towel,1061,11,X,0,t,l,0
+to have dinner,1062,11,X,0,t,r,0
+curious,1063,11,X,0,c,s,0
+thirsty,1064,11,X,0,t,y,0
+united,1065,11,X,0,u,d,0
+April,1066,11,X,0,A,l,0
+opera,1067,11,X,0,o,a,0
+to light,1068,11,X,0,t,t,0
+northern,1069,11,X,0,n,n,0
+atmosphere,1070,11,X,0,a,e,0
+Iraq,1071,11,X,0,I,q,0
+Croatian,1072,11,X,0,C,n,0
+toast,1073,11,X,0,t,t,0
+July,1074,11,X,0,J,y,0
+flag,1075,11,X,0,f,g,0
+bright,1076,11,X,0,b,t,0
+salon,1077,11,X,0,s,n,0
+library,1078,11,X,0,l,y,0
+sports,1079,11,X,0,s,s,0
+popular,1080,11,X,0,p,r,0
+Japanese,1081,11,X,0,J,e,0
+positive,1082,11,X,0,p,e,0
+socializing,1083,11,X,0,s,g,0
+parking lot,1084,11,X,0,p,t,0
+curtain,1085,11,X,0,c,n,0
+small cabinet,1086,11,X,0,s,t,0
+passport,1087,11,X,0,p,t,0
+ending,1088,11,X,0,e,g,0
+engineer,1089,11,X,0,e,r,0
+frame,1090,11,X,0,f,e,0
+uniform,1091,11,X,0,u,m,0
+dad's,1092,11,X,0,d,s,0
+buyer,1093,11,X,0,b,r,0
+founded,1094,11,X,0,f,d,0
+slow,1095,11,X,0,s,w,0
+drama,1096,11,X,0,d,a,0
+eleven,1097,11,X,0,e,n,0
+fresh,1098,11,X,0,f,h,0
+bra,1099,11,X,0,b,a,0
+hard,1100,11,X,0,h,d,0
+luggage,1101,12,X,0,l,e,0
+balloon,1102,12,X,0,b,n,0
+director,1103,12,X,0,d,r,0
+Briton,1104,12,X,0,B,n,0
+photographer,1105,12,X,0,p,r,0
+to express,1106,12,X,0,t,s,0
+revolution,1107,12,X,0,r,n,0
+to be silent,1108,12,X,0,t,t,0
+June,1109,12,X,0,J,e,0
+fantastic,1110,12,X,0,f,c,0
+Russia,1111,12,X,0,R,a,0
+cheerful,1112,12,X,0,c,l,0
+chips,1113,12,X,0,c,s,0
+TV set,1114,12,X,0,T,t,0
+yellow,1115,12,X,0,y,w,0
+Italian,1116,12,X,0,I,n,0
+children's,1117,12,X,0,c,s,0
+aloud,1118,12,X,0,a,d,0
+roommate,1119,12,X,0,r,e,0
+March,1120,12,X,0,M,h,0
+India,1121,12,X,0,I,a,0
+premiere,1122,12,X,0,p,e,0
+October,1123,12,X,0,O,r,0
+Italy,1124,12,X,0,I,y,0
+to compare,1125,12,X,0,t,e,0
+adverb,1126,12,X,0,a,b,0
+to bake,1127,12,X,0,t,e,0
+everything,1128,12,X,0,e,g,0
+she,1129,12,X,0,s,e,0
+too much,1130,12,X,0,t,h,0
+annual,1131,12,X,0,a,l,0
+correct,1132,12,X,0,c,t,0
+tidy,1133,12,X,0,t,y,0
+singular,1134,12,X,0,s,r,0
+deep,1135,12,X,0,d,p,0
+opposite,1136,12,X,0,o,e,0
+foreign,1137,12,X,0,f,n,0
+pumpkin,1138,12,X,0,p,n,0
+Frenchwoman,1139,12,X,0,F,n,0
+to fill,1140,12,X,0,t,l,0
+direct,1141,12,X,0,d,t,0
+square,1142,12,X,0,s,e,0
+portal,1143,12,X,0,p,l,0
+equal,1144,12,X,0,e,l,0
+complex,1145,12,X,0,c,x,1
+to pick,1146,12,X,0,t,k,0
+unknown,1147,12,X,0,u,n,0
+surroundings,1148,12,X,0,s,s,0
+unpleasant,1149,12,X,0,u,t,0
+acquaintance,1150,12,X,0,a,e,0
+romantic,1151,12,X,0,r,c,0
+negative,1152,12,X,0,n,e,0
+eastern,1153,12,X,0,e,n,0
+southern,1154,12,X,0,s,n,0
+practical,1155,12,X,0,p,l,0
+national,1156,12,X,0,n,l,0
+to recommend,1157,12,X,0,t,d,0
+Hungarian,1158,12,X,0,H,n,0
+western,1159,12,X,0,w,n,0
+brown,1160,12,X,0,b,n,0
+cheap,1161,12,X,0,c,p,0
+beef,1162,12,X,0,b,f,0
+Mexican,1163,12,X,0,M,n,0
+modern,1164,12,X,0,m,n,0
+upper,1165,12,X,0,u,r,0
+brilliant,1166,12,X,0,b,t,0
+strict,1167,12,X,0,s,t,0
+to phone,1168,12,X,0,t,e,0
+classic,1169,12,X,0,c,c,0
+general,1170,12,X,0,g,l,0
+purple,1171,12,X,0,p,e,0
+comfortable,1172,12,X,0,c,e,0
+to reserve,1173,12,X,0,t,e,0
+Greek,1174,12,X,0,G,k,0
+lamp,1175,12,X,0,l,p,0
+pink,1176,12,X,0,p,k,0
+gray,1177,12,X,0,g,y,0
+souvenir,1178,12,X,0,s,r,0
+sneaker,1179,12,X,0,s,r,0
+armchair,1180,12,X,0,a,r,0
+to count,1181,12,X,0,t,t,0
+England,1182,12,X,0,E,d,0
+tap,1183,12,X,0,t,p,0
+to have lunch,1184,12,X,0,t,h,0
+marketplace,1185,12,X,0,m,e,0
+delay,1186,12,X,0,d,y,0
+France,1187,12,X,0,F,e,0
+bathing place,1188,12,X,0,b,e,0
+Indian,1189,12,X,0,I,n,0
+granddaughter,1190,12,X,0,g,r,0
+with,1191,12,X,0,w,h,0
+cave,1192,12,X,0,c,e,0
+holiday,1193,12,X,0,h,y,0
+yesterday's,1194,12,X,0,y,s,0
+Germany,1195,12,X,0,G,y,0
+thin,1196,12,X,0,t,n,0
+typical,1197,12,X,0,t,l,0
+academy,1198,12,X,0,a,y,0
+elegant,1199,12,X,0,e,t,0
+tomato,1200,12,X,0,t,o,0
+active,1201,13,X,0,a,e,0
+saleswoman,1202,13,X,0,s,n,0
+concrete,1203,13,X,0,c,e,0
+jeans,1204,13,X,0,j,s,0
+regret,1205,13,X,0,r,t,0
+cousin,1206,13,X,0,c,n,0
+traditional,1207,13,X,0,t,l,0
+Finnish,1208,13,X,0,F,h,0
+Finn,1209,13,X,0,F,n,0
+pasta,1210,13,X,0,p,a,0
+spider,1211,13,X,0,s,r,0
+thick,1212,13,X,0,t,k,0
+politician,1213,13,X,0,p,n,0
+use,1214,13,X,0,u,e,0
+fashion,1215,13,X,0,f,n,0
+rice,1216,13,X,0,r,e,0
+to train,1217,13,X,0,t,n,0
+narrow,1218,13,X,0,n,w,0
+donut,1219,13,X,0,d,t,0
+monthly,1220,13,X,0,m,y,0
+proverb,1221,13,X,0,p,b,0
+sixth,1222,13,X,0,s,h,0
+peasant,1223,13,X,0,p,t,0
+sentence,1224,13,X,0,s,e,0
+frequent,1225,13,X,0,f,t,0
+sunny,1226,13,X,0,s,y,0
+lazy,1227,13,X,0,l,y,0
+mathematics,1228,13,X,0,m,s,0
+singer,1229,13,X,0,s,r,0
+fork,1230,13,X,0,f,k,0
+elephant,1231,13,X,0,e,t,0
+county,1232,13,X,0,c,y,0
+November,1233,13,X,0,N,r,0
+frog,1234,13,X,0,f,g,0
+Canada,1235,13,X,0,C,a,0
+European,1236,13,X,0,E,n,0
+Afghanistan,1237,13,X,0,A,n,0
+Korean,1238,13,X,0,K,n,0
+teenager,1239,13,X,0,t,r,0
+Canadian,1240,13,X,0,C,n,0
+seventh,1241,13,X,0,s,h,0
+delighted,1242,13,X,0,d,d,0
+candy,1243,13,X,0,c,y,0
+highway,1244,13,X,0,h,y,0
+drawer,1245,13,X,0,d,r,0
+August,1246,13,X,0,A,t,0
+turkey,1247,13,X,0,t,y,0
+to brush,1248,13,X,0,t,h,0
+to have breakfast,1249,13,X,0,t,t,0
+Spain,1250,13,X,0,S,n,0
+December,1251,13,X,0,D,r,0
+shell,1252,13,X,0,s,l,0
+drawing,1253,13,X,0,d,g,0
+tourist,1254,13,X,0,t,t,0
+corn,1255,13,X,0,c,n,0
+Scottish,1256,13,X,0,S,h,0
+ground floor,1257,13,X,0,g,r,0
+exhibition,1258,13,X,0,e,n,0
+zoological,1259,13,X,0,z,l,0
+Turkish,1260,13,X,0,T,h,0
+icy,1261,13,X,0,i,y,0
+bicycle,1262,13,X,0,b,e,0
+creative,1263,13,X,0,c,e,0
+skirt,1264,13,X,0,s,t,0
+January,1265,13,X,0,J,y,0
+mushroom,1266,13,X,0,m,m,0
+ferry,1267,13,X,0,f,y,0
+niece,1268,13,X,0,n,e,0
+scholarship,1269,13,X,0,s,p,0
+to communicate,1270,13,X,0,t,e,0
+liter,1271,13,X,0,l,r,0
+forty,1272,13,X,0,f,y,0
+spoon,1273,13,X,0,s,n,0
+orange,1274,13,X,0,o,e,0
+sausage,1275,13,X,0,s,e,0
+mechanic,1276,13,X,0,m,c,0
+independent,1277,13,X,0,i,t,0
+to spend the summer,1278,13,X,0,t,r,0
+oven,1279,13,X,0,o,n,0
+Dutch,1280,13,X,0,D,h,0
+Dutchwoman,1281,13,X,0,D,n,0
+matching,1282,13,X,0,m,g,0
+banana,1283,13,X,0,b,a,0
+probability,1284,13,X,0,p,y,0
+insect,1285,13,X,0,i,t,0
+Polish,1286,13,X,0,P,h,0
+Pole,1287,13,X,0,P,e,0
+republic,1288,13,X,0,r,c,0
+chemical,1289,13,X,0,c,l,0
+salty,1290,13,X,0,s,y,0
+Egyptian,1291,13,X,0,E,n,0
+February,1292,13,X,0,F,y,0
+doctor's office,1293,13,X,0,d,e,0
+baron,1294,13,X,0,b,n,0
+suitcase,1295,13,X,0,s,e,0
+toilet,1296,13,X,0,t,t,0
+comic book,1297,13,X,0,c,k,0
+to write down,1298,13,X,0,t,n,0
+dentist,1299,13,X,0,d,t,0
+makeup,1300,13,X,0,m,p,0
+Swedish,1301,14,X,0,S,h,0
+to save,1302,14,X,0,t,e,0
+mainland,1303,14,X,0,m,d,0
+attic,1304,14,X,0,a,c,0
+shelf,1305,14,X,0,s,f,0
+avenue,1306,14,X,0,a,e,0
+Swiss,1307,14,X,0,S,s,0
+to suggest,1308,14,X,0,t,t,0
+physics,1309,14,X,0,p,s,0
+muffin,1310,14,X,0,m,n,0
+walnut,1311,14,X,0,w,t,0
+to photograph,1312,14,X,0,t,h,0
+the day after tomorrow,1313,14,X,0,t,w,0
+summer vacation,1314,14,X,0,s,n,0
+painter,1315,14,X,0,p,r,0
+statement,1316,14,X,0,s,t,0
+basketball,1317,14,X,0,b,l,0
+lemon,1318,14,X,0,l,n,0
+post,1319,14,X,0,p,t,0
+bracelet,1320,14,X,0,b,t,0
+irresponsible,1321,14,X,0,i,e,0
+resident,1322,14,X,0,r,t,0
+official,1323,14,X,0,o,l,0
+ham,1324,14,X,0,h,m,0
+gallery,1325,14,X,0,g,y,0
+speaker,1326,14,X,0,s,r,0
+institution,1327,14,X,0,i,n,0
+carrot,1328,14,X,0,c,t,0
+autumn,1329,14,X,0,a,n,0
+eighth,1330,14,X,0,e,h,0
+balcony,1331,14,X,0,b,y,0
+hairdresser,1332,14,X,0,h,r,0
+cream,1333,14,X,0,c,m,0
+dean,1334,14,X,0,d,n,0
+pantry,1335,14,X,0,p,y,0
+helpful,1336,14,X,0,h,l,0
+trait,1337,14,X,0,t,t,0
+horror,1338,14,X,0,h,r,0
+public,1339,14,X,0,p,c,0
+athlete,1340,14,X,0,a,e,0
+spaghetti,1341,14,X,0,s,i,0
+Switzerland,1342,14,X,0,S,d,0
+vegetarian,1343,14,X,0,v,n,0
+peach,1344,14,X,0,p,h,0
+lemonade,1345,14,X,0,l,e,0
+architect,1346,14,X,0,a,t,0
+Irish,1347,14,X,0,I,h,0
+small town,1348,14,X,0,s,n,0
+cookie,1349,14,X,0,c,e,0
+Iraqi,1350,14,X,0,I,i,0
+pajamas,1351,14,X,0,p,s,0
+category,1352,14,X,0,c,y,0
+two hundred,1353,14,X,0,t,d,0
+discount,1354,14,X,0,d,t,0
+verb,1355,14,X,0,v,b,0
+dining room,1356,14,X,0,d,m,0
+settlement,1357,14,X,0,s,t,0
+postcard,1358,14,X,0,p,d,0
+painting,1359,14,X,0,p,g,0
+ninth,1360,14,X,0,n,h,0
+in autumn,1361,14,X,0,i,n,0
+dimension,1362,14,X,0,d,n,0
+singing,1363,14,X,0,s,g,0
+chemistry,1364,14,X,0,c,y,0
+etc.,1365,14,X,0,e,.,1
+sour,1366,14,X,0,s,r,0
+Australian,1367,14,X,0,A,n,0
+stadium,1368,14,X,0,s,m,0
+sixteen,1369,14,X,0,s,n,0
+railway,1370,14,X,0,r,y,0
+author,1371,14,X,0,a,r,0
+strawberry,1372,14,X,0,s,y,0
+menu,1373,14,X,0,m,u,0
+e.g.,1374,14,X,0,e,.,1
+housewife,1375,14,X,0,h,e,0
+grapes,1376,14,X,0,g,s,0
+earring,1377,14,X,0,e,g,0
+quality,1378,14,X,0,q,y,0
+practicing,1379,14,X,0,p,g,0
+favorable,1380,14,X,0,f,e,0
+pyramid,1381,14,X,0,p,d,0
+semester,1382,14,X,0,s,r,0
+hardworking,1383,14,X,0,h,g,0
+Ireland,1384,14,X,0,I,d,0
+ancient,1385,14,X,0,a,t,0
+sweater,1386,14,X,0,s,r,0
+yogurt,1387,14,X,0,y,t,0
+Pakistani,1388,14,X,0,P,i,0
+tenth,1389,14,X,0,t,h,0
+pharmacy,1390,14,X,0,p,y,0
+to sightsee,1391,14,X,0,t,e,0
+volcano,1392,14,X,0,v,o,0
+musical,1393,14,X,0,m,l,0
+cucumber,1394,14,X,0,c,r,0
+commercial,1395,14,X,0,c,l,0
+to symbolize,1396,14,X,0,t,e,0
+yoga,1397,14,X,0,y,a,0
+specialty,1398,14,X,0,s,y,0
+sixty,1399,14,X,0,s,y,0
+five hundred,1400,14,X,0,f,d,0
+jam,1401,15,X,0,j,m,0
+dissatisfied,1402,15,X,0,d,d,0
+vitamin,1403,15,X,0,v,n,0
+gym,1404,15,X,0,g,m,0
+continent,1405,15,X,0,c,t,0
+irregular,1406,15,X,0,i,r,0
+blazer,1407,15,X,0,b,r,0
+flu,1408,15,X,0,f,u,0
+scarf,1409,15,X,0,s,f,0
+playground,1410,15,X,0,p,d,0
+initial,1411,15,X,0,i,l,0
+unforgettable,1412,15,X,0,u,e,0
+likeable,1413,15,X,0,l,e,0
+Scotland,1414,15,X,0,S,d,0
+pepper,1415,15,X,0,p,r,0
+documentary,1416,15,X,0,d,y,0
+theoretical,1417,15,X,0,t,l,0
+Brazilian,1418,15,X,0,B,n,0
+pea,1419,15,X,0,p,a,0
+ballet,1420,15,X,0,b,t,0
+seventeen,1421,15,X,0,s,n,0
+napkin,1422,15,X,0,n,n,0
+umbrella,1423,15,X,0,u,a,0
+region,1424,15,X,0,r,n,0
+biology,1425,15,X,0,b,y,0
+cabbage,1426,15,X,0,c,e,0
+irony,1427,15,X,0,i,y,0
+loud,1428,15,X,0,l,d,0
+Norwegian,1429,15,X,0,N,n,0
+terrace,1430,15,X,0,t,e,0
+landmark,1431,15,X,0,l,k,0
+garlic,1432,15,X,0,g,c,0
+watermelon,1433,15,X,0,w,n,0
+invention,1434,15,X,0,i,n,0
+thirteen,1435,15,X,0,t,n,0
+fourteen,1436,15,X,0,f,n,0
+origin,1437,15,X,0,o,n,0
+skiing,1438,15,X,0,s,g,0
+flour,1439,15,X,0,f,r,0
+shocked,1440,15,X,0,s,d,0
+Easter,1441,15,X,0,E,r,0
+Iranian,1442,15,X,0,I,n,0
+tennis,1443,15,X,0,t,s,0
+eighteen,1444,15,X,0,e,n,0
+philosophy,1445,15,X,0,p,y,0
+theatrical,1446,15,X,0,t,l,0
+Egypt,1447,15,X,0,E,t,0
+the day before yesterday,1448,15,X,0,t,y,0
+comedy,1449,15,X,0,c,y,0
+slipper,1450,15,X,0,s,r,0
+appetizer,1451,15,X,0,a,r,0
+climate,1452,15,X,0,c,e,0
+Pakistan,1453,15,X,0,P,n,0
+Poland,1454,15,X,0,P,d,0
+Britain,1455,15,X,0,B,n,0
+veal,1456,15,X,0,v,l,0
+reader,1457,15,X,0,r,r,0
+kindergarten,1458,15,X,0,k,n,0
+stream,1459,15,X,0,s,m,0
+dialogue,1460,15,X,0,d,e,0
+backpack,1461,15,X,0,b,k,0
+bookstore,1462,15,X,0,b,e,0
+national team,1463,15,X,0,n,m,0
+Belgian,1464,15,X,0,B,n,0
+notebook,1465,15,X,0,n,k,0
+understanding,1466,15,X,0,u,g,0
+diplomat,1467,15,X,0,d,t,0
+magnet,1468,15,X,0,m,t,0
+Greece,1469,15,X,0,G,e,0
+footballer,1470,15,X,0,f,r,0
+interrogative,1471,15,X,0,i,e,0
+long-lasting,1472,15,X,0,l,g,0
+untidy,1473,15,X,0,u,y,0
+ski,1474,15,X,0,s,i,0
+spacious,1475,15,X,0,s,s,0
+Ukrainian,1476,15,X,0,U,n,0
+sink,1477,15,X,0,s,k,0
+ingredient,1478,15,X,0,i,t,0
+Romanian,1479,15,X,0,R,n,0
+passive,1480,15,X,0,p,e,0
+vanilla,1481,15,X,0,v,a,0
+Afghan,1482,15,X,0,A,n,0
+formula,1483,15,X,0,f,a,0
+plural,1484,15,X,0,p,l,0
+uncertainty,1485,15,X,0,u,y,0
+calendar,1486,15,X,0,c,r,0
+Sweden,1487,15,X,0,S,n,0
+Norway,1488,15,X,0,N,y,0
+archaeologist,1489,15,X,0,a,t,0
+to fall in love,1490,15,X,0,t,e,0
+shallow,1491,15,X,0,s,w,0
+chapter,1492,15,X,0,c,r,0
+Serbian,1493,15,X,0,S,n,0
+blog,1494,15,X,0,b,g,0
+unlikeable,1495,15,X,0,u,e,0
+Portuguese,1496,15,X,0,P,e,0
+stand,1497,15,X,0,s,d,0
+Estonian,1498,15,X,0,E,n,0
+Austrian,1499,15,X,0,A,n,0
+stork,1500,15,X,0,s,k,0
+caffeine,1501,16,X,0,c,e,0
+slim,1502,16,X,0,s,m,0
+eighty,1503,16,X,0,e,y,0
+diet,1504,16,X,0,d,t,0
+function,1505,16,X,0,f,n,0
+tram,1506,16,X,0,t,m,0
+refusal,1507,16,X,0,r,l,0
+stove,1508,16,X,0,s,e,0
+alphabet,1509,16,X,0,a,t,0
+seventy,1510,16,X,0,s,y,0
+cherry,1511,16,X,0,c,y,0
+sour cherry,1512,16,X,0,s,y,0
+parking,1513,16,X,0,p,g,0
+Czech,1514,16,X,0,C,h,0
+Advent,1515,16,X,0,A,t,0
+aerobics,1516,16,X,0,a,s,0
+affirmative,1517,16,X,0,a,e,0
+ajvar,1518,16,X,0,a,r,0
+on sale,1519,16,X,0,o,e,0
+accusative case,1520,16,X,0,a,e,0
+aquarium,1521,16,X,0,a,m,0
+amphitheater,1522,16,X,0,a,r,0
+pineapple,1523,16,X,0,p,e,0
+antifascist,1524,16,X,0,a,t,0
+Argentine,1525,16,X,0,A,e,0
+studio,1526,16,X,0,s,o,0
+attraction,1527,16,X,0,a,n,0
+vending machine,1528,16,X,0,v,e,0
+car wash,1529,16,X,0,c,h,0
+by hitchhiking,1530,16,X,0,b,g,0
+Russian nesting doll,1531,16,X,0,R,l,0
+Bajadera,1532,16,X,0,B,a,0
+ballet flat,1533,16,X,0,b,t,0
+bambus,1534,16,X,0,b,s,0
+ban,1535,16,X,0,b,n,0
+ATM,1536,16,X,0,A,M,0
+bevanda,1537,16,X,0,b,a,0
+impersonal,1538,16,X,0,i,l,0
+cash register,1539,16,X,0,c,r,0
+chard,1540,16,X,0,c,d,0
+blogger,1541,16,X,0,b,r,0
+blouse,1542,16,X,0,b,e,0
+to be afraid,1543,16,X,0,t,d,0
+crayon,1544,16,X,0,c,n,0
+boxer shorts,1545,16,X,0,b,s,0
+box of chocolates,1546,16,X,0,b,s,0
+basil,1547,16,X,0,b,l,0
+botanical garden,1548,16,X,0,b,n,0
+broccoli,1549,16,X,0,b,i,0
+to wake up,1550,16,X,0,t,p,0
+Bulgarian,1551,16,X,0,B,n,0
+burek,1552,16,X,0,b,k,0
+Cedevita,1553,16,X,0,C,a,0
+cinnamon,1554,16,X,0,c,n,0
+cartoon,1555,16,X,0,c,n,0
+hyphen,1556,16,X,0,h,n,0
+Little Red Riding Hood,1557,16,X,0,L,d,0
+flower shop,1558,16,X,0,f,p,0
+cauliflower,1559,16,X,0,c,r,0
+congratulating,1560,16,X,0,c,g,0
+comb,1561,16,X,0,c,b,0
+to comb one's hair,1562,16,X,0,t,r,0
+four hundred,1563,16,X,0,f,d,0
+brush,1564,16,X,0,b,h,0
+fourteenth,1565,16,X,0,f,h,0
+Chilean,1566,16,X,0,C,n,0
+to seem,1567,16,X,0,t,m,0
+to be surprised,1568,16,X,0,t,d,0
+ćevap,1569,16,X,0,ć,p,0
+ćevapčić,1570,16,X,0,ć,ć,0
+distant,1571,16,X,0,d,t,0
+distance,1572,16,X,0,d,e,0
+dative case,1573,16,X,0,d,e,0
+giving,1574,16,X,0,g,g,0
+to decline,1575,16,X,0,t,e,0
+destination,1576,16,X,0,d,n,0
+detergent,1577,16,X,0,d,t,0
+ninety,1578,16,X,0,n,y,0
+nineteen,1579,16,X,0,n,n,0
+nineteenth,1580,16,X,0,n,h,0
+nine hundred,1581,16,X,0,n,d,0
+dynamic,1582,16,X,0,d,c,0
+dynamism,1583,16,X,0,d,m,0
+directive,1584,16,X,0,d,e,0
+discussing,1585,16,X,0,d,g,0
+living room,1586,16,X,0,l,m,0
+to await,1587,16,X,0,t,t,0
+to happen,1588,16,X,0,t,n,0
+arranging,1589,16,X,0,a,g,0
+to agree,1590,16,X,0,t,e,0
+documentary film,1591,16,X,0,d,m,0
+turtleneck,1592,16,X,0,t,k,0
+homeland,1593,16,X,0,h,d,0
+to supplement,1594,16,X,0,t,t,0
+permitting,1595,16,X,0,p,g,0
+drugstore,1596,16,X,0,d,e,0
+to socialize,1597,16,X,0,t,e,0
+wooden,1598,16,X,0,w,n,0
+statehood,1599,16,X,0,s,d,0
+soup plate,1600,16,X,0,s,e,0
+Dubrovnik,1601,17,X,0,D,k,0
+length,1602,17,X,0,l,h,0
+twentieth,1603,17,X,0,t,h,0
+twelfth,1604,17,X,0,t,h,0
+two-thousandth,1605,17,X,0,t,h,0
+two-seater sofa,1606,17,X,0,t,a,0
+pocket money,1607,17,X,0,p,y,0
+ginger,1608,17,X,0,g,r,0
+economist,1609,17,X,0,e,t,0
+elegance,1610,17,X,0,e,e,0
+essay,1611,17,X,0,e,y,0
+philosophical,1612,17,X,0,p,l,0
+fjord,1613,17,X,0,f,d,0
+flute,1614,17,X,0,f,e,0
+marker,1615,17,X,0,m,r,0
+fountain,1616,17,X,0,f,n,0
+formal,1617,17,X,0,f,l,0
+formally,1618,17,X,0,f,y,0
+idiom,1619,17,X,0,i,m,0
+hairdressing,1620,17,X,0,h,g,0
+future tense,1621,17,X,0,f,e,0
+geyser,1622,17,X,0,g,r,0
+gemišt,1623,17,X,0,g,t,0
+genitive case,1624,17,X,0,g,e,0
+iron,1625,17,X,0,i,n,0
+verbal,1626,17,X,0,v,l,0
+Glagolitic priest,1627,17,X,0,G,t,0
+Glagolitic script,1628,17,X,0,G,t,0
+gluten,1629,17,X,0,g,n,0
+spoken,1630,17,X,0,s,n,0
+grapheme,1631,17,X,0,g,e,0
+graffiti,1632,17,X,0,g,i,0
+grammatical,1633,17,X,0,g,l,0
+grammar,1634,17,X,0,g,r,0
+coat of arms,1635,17,X,0,c,s,0
+to hug,1636,17,X,0,t,g,0
+goulash,1637,17,X,0,g,h,0
+pet name,1638,17,X,0,p,e,0
+Honduran,1639,17,X,0,H,n,0
+hostel,1640,17,X,0,h,l,0
+acted,1641,17,X,0,a,d,0
+feature film,1642,17,X,0,f,m,0
+to play,1643,17,X,0,t,y,0
+icon,1644,17,X,0,i,n,0
+name day,1645,17,X,0,n,y,0
+noun,1646,17,X,0,n,n,0
+nominal,1647,17,X,0,n,l,0
+to improvise,1648,17,X,0,t,e,0
+indirect,1649,17,X,0,i,t,0
+infinitive,1650,17,X,0,i,e,0
+IT specialist,1651,17,X,0,I,t,0
+to inform,1652,17,X,0,t,m,0
+innovation,1653,17,X,0,i,n,0
+inspiration,1654,17,X,0,i,n,0
+installation,1655,17,X,0,i,n,0
+instrumental case,1656,17,X,0,i,e,0
+to interview,1657,17,X,0,t,w,0
+inversion,1658,17,X,0,i,n,0
+Icelandic,1659,17,X,0,I,c,0
+apologizing,1660,17,X,0,a,g,0
+to apologize,1661,17,X,0,t,e,0
+letting out,1662,17,X,0,l,t,0
+east of,1663,17,X,0,e,f,0
+declarative,1664,17,X,0,d,e,0
+to rent,1665,17,X,0,t,t,0
+to carry out,1666,17,X,0,t,t,0
+to omit,1667,17,X,0,t,t,0
+inventor,1668,17,X,0,i,r,0
+Adriatic,1669,17,X,0,A,c,0
+lamb,1670,17,X,0,l,b,0
+to report in,1671,17,X,0,t,n,0
+eleventh,1672,17,X,0,e,h,0
+to sail,1673,17,X,0,t,l,0
+linguistic,1674,17,X,0,l,c,0
+south of,1675,17,X,0,s,f,0
+South African,1676,17,X,0,S,n,0
+calculator,1677,17,X,0,c,r,0
+stone,1678,17,X,0,s,e,0
+canteen,1679,17,X,0,c,n,0
+characteristic,1680,17,X,0,c,c,0
+Karlovac,1681,17,X,0,K,c,0
+carnival,1682,17,X,0,c,l,0
+to play cards,1683,17,X,0,t,s,0
+catalog,1684,17,X,0,c,g,0
+Qatari,1685,17,X,0,Q,i,0
+cathedral,1686,17,X,0,c,l,0
+chestnut,1687,17,X,0,c,t,0
+kiosk,1688,17,X,0,k,k,0
+paintbrush,1689,17,X,0,p,h,0
+ice skater,1690,17,X,0,i,r,0
+kangaroo,1691,17,X,0,k,o,0
+clog,1692,17,X,0,c,g,0
+librarian,1693,17,X,0,l,n,0
+koala,1694,17,X,0,k,a,0
+to combine,1695,17,X,0,t,e,0
+communicative,1696,17,X,0,c,e,0
+conditional mood,1697,17,X,0,c,d,0
+concretely,1698,17,X,0,c,y,0
+consonant,1699,17,X,0,c,t,0
+to construct,1700,17,X,0,t,t,0
+consultation,1701,18,X,0,c,n,0
+to conjugate,1702,18,X,0,t,e,0
+football boot,1703,18,X,0,f,t,0
+promenade,1704,18,X,0,p,e,0
+basketball player,1705,18,X,0,b,r,0
+cosmetologist,1706,18,X,0,c,t,0
+cosmetic,1707,18,X,0,c,c,0
+cream cake,1708,18,X,0,c,e,0
+pear,1709,18,X,0,p,r,0
+small house,1710,18,X,0,s,e,0
+kulen,1711,18,X,0,k,n,0
+cult,1712,18,X,0,c,t,0
+cultured,1713,18,X,0,c,d,0
+market vendor,1714,18,X,0,m,r,0
+kuna,1715,18,X,0,k,a,0
+swimsuit,1716,18,X,0,s,t,0
+to bathe,1717,18,X,0,t,e,0
+malfunction,1718,18,X,0,m,n,0
+vocabulary,1719,18,X,0,v,y,0
+editor,1720,18,X,0,e,r,0
+personal pronoun,1721,18,X,0,p,n,0
+squid,1722,18,X,0,s,d,0
+liqueur,1723,18,X,0,l,r,0
+linguist,1724,18,X,0,l,t,0
+lime tree; lipa,1725,18,X,0,l,a,0
+locative case,1726,18,X,0,l,e,0
+locomotive,1727,18,X,0,l,e,0
+pot,1728,18,X,0,p,t,0
+to play ball,1729,18,X,0,t,l,0
+laurel,1730,18,X,0,l,l,0
+in summer,1731,18,X,0,i,r,0
+to kiss,1732,18,X,0,t,s,0
+swing,1733,18,X,0,s,g,0
+to be angry,1734,18,X,0,t,y,0
+green bean,1735,18,X,0,g,n,0
+marathon,1736,18,X,0,m,n,0
+apricot,1737,18,X,0,a,t,0
+olive,1738,18,X,0,o,e,0
+material,1739,18,X,0,m,l,0
+Mediterranean,1740,18,X,0,M,n,0
+butcher shop,1741,18,X,0,b,p,0
+microwave oven,1742,18,X,0,m,n,0
+mineral,1743,18,X,0,m,l,0
+mineral water,1744,18,X,0,m,r,0
+miniskirt,1745,18,X,0,m,t,0
+dairy product,1746,18,X,0,d,t,0
+mlinci,1747,18,X,0,m,i,0
+ground,1748,18,X,0,g,d,0
+modal,1749,18,X,0,m,l,0
+national park,1750,18,X,0,n,k,0
+nationality,1751,18,X,0,n,y,0
+to draw,1752,18,X,0,t,w,0
+to hope,1753,18,X,0,t,e,0
+to emphasize,1754,18,X,0,t,e,0
+stressed,1755,18,X,0,s,d,0
+nylon stockings,1756,18,X,0,n,s,0
+to be located,1757,18,X,0,t,d,0
+for example,1758,18,X,0,f,e,0
+ordering,1759,18,X,0,o,g,0
+toasting,1760,18,X,0,t,g,0
+lamplighter,1761,18,X,0,l,r,0
+skyscraper,1762,18,X,0,s,r,0
+not far from,1763,18,X,0,n,m,0
+informal,1764,18,X,0,i,l,0
+informally,1765,18,X,0,i,y,0
+negation,1766,18,X,0,n,n,0
+to deny,1767,18,X,0,t,y,0
+disapproval,1768,18,X,0,d,l,0
+uncommunicative,1769,18,X,0,u,e,0
+unfriendly,1770,18,X,0,u,y,0
+unstressed,1771,18,X,0,u,d,0
+indecisiveness,1772,18,X,0,i,s,0
+non-palatal consonant,1773,18,X,0,n,t,0
+movable a,1774,18,X,0,m,a,0
+non-working,1775,18,X,0,n,g,0
+unrealistic,1776,18,X,0,u,c,0
+atypical,1777,18,X,0,a,l,0
+incorrect,1778,18,X,0,i,t,0
+incorrectly,1779,18,X,0,i,y,0
+disbelief,1780,18,X,0,d,f,0
+inanimate,1781,18,X,0,i,e,0
+nominative case,1782,18,X,0,n,e,0
+offering,1783,18,X,0,o,g,0
+necessity,1784,18,X,0,n,y,0
+care,1785,18,X,0,c,e,0
+gnocchi,1786,18,X,0,g,i,0
+to mark,1787,18,X,0,t,k,0
+explanatory,1788,18,X,0,e,y,0
+to get dressed,1789,18,X,0,t,d,0
+addressing,1790,18,X,0,a,g,0
+to address,1791,18,X,0,t,s,0
+footwear,1792,18,X,0,f,r,0
+vinegar,1793,18,X,0,v,r,0
+father's,1794,18,X,0,f,s,0
+to act out,1795,18,X,0,t,t,0
+to rest,1796,18,X,0,t,t,0
+to relate,1797,18,X,0,t,e,0
+to take place,1798,18,X,0,t,e,0
+unfolding,1799,18,X,0,u,g,0
+Olympic Games,1800,18,X,0,O,s,0
+descriptive,1801,19,X,0,d,e,0
+organ,1802,19,X,0,o,n,0
+eighteenth,1803,19,X,0,e,h,0
+eight hundred,1804,19,X,0,e,d,0
+to feel,1805,19,X,0,t,l,0
+basic,1806,19,X,0,b,c,0
+depending,1807,19,X,0,d,g,0
+to get married,1808,19,X,0,t,d,0
+grammatical case,1809,19,X,0,g,e,0
+parachute,1810,19,X,0,p,e,0
+palatal consonant,1811,19,X,0,p,t,0
+palm tree,1812,19,X,0,p,e,0
+stationery shop,1813,19,X,0,s,p,0
+to park,1814,19,X,0,t,k,0
+partitive genitive,1815,19,X,0,p,e,0
+Pag,1816,19,X,0,P,g,0
+eggplant,1817,19,X,0,e,t,0
+pastry,1818,19,X,0,p,y,0
+bakery,1819,19,X,0,b,y,0
+perfect tense,1820,19,X,0,p,e,0
+parsley,1821,19,X,0,p,y,0
+fifteenth,1822,19,X,0,f,h,0
+mountaineer,1823,19,X,0,m,r,0
+mountaineering,1824,19,X,0,m,g,0
+to hike,1825,19,X,0,t,e,0
+gas,1826,19,X,0,g,s,0
+dinner plate,1827,19,X,0,d,e,0
+to treat,1828,19,X,0,t,t,0
+to match,1829,19,X,0,t,h,0
+entrepreneur,1830,19,X,0,e,r,0
+pass,1831,19,X,0,p,s,0
+showing,1832,19,X,0,s,g,0
+demonstrative,1833,19,X,0,d,e,0
+gift-giving,1834,19,X,0,g,g,0
+to give as a gift,1835,19,X,0,t,t,0
+gift voucher,1836,19,X,0,g,r,0
+peninsula,1837,19,X,0,p,a,0
+repetition,1838,19,X,0,r,n,0
+to repair,1839,19,X,0,t,r,0
+order,1840,19,X,0,o,r,0
+possessor,1841,19,X,0,p,r,0
+to help oneself,1842,19,X,0,t,f,0
+to tidy up,1843,19,X,0,t,p,0
+to achieve,1844,19,X,0,t,e,0
+dishes,1845,19,X,0,d,s,0
+possessive pronoun,1846,19,X,0,p,n,0
+possessiveness,1847,19,X,0,p,s,0
+undershirt,1848,19,X,0,u,t,0
+to teach,1849,19,X,0,t,h,0
+to vomit,1850,19,X,0,t,t,0
+reflexive pronoun,1851,19,X,0,r,n,0
+reflexive verb,1852,19,X,0,r,b,0
+inviting,1853,19,X,0,i,g,0
+to wash oneself,1854,19,X,0,t,f,0
+spelling,1855,19,X,0,s,g,0
+proposing,1856,19,X,0,p,g,0
+prefix,1857,19,X,0,p,x,1
+too little,1858,19,X,0,t,e,0
+prime minister,1859,19,X,0,p,r,0
+to transform,1860,19,X,0,t,m,0
+too serious,1861,19,X,0,t,s,0
+to copy,1862,19,X,0,t,y,0
+to retell,1863,19,X,0,t,l,0
+to recalculate,1864,19,X,0,t,e,0
+previous,1865,19,X,0,p,s,0
+present tense,1866,19,X,0,p,e,0
+presentation,1867,19,X,0,p,n,0
+to present,1868,19,X,0,t,t,0
+to approach,1869,19,X,0,t,h,0
+adjective,1870,19,X,0,a,e,0
+adjectival,1871,19,X,0,a,l,0
+reception,1872,19,X,0,r,n,0
+recipient,1873,19,X,0,r,t,0
+coastal region,1874,19,X,0,c,n,0
+belonging,1875,19,X,0,b,g,0
+in doing so,1876,19,X,0,i,o,0
+to land,1877,19,X,0,t,d,0
+selling,1878,19,X,0,s,g,0
+forecast,1879,19,X,0,f,t,0
+programmer,1880,19,X,0,p,r,0
+to design,1881,19,X,0,t,n,0
+passer-by,1882,19,X,0,p,y,0
+to miss,1883,19,X,0,t,s,0
+prosciutto,1884,19,X,0,p,o,0
+to fry,1885,19,X,0,t,y,0
+signpost,1886,19,X,0,s,t,0
+travelogue,1887,19,X,0,t,e,0
+radler,1888,19,X,0,r,r,0
+study,1889,19,X,0,s,y,0
+workday,1890,19,X,0,w,y,0
+working hours,1891,19,X,0,w,s,0
+to look forward to,1892,19,X,0,t,o,0
+rafting,1893,19,X,0,r,g,0
+rakija,1894,19,X,0,r,a,0
+inquiring,1895,19,X,0,i,g,0
+to sell out,1896,19,X,0,t,t,0
+to look around,1897,19,X,0,t,d,0
+to differ,1898,19,X,0,t,r,0
+to sort,1899,19,X,0,t,t,0
+realistic,1900,19,X,0,r,c,0
+ordinal,1901,20,X,0,o,l,0
+reflexive,1902,20,X,0,r,e,0
+racket,1903,20,X,0,r,t,0
+recreation,1904,20,X,0,r,n,0
+to relax,1905,20,X,0,t,x,1
+relief,1906,20,X,0,r,f,0
+masterpiece,1907,20,X,0,m,e,0
+belt,1908,20,X,0,b,t,0
+fish shop,1909,20,X,0,f,p,0
+Rijeka,1910,20,X,0,R,a,0
+waterfront promenade,1911,20,X,0,w,e,0
+dictionary,1912,20,X,0,d,y,0
+to be born,1913,20,X,0,t,n,0
+roller skate,1914,20,X,0,r,e,0
+to dive,1915,20,X,0,t,e,0
+cape,1916,20,X,0,c,e,0
+handball,1917,20,X,0,h,l,0
+handball player,1918,20,X,0,h,r,0
+to shake hands,1919,20,X,0,t,s,0
+rosemary,1920,20,X,0,r,y,0
+to contain,1921,20,X,0,t,n,0
+salami,1922,20,X,0,s,i,0
+independently,1923,20,X,0,i,y,0
+sandal,1924,20,X,0,s,l,0
+sarma,1925,20,X,0,s,a,0
+to meet,1926,20,X,0,t,t,0
+to consist,1927,20,X,0,t,t,0
+seventeenth,1928,20,X,0,s,h,0
+seven hundred,1929,20,X,0,s,d,0
+sister's,1930,20,X,0,s,s,0
+sibilarization,1931,20,X,0,s,n,0
+phrase,1932,20,X,0,p,e,0
+to remember,1933,20,X,0,t,r,0
+to recall,1934,20,X,0,t,l,0
+north of,1935,20,X,0,n,f,0
+scanner,1936,20,X,0,s,r,0
+to scan,1937,20,X,0,t,n,0
+to ski,1938,20,X,0,t,i,0
+sculpture,1939,20,X,0,s,e,0
+pastry shop,1940,20,X,0,p,p,0
+Slavic,1941,20,X,0,S,c,0
+picture book,1942,20,X,0,p,k,0
+syllable,1943,20,X,0,s,e,0
+listening,1944,20,X,0,l,g,0
+located,1945,20,X,0,l,d,0
+solar,1946,20,X,0,s,r,0
+bedroom,1947,20,X,0,b,m,0
+specific,1948,20,X,0,s,c,0
+sex,1949,20,X,0,s,x,1
+monument,1950,20,X,0,m,t,0
+silver,1951,20,X,0,s,r,0
+Central European,1952,20,X,0,C,n,0
+housing,1953,20,X,0,h,g,0
+staticness,1954,20,X,0,s,s,0
+stethoscope,1955,20,X,0,s,e,0
+small table,1956,20,X,0,s,e,0
+hundredth,1957,20,X,0,h,h,0
+uncle's,1958,20,X,0,u,s,0
+dormitory,1959,20,X,0,d,y,0
+to study,1960,20,X,0,t,y,0
+column,1961,20,X,0,c,n,0
+conversation partner,1962,20,X,0,c,r,0
+beach umbrella,1963,20,X,0,b,a,0
+to sunbathe,1964,20,X,0,t,e,0
+everyday,1965,20,X,0,e,y,0
+liking,1966,20,X,0,l,g,0
+to be liked,1967,20,X,0,t,d,0
+to shine,1968,20,X,0,t,e,0
+pork,1969,20,X,0,p,k,0
+light gray,1970,20,X,0,l,y,0
+to joke,1971,20,X,0,t,e,0
+sixteenth,1972,20,X,0,s,h,0
+sixtieth,1973,20,X,0,s,h,0
+whipped cream,1974,20,X,0,w,m,0
+plum,1975,20,X,0,p,m,0
+high heel,1976,20,X,0,h,l,0
+nerd,1977,20,X,0,n,d,0
+tablet,1978,20,X,0,t,t,0
+leggings,1979,20,X,0,l,s,0
+so-so,1980,20,X,0,s,o,0
+dark blue,1981,20,X,0,d,e,0
+dark gray,1982,20,X,0,d,y,0
+small plate,1983,20,X,0,s,e,0
+tennis player,1984,20,X,0,t,r,0
+hot water bottle,1985,20,X,0,h,e,0
+Corpus Christi,1986,20,X,0,C,i,0
+dough,1987,20,X,0,d,h,0
+zucchini,1988,20,X,0,z,i,0
+i.e.,1989,20,X,0,i,.,1
+blood pressure monitor,1990,20,X,0,b,r,0
+duration,1991,20,X,0,d,n,0
+searching,1992,20,X,0,s,g,0
+tracksuit,1993,20,X,0,t,t,0
+thirtieth,1994,20,X,0,t,h,0
+thriller,1995,20,X,0,t,r,0
+thirteenth,1996,20,X,0,t,h,0
+three-seater sofa,1997,20,X,0,t,a,0
+tunic,1998,20,X,0,t,c,0
+touristic,1999,20,X,0,t,c,0
+shower cabin,2000,20,X,0,s,n,0
+to form,2001,21,X,0,t,m,0
+classroom,2002,21,X,0,c,m,0
+to move away,2003,21,X,0,t,y,0
+textbook,2004,21,X,0,t,k,0
+to unite,2005,21,X,0,t,e,0
+decoration,2006,21,X,0,d,n,0
+to decorate,2007,21,X,0,t,e,0
+to insert,2008,21,X,0,t,t,0
+retiree,2009,21,X,0,r,e,0
+washbasin,2010,21,X,0,w,n,0
+to become customary,2011,21,X,0,t,y,0
+to enroll,2012,21,X,0,t,l,0
+interrogative form,2013,21,X,0,i,m,0
+question mark,2014,21,X,0,q,k,0
+to get acquainted,2015,21,X,0,t,d,0
+getting acquainted,2016,21,X,0,g,d,0
+exclamatory,2017,21,X,0,e,y,0
+exclamation mark,2018,21,X,0,e,k,0
+oral,2019,21,X,0,o,l,0
+orally,2020,21,X,0,o,y,0
+orientation,2021,21,X,0,o,n,0
+to direct,2022,21,X,0,t,t,0
+funicular,2023,21,X,0,f,r,0
+to get excited,2024,21,X,0,t,d,0
+waffle,2025,21,X,0,w,e,0
+water polo player,2026,21,X,0,w,r,0
+vase,2027,21,X,0,v,e,0
+joy,2028,21,X,0,j,y,0
+rower,2029,21,X,0,r,r,0
+weekend house,2030,21,X,0,w,e,0
+hanging,2031,21,X,0,h,g,0
+fruit shop,2032,21,X,0,f,p,0
+vowel,2033,21,X,0,v,l,0
+to drive,2034,21,X,0,t,e,0
+to return,2035,21,X,0,t,n,0
+zoo,2036,21,X,0,z,o,0
+to have fun,2037,21,X,0,t,n,0
+spice,2038,21,X,0,s,e,0
+to season,2039,21,X,0,t,n,0
+Zadar,2040,21,X,0,Z,r,0
+bracket,2041,21,X,0,b,t,0
+Zagreb,2042,21,X,0,Z,b,0
+Zagreb resident,2043,21,X,0,Z,t,0
+thanking,2044,21,X,0,t,g,0
+pronoun,2045,21,X,0,p,n,0
+to be interested,2046,21,X,0,t,d,0
+to circle,2047,21,X,0,t,e,0
+west of,2048,21,X,0,w,f,0
+final,2049,21,X,0,f,l,0
+winter vacation,2050,21,X,0,w,n,0
+to spend the winter,2051,21,X,0,t,r,0
+digit,2052,21,X,0,d,t,0
+oatmeal,2053,21,X,0,o,l,0
+railway station,2054,21,X,0,r,n,0
+cable car,2055,21,X,0,c,r,0
+grain,2056,21,X,0,g,n,0
+liveliness,2057,21,X,0,l,s,0
+teaspoon,2058,21,X,0,t,n,0
+to hurry,2059,21,X,0,t,y,0
+African,2060,21,X,0,A,n,0
+Albania,2061,21,X,0,A,a,0
+Albanian,2062,21,X,0,A,n,0
+Belgium,2063,21,X,0,B,m,0
+Bolivia,2064,21,X,0,B,a,0
+Bolivian,2065,21,X,0,B,n,0
+Bosnia and Herzegovina,2066,21,X,0,B,a,0
+Bosnian,2067,21,X,0,B,n,0
+Herzegovinian,2068,21,X,0,H,n,0
+Bulgaria,2069,21,X,0,B,a,0
+Czechia,2070,21,X,0,C,a,0
+Chile,2071,21,X,0,C,e,0
+Englishman,2072,21,X,0,E,n,0
+Englishwoman,2073,21,X,0,E,n,0
+Estonia,2074,21,X,0,E,a,0
+Finland,2075,21,X,0,F,d,0
+Honduras,2076,21,X,0,H,s,0
+Croatia,2077,21,X,0,C,a,0
+Croat,2078,21,X,0,C,t,0
+Indonesia,2079,21,X,0,I,a,0
+Indonesian,2080,21,X,0,I,n,0
+Iran,2081,21,X,0,I,n,0
+Irishman,2082,21,X,0,I,n,0
+Irishwoman,2083,21,X,0,I,n,0
+Iceland,2084,21,X,0,I,d,0
+Icelander,2085,21,X,0,I,r,0
+Japan,2086,21,X,0,J,n,0
+Qatar,2087,21,X,0,Q,r,0
+Kazakhstan,2088,21,X,0,K,n,0
+Kazakh,2089,21,X,0,K,h,0
+Korea,2090,21,X,0,K,a,0
+Lithuania,2091,21,X,0,L,a,0
+Lithuanian,2092,21,X,0,L,n,0
+Hungary,2093,21,X,0,H,y,0
+Morocco,2094,21,X,0,M,o,0
+Moroccan,2095,21,X,0,M,n,0
+Netherlands,2096,21,X,0,N,s,0
+Dutchman,2097,21,X,0,D,n,0
+Paraguay,2098,21,X,0,P,y,0
+Paraguayan,2099,21,X,0,P,n,0
+Portugal,2100,21,X,0,P,l,0
+Romania,2101,22,X,0,R,a,0
+Syria,2102,22,X,0,S,a,0
+Syrian,2103,22,X,0,S,n,0
+Slovakia,2104,22,X,0,S,a,0
+Slovak,2105,22,X,0,S,k,0
+Slovenia,2106,22,X,0,S,a,0
+Slovenian,2107,22,X,0,S,n,0
+Serbia,2108,22,X,0,S,a,0
+Scot,2109,22,X,0,S,t,0
+Spaniard,2110,22,X,0,S,d,0
+Swede,2111,22,X,0,S,e,0
+Turkey,2112,22,X,0,T,y,0
+Turk,2113,22,X,0,T,k,0
+Ukraine,2114,22,X,0,U,e,0
+Uruguay,2115,22,X,0,U,y,0
+Uruguayan,2116,22,X,0,U,n,0
