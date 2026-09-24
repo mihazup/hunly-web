@@ -48493,11 +48493,11 @@ else{r=o.a.x
 r===$&&A.a()
 s=r>0.5}if(s){r=o.a
 r.z=B.aM
-r.kQ(1,B.j6,B.oL)}else{if(n)o.b.ee()
+r.kQ(1,B.j6,B.oK)}else{if(n)o.b.ee()
 r=o.a
 q=r.r
 if(q!=null&&q.a!=null){r.z=B.je
-r.kQ(0,B.j6,B.oL)}}q=r.r
+r.kQ(0,B.j6,B.oK)}}q=r.r
 if(q!=null&&q.a!=null){p=A.c1()
 p.b=new A.aob(o,p)
 q=p.b1()
@@ -54903,7 +54903,7 @@ o=t.Y
 j=$.aOE()
 i=o.i("eU<aq.T>")
 q.ay=new A.az(l.a(m),new A.eU(j,new A.at(s*0.3,s+5,o),i),i.i("az<aq.T>"))
-p=A.bB(h,B.oM,h,h,p)
+p=A.bB(h,B.oL,h,h,p)
 p.bh()
 p.ct$.D(0,n)
 p.bh()
@@ -54928,7 +54928,7 @@ s.bZ()
 s=this.db
 s===$&&A.a()
 s.z=B.aM
-s.kQ(1,B.a7,B.oM)},
+s.kQ(1,B.a7,B.oL)},
 b5(){var s,r=this,q=r.cx
 q===$&&A.a()
 q.ft()
@@ -57282,10 +57282,10 @@ i=q.gaX()
 m=k.a=l.e
 p=l.d
 if(p!=null&&r!==p.b){if(m!=null&&m.b!=null)m.b5()
-k.a=A.cb(B.oN,new A.ayH(l))}l.K(new A.ayI(k,l,new A.j(q.a,r),new A.j(n-i.a,s-r)))},
+k.a=A.cb(B.oM,new A.ayH(l))}l.K(new A.ayI(k,l,new A.j(q.a,r),new A.j(n-i.a,s-r)))},
 J(a){var s,r=this.d,q=r.b
 r=r.a
-s=this.e!=null?B.oN:B.F
+s=this.e!=null?B.oM:B.F
 return A.aGG(new A.Nm(this.f,null),B.a7,s,r,q)}}
 A.ayH.prototype={
 $0(){var s=this.a
@@ -93725,7 +93725,7 @@ return A.n($async$ur,r)},
 Dy(){var s=0,r=A.o(t.N),q,p=this,o
 var $async$Dy=A.p(function(a,b){if(a===1)return A.l(b,r)
 for(;;)switch(s){case 0:s=3
-return A.e(p.rh("/kikerdezes/question","{}",B.oK),$async$Dy)
+return A.e(p.rh("/kikerdezes/question","{}",B.oN),$async$Dy)
 case 3:o=b.h(0,"question")
 if(typeof o!="string"||o.length===0)throw A.i(B.dL)
 q=o
@@ -93738,7 +93738,7 @@ a5c(a,b){var s=0,r=A.o(t.sn),q,p=this,o,n,m,l
 var $async$yG=A.p(function(c,d){if(c===1)return A.l(d,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.e(p.rh("/kikerdezes/answer",B.bQ.Cu(A.a1(["written",b,"pronunciation",a],o,o),null),B.oK),$async$yG)
+return A.e(p.rh("/kikerdezes/answer",B.bQ.Cu(A.a1(["written",b,"pronunciation",a],o,o),null),B.oN),$async$yG)
 case 3:n=d
 m=n.h(0,"score")
 l=n.h(0,"feedback")
@@ -102789,16 +102789,16 @@ B.Gm=new A.aX(225e3)
 B.oJ=new A.aX(25e4)
 B.Gn=new A.aX(2961926e3)
 B.cO=new A.aX(3e5)
-B.oK=new A.aX(3e7)
-B.oL=new A.aX(35e4)
-B.oM=new A.aX(375e3)
+B.oK=new A.aX(35e4)
+B.oL=new A.aX(375e3)
 B.Go=new A.aX(4e4)
 B.Gq=new A.aX(45e3)
 B.Gr=new A.aX(45e4)
 B.dc=new A.aX(5e4)
 B.dY=new A.aX(5e5)
 B.f4=new A.aX(6e5)
-B.oN=new A.aX(7e4)
+B.oM=new A.aX(7e4)
+B.oN=new A.aX(9e7)
 B.Gs=new A.aX(-38e3)
 B.Gt=new A.a4A(0,"tonalSpot")
 B.Gu=new A.cV(0,4,0,4)
